@@ -1,0 +1,1512 @@
+[Rachel Joy Forshaw] 09:05:40
+We're recording, great. So I will… I have to save the, it had a pop-up for me. It might have the same for you just Yeah.
+
+[Juan Pablo Posada Aparicio] 09:05:41
+Stop recording.
+
+[Rachel Joy Forshaw] 09:05:53
+So I will start by going around each person and asking you two things.
+
+[Rachel Joy Forshaw] 09:05:59
+First of all, what treatment arm were you in?
+
+[Rachel Joy Forshaw] 09:06:03
+For the first replication game. So are you human cyborg or cyborg or machine and what motivated you to take part in the replication games?
+
+[Rachel Joy Forshaw] 09:06:16
+He wants to go first.
+
+[Participant 2] 09:06:22
+I I can start. I I was in in the team human, and my my motivation was the twofold. First I already participate in another replication game, and I enjoyed it.
+
+[Participant 2] 09:06:31
+Quite much, and the second is that I. Think this is really an important issue.
+
+[Participant 2] 09:06:39
+Kind of the general transparency and replicability movement. But also in the context, like whether Ai can help in that context.
+
+[Rachel Joy Forshaw] 09:06:48
+Thank you. Yeah. Who wants to go next? Go ahead, Arkan.
+
+[Participant 3] 09:06:54
+So I was in a cyborg team where we were able to use both the AI and our own skills to do the replication. The reason that I joined, I was also involved with another replication game in the past. And I enjoyed it quite a bit. And that was actually in person in London. This was completely virtual, but still I think the fun is similar. So yeah, and I also thought it's an important issue and very, you know.
+
+[Participant 3] 09:07:23
+Very, very relevant issue to our day, whether or not we are going to be able to like use ai in productive ways and especially like replicability is one of the you know fundamental issues of war.
+
+[Participant 3] 09:07:37
+Social science fields and you know um if AI could help, I thought, you know, that that would really uh be a good piece of information to learn.
+
+[Rachel Joy Forshaw] 09:07:48
+So contemporary relevance. Who would like to go next? Go ahead, Felix.
+
+[Participant 3] 09:07:48
+Yeah.
+
+[Participant 1] 09:07:55
+Yes, thanks. I was in the machine treatment. And for me, it was the first time that I participated in one of these replication games, but I thought Colleagues recommended. And I just thought it was a really interesting question from a research perspective.
+
+[Participant 1] 09:08:18
+But also for myself. As I was not as i was a frequent user of these AI tools. I thought, okay, I want to learn for myself like what can they do it? What can we do with them and maybe learn something from my
+
+[Participant 1] 09:08:36
+Own work as well.
+
+[Rachel Joy Forshaw] 09:08:38
+Thank you. Do you want to go next, Wenting?
+
+[Participant 4] 09:08:41
+Yeah, sure. I was in a cyborg group. The reason I participated was the information was circulated within my organization And a few friends and I thought it would be fun to do it together.
+
+[Francisco Bahamonde Birke] 09:08:58
+Do you have previous experiences with this kind of games or not?
+
+[Participant 4] 09:09:03
+Oh, no, it was the first time I participated.
+
+[Rachel Joy Forshaw] 09:09:09
+Thank you.
+
+[Rachel Joy Forshaw] 09:09:14
+So you've already told me your familiarity with replication. Reproducibility work. What I'd like to know next is before participating, what were your expectations around the role that AI would play in your work? And I realize, Jan, you being on a human team.
+
+[Rachel Joy Forshaw] 09:09:34
+Your expectation is probably Zero. Feel free to talk on this, but I'm particularly talking to the cyborg and machine.
+
+[Rachel Joy Forshaw] 09:09:44
+Teams, what your expectations about the role of AI would be.
+
+[Participant 3] 09:09:51
+Is this before we played the game or off after like expectation
+
+[Rachel Joy Forshaw] 09:09:55
+Beforehand, yes.
+
+[Francisco Bahamonde Birke] 09:10:00
+Rachel, may I interrupt a little bit? I think it would be good if the guys can tell us whether they have also experience replicating things not in the context of games before like replicating code or reviewing code before and
+
+[Rachel Joy Forshaw] 09:10:02
+You may.
+
+[Francisco Bahamonde Birke] 09:10:16
+And doing replicability, but not in the context of a game or maybe a paper or whatever.
+
+[Rachel Joy Forshaw] 09:10:21
+Sure.
+
+[Participant 4] 09:10:25
+I could go first. So I… replication package for my own papers.
+
+[Rachel Joy Forshaw] 09:10:28
+Please.
+
+[Participant 4] 09:10:35
+And when I do empirical work sometimes i replicate other people's papers just to get familiar with the message So a bit of experience with that.
+
+[Participant 4] 09:10:47
+I also used AI in my own work to textual analysis.
+
+[Participant 4] 09:10:51
+So I'm quite familiar with the technology. When I sign up for the game, my expectation for the use of AI is we would provide it with the code and maybe say there's some coding mistakes And so GPT would point out here's the coding mistakes
+
+[Participant 4] 09:11:12
+I can talk about what happened during the game, if there's a later on question.
+
+[Rachel Joy Forshaw] 09:11:19
+We'll definitely get to that. Thank you. Yes, let's just stick to the question of replication in your general work though for now.
+
+[Participant 4] 09:11:21
+Okay. So, but that was my expectation. Yeah.
+
+[Rachel Joy Forshaw] 09:11:27
+I will come back to that.
+
+[Participant 4] 09:11:27
+Yeah, yeah, sounds good.
+
+[Participant 1] 09:11:33
+And so I've also done some replication of other papers for my own work.
+
+[Participant 1] 09:11:41
+So. Yeah, but… not quite sure how to define it, actually. So I developed a new method and then replicated part of an analysis of a previous paper and then use my own method on it.
+
+[Participant 1] 09:12:00
+And I've also participated in a study where we replicated simulation study so kind of similar set up as this replication game just much smaller.
+
+[Participant 1] 09:12:15
+Scale.
+
+[Rachel Joy Forshaw] 09:12:16
+Okay, thank you. Anyone else want to explain any other replication or reproducibility that they've done as part of their research?
+
+[Rachel Joy Forshaw] 09:12:27
+Or work. Go ahead, Jan.
+
+[Participant 2] 09:12:28
+Maybe I can continue.
+
+[Participant 2] 09:12:32
+I try to reproduce my own older papers and what I wanted to provide the code.
+
+[Participant 2] 09:12:39
+And then I also teach a course where students are asked to uh.
+
+[Participant 2] 09:12:46
+Replicate or reproduce existing articles, using like one one data set.
+
+[Rachel Joy Forshaw] 09:12:52
+Thank you.
+
+[Rachel Joy Forshaw] 09:13:01
+Okay, so let's move on to that question about expectations, about the role of AI.
+
+[Rachel Joy Forshaw] 09:13:06
+Prior to that first replication event, what were the expectations you would have about the role AI would play in your team's work before the event?
+
+[Rachel Joy Forshaw] 09:13:16
+Go ahead, Arkan.
+
+[Participant 3] 09:13:19
+So I guess I wouldn't be able to say whether if you just compare the human only and AI only teams, I wouldn't be able to say which one would come first.
+
+[Participant 3] 09:13:30
+Which one would beat the other. But I was almost like quite sure that the team with AI and the human capabilities would be the top team that would kind of come on top because you know you have the whole skill set um
+
+[Participant 3] 09:13:51
+And so I was… by the results of the study.
+
+[Rachel Joy Forshaw] 09:13:51
+And what's business? What about specifically in your team's work? How would it play a role?
+
+[Rachel Joy Forshaw] 09:13:59
+What were your expectations?
+
+[Participant 3] 09:14:01
+So I guess, I mean, so replicating a paper and I guess So.
+
+[Participant 3] 09:14:08
+At least my team, we had some prior expectation before playing the game, given the instructions that we received that there may be things in the replication files that we were sent that might be you know mistaken or troubling so we were kind of looking for mistakes already kind of we were kind of alert
+
+[Participant 3] 09:14:31
+On the mistakes. So when you're doing a replication, I guess, by yourself, you don't start with that assumption per se, right? You assume that, okay, there's a published paper, here is our application package. Let me see what they're called, how their code worked overall well you don't really
+
+[Participant 3] 09:14:47
+Try to look into the how I can disprove this code.
+
+[Participant 3] 09:14:51
+So I guess there's there's a slight difference in that sense.
+
+[Participant 3] 09:14:57
+Like we at least my team started from the very beginning with this mindset of, you know.
+
+[Participant 3] 09:15:02
+There is likely to be mistakes in the scope. Let's find them out.
+
+[Rachel Joy Forshaw] 09:15:06
+And did that change how you expected you would use AI?
+
+[Participant 3] 09:15:07
+Right?
+
+[Participant 3] 09:15:13
+Um… I'm not sure if that changed it, but I think that it made us a bit more alert into like, you know, looking into the code more closely As like, you know, as human beings, even if you were not using AI, I think we would look more closely
+
+[Participant 3] 09:15:30
+But then when I thought about our experience, which was first, I don't know if you need to get into our experience of what we did.
+
+[Participant 3] 09:15:39
+At this stage. But I mean, when I talk about We'll come to that. Okay, I can mention that later. But yeah, later on, I kind of in an exposed sense, I made sense of our findings in my own way
+
+[Rachel Joy Forshaw] 09:15:40
+We'll return to that.
+
+[Participant 3] 09:15:52
+But yeah, in the beginning these were not my expectations. I thought the team with the AI and human capabilities would be the best team for application with YAM.
+
+[Rachel Joy Forshaw] 09:16:04
+Thank you. Who else would like to share their expectations of the role that AI would play?
+
+[Rachel Joy Forshaw] 09:16:12
+In your team's work. Go ahead, Felix.
+
+[Participant 1] 09:16:17
+Yeah, so I was in the machine treatment a group and a group Yeah, well, expectation more like the hope or the promise of AI for us was like, yeah, okay, we just upload the folder and uh AI sorts out
+
+[Participant 1] 09:16:37
+The everything for us and we will have the reproduce the result in in like 10 minutes But I think we all went in with the mindset that this is not going to work.
+
+[Participant 1] 09:16:49
+And we all also had, as Arcon said, the same expectation that probably the cyborg a combination would be most powerful.
+
+[Participant 1] 09:16:59
+And I also recognize of course the the primer that there is something there is something wrong that we need to detect something And the expectation was that the use of AI would just be extremely time-saving.
+
+[Participant 1] 09:17:19
+Compared to like the human only condition.
+
+[Rachel Joy Forshaw] 09:17:26
+So you were quite hopeful that AI would be helpful to you. Is that right?
+
+[Participant 1] 09:17:33
+Yes, and especially time saving. Or making uh making more efficient being more efficient and getting an overview of like all the files all the parts of the code and like being able to be directed at the important bits or the problematic bits faster.
+
+[Rachel Joy Forshaw] 09:17:36
+Okay.
+
+[Rachel Joy Forshaw] 09:18:02
+Okay, thank you. Who would like to go next on this question?
+
+[Participant 4] 09:18:11
+I can go. We had a similar expectation as as felix.
+
+[Rachel Joy Forshaw] 09:18:12
+Good one thing. Please.
+
+[Participant 4] 09:18:21
+The people we were working on was sort of slightly outside of our wheelhouse. It's an io paper So one thing we hoped that AI will help us is to explain what the paper was about and maybe give some directions of where to start um
+
+[Participant 4] 09:18:40
+We noticed some mistakes with the papers so we're hoping that it might give us like a big picture direction The second is that there's a lot of files in the replication package.
+
+[Participant 4] 09:18:52
+And we're sort of hoping that it will give us a sense the structure of the reputation package and where to start first.
+
+[Participant 4] 09:19:03
+Yeah.
+
+[Rachel Joy Forshaw] 09:19:04
+Okay, thank you. Jan, I want to give you the opportunity if you want to say anything, but I'm aware you're on the human team.
+
+[Participant 2] 09:19:16
+Um. Yes, I think in the process I didn't have any expectations, but in in the process I thought, okay, we're so good as a human team. The machine will hardly beat us.
+
+[Rachel Joy Forshaw] 09:19:30
+Okay. Thank you so much.
+
+[Francisco Bahamonde Birke] 09:19:33
+I also would like to ask whether you have a familiar with ChatGPT or similar software in the past, how familiar were you with them
+
+[Participant 2] 09:19:45
+To me, or in general.
+
+[Francisco Bahamonde Birke] 09:19:47
+In general but you can start.
+
+[Participant 2] 09:19:50
+Okay. Uh. So. I used it before, but kind of when when this introduction came, I was really surprised, because I never thought about this. Um.
+
+[Participant 2] 09:20:00
+The chance to use chat Gpt. For tasks like this reproduction exercise. So I found this training.
+
+[Participant 2] 09:20:05
+Quite helpful, was a bit disappointed.
+
+[Participant 1] 09:20:14
+Yeah, so I've also used it before, but as I said, not a frequent user and also was more skeptical and definitely learned a few tips and tricks during the training Yeah, but nothing groundbreaking.
+
+[Francisco Bahamonde Birke] 09:20:34
+Short follow-up. Chatgpt or other software?
+
+[Participant 1] 09:20:38
+Mostly ChatGPT, but also other software Well, actually, let me think.
+
+[Participant 1] 09:20:46
+Because it was like last november right so at that point, maybe not so much other software here
+
+[Rachel Joy Forshaw] 09:20:59
+Go ahead, Hoken.
+
+[Participant 3] 09:21:01
+So I had also used ChatGPT before, but never for replication purposes of this sort.
+
+[Participant 3] 09:21:07
+Like in the game, I did use it for, you know.
+
+[Participant 3] 09:21:11
+Paraphrasing, rephrasing text. Files and i think i did use it maybe a couple of times for like coding purposes, like to check, you know, how a certain code would work, I think on state stator.
+
+[Participant 3] 09:21:25
+A couple of times. But yeah, so I was… Yeah, I think I was quite unfamiliar with how it will work for a replication exercise. I had never done it before the game.
+
+[Rachel Joy Forshaw] 09:21:49
+Are you wanting to come in there, Wenting?
+
+[Participant 4] 09:21:52
+Yeah, I also had casual experience with ChatGPT at that point.
+
+[Participant 4] 09:21:59
+I think the most advanced I've used it for maybe is to debug a script.
+
+[Participant 4] 09:22:04
+But at the time, the model was was not as good as it is now as it is now don't have a lot of experience.
+
+[Participant 4] 09:22:13
+It was from engineering either um but casual used
+
+[Francisco Bahamonde Birke] 09:22:20
+So coding purposes I'm looking now back at the Felix and Participant 2 You also use that for coding purposes or you're inventing or not so much
+
+[Participant 2] 09:22:35
+I haven't used it for coding
+
+[Participant 1] 09:22:40
+No, I also don't think so at that point.
+
+[Rachel Joy Forshaw] 09:22:53
+Okay, let's move on then to move on then thinking about more about AI use and direction. So this, again, apologies to Jan, it will be focused on those in the cyborg.
+
+[Rachel Joy Forshaw] 09:23:07
+Teams. Can you describe how your team used ChatGPT during the games?
+
+[Rachel Joy Forshaw] 09:23:20
+Yes, go ahead, you can.
+
+[Participant 3] 09:23:24
+So how we use the chat gpt um I think we started with kind of with the assumption of let's just go through the code by ourselves.
+
+[Participant 3] 09:23:34
+So at first we haven't used it at all. We kind of tried to do it as if like we are I was in the cyborg team. And then I think we did like one round of checking And… After that, what I think…
+
+[Participant 3] 09:23:54
+As I said, like we had this prior that there may be something wrong, but we actually couldn't detect anything on ourselves And then we went and then we went through for a second rod only with the with the ChatGPT, kind of like uploading everything and you know um
+
+[Participant 3] 09:24:13
+Putting things in order. And I think it also quite quickly turned out that there wasn't much that we could call as a kind of error in the code that the ChatGPT was telling us And then we started kind of questioning or priors whether maybe there's
+
+[Participant 3] 09:24:32
+Nothing wrong with the coach. We did maybe more likely go for another round by ourselves but i think When ChatGPT came up with nothing we were kind of like changing our priors at that point We were kind of like, I think, putting quite a bit of emphasis on like, you know, what ChatGPT was
+
+[Participant 3] 09:24:56
+Telling us in that sense so like or second trial by ourselves was quite light like we didn't try very hard, to be honest and then like that that also didn't turn out anything and Yeah. Then we start writing the report.
+
+[Rachel Joy Forshaw] 09:25:15
+Can you expand a bit more on this? You said you're changing your priors
+
+[Participant 3] 09:25:22
+So in the beginning, as I said, we had this expectation that there is something to detect in this code.
+
+[Participant 3] 09:25:27
+That we need to find out. So we need to look at like, you know, in between the lines, you know, we need to go like, you know, letter by letter in the code.
+
+[Participant 3] 09:25:38
+And find what might be wrong. And we did this independently. So we were two people in our group. Actually, we were supposed to be three people, but the third person didn't show up. So we went for it in the first round by ourselves separately with my teammate
+
+[Participant 3] 09:25:59
+And we, after a while, after a certain, I think a couple of hours, we gave ourselves like a deadline within the day and we both came up with, at the end of that deadline, we again turned on the zoom and said like, you know, okay, yeah, you know.
+
+[Participant 3] 09:26:13
+I couldn't find it. Do you find anything? No, I couldn't find it. And then we said, okay, now let's you know uh go with the ChatGPT. At that point I think we didn't use much judgment when we were using the chat gpt it was more like you know we couldn't find anything now let's just
+
+[Participant 3] 09:26:33
+Ask chat gpt whether it could find anything And yeah, we basically uploaded everything, tried to describe the, you know.
+
+[Participant 3] 09:26:46
+The exercise. And yeah, it also didn't turn out much.
+
+[Participant 3] 09:26:53
+And after that, we did another run by ourselves. But by that time, I think we were kind of like, okay, I guess there's not Nothing wrong with the code and we can just suggest a couple of robustness checks and that's it.
+
+[Rachel Joy Forshaw] 09:26:54
+I see.
+
+[Rachel Joy Forshaw] 09:27:07
+I see. So you did a round of purely human Then cyborg.
+
+[Participant 3] 09:27:08
+Yeah. That's how old it is.
+
+[Rachel Joy Forshaw] 09:27:13
+And then human again. But it wasn't.
+
+[Participant 3] 09:27:15
+So a bit like not not sidewalk right so it was a bit more like, you know.
+
+[Participant 3] 09:27:20
+Fully human and then fully chat gpt And then fully ourselves again.
+
+[Rachel Joy Forshaw] 09:27:25
+I see.
+
+[Participant 3] 09:27:26
+So we did not really like do i guess like you would maybe expect us to do a bit more Like, you know, maybe like one step with HGPT and then kind of looking into it ourselves. And then again, ChatGPT, it wasn't like that. It was more like you know.
+
+[Participant 3] 09:27:40
+We only do it by ourselves and then we only do it with chat gpt And then we only do it by ourselves again.
+
+[Participant 3] 09:27:46
+I guess, if that makes sense.
+
+[Rachel Joy Forshaw] 09:27:48
+Okay, thanks. Wenting, you're also on a cyborg team. Can I get your… experience of how your team used.
+
+[Participant 4] 09:27:54
+Yeah. Yeah, for sure. I think we're proceeding in different steps. First is we wanted to understand the paper.
+
+[Rachel Joy Forshaw] 09:27:54
+Chatgpt during the games.
+
+[Participant 4] 09:28:04
+Finish, we're like, okay, let's ask ChatGPT. So we put the paper into into this and ask it to summarize it for us and the main points Turns out it just basically summarized the abstract. It was not very helpful in a way so afterwards we we read the paper ourselves
+
+[Participant 4] 09:28:26
+That's one. When we started replicating so this two parts of the package. One is building the data set that they use for analysis and the second is doing the analysis.
+
+[Participant 4] 09:28:39
+Initi wanted to run everything from source, but running to a problem very quickly because they're missing certain files So we were asked ChatGPT for the scripts that you see here where does this data set come from?
+
+[Participant 4] 09:28:57
+But it didn't, you know. Very good answers so we had to prompt a couple of times Until we figure out this is coming straight from a website which is now not working anymore.
+
+[Participant 4] 09:29:12
+So there's no way of getting that source data sets. At that point, we're like, okay, so let's go to replicate the main table just using the final data set authors provided And with that, we run it. It replicates the table. So at that point, we thought, okay, let's go to the
+
+[Participant 4] 09:29:32
+Robustness checks and we were prompting ChatGPT what are some robustness checks that we can do They give very, very general answers. It's like usually you want to ensure that it's robust to a different set of controls.
+
+[Participant 4] 09:29:46
+And we said, what kind of controls can we control for and didn't give it still like repeated the self was just very general suggestions So at that point, we write a paper ourselves and try to come up with robustness checks ourselves.
+
+[Francisco Bahamonde Birke] 09:30:01
+May I ask how many… files did your uh did your general study had.
+
+[Rachel Joy Forshaw] 09:30:03
+Okay.
+
+[Francisco Bahamonde Birke] 09:30:10
+Were like many or like four or because they were different Yep.
+
+[Participant 4] 09:30:14
+So the paper will replicated. Quite many, I think, quite a few.
+
+[Francisco Bahamonde Birke] 09:30:22
+And in your case, Orkan?
+
+[Participant 3] 09:30:27
+I don't remember, but I think there were a few yeah there were a few documents
+
+[Francisco Bahamonde Birke] 09:30:34
+With a northern magnitude like in the single numbers or single digits or like 60 leads.
+
+[Participant 3] 09:30:38
+Single leads, yeah. No, single leads, yeah.
+
+[Francisco Bahamonde Birke] 09:30:41
+And in your case, one thing i'm guessing like double digits
+
+[Participant 4] 09:30:47
+I think many, but I don't really remember how many.
+
+[Rachel Joy Forshaw] 09:30:53
+Felix, would you like to come in now? Because I know you're on the machine team. How did your team use ChatGPT.
+
+[Participant 1] 09:30:58
+Yes. Yeah, I already hinted a little bit at it, right? So we first had this idea of, okay, we are supposed to be completely hands-off.
+
+[Participant 1] 09:31:10
+So we feed all the files to chat gpt we don't have a look at paper or the table that was given to us separately at all, we knew or we had the information that there was like a line in the table highlighted
+
+[Participant 1] 09:31:28
+In yellow so we gave that as information to ChatGPT, like there is a table in the paper with some highlighted numbers, we want to replicate that.
+
+[Participant 1] 09:31:40
+These are all the files. And then the idea was we don't do anything other than that.
+
+[Participant 1] 09:31:47
+That was like the first And that didn't work at all.
+
+[Participant 1] 09:31:54
+Which was, I think the problem was really that was really we could not upload all the files.
+
+[Participant 1] 09:32:01
+To chat gpt it was just the package was too much So we had to Yeah, adjust and like… Yes, the process a little bit.
+
+[Participant 1] 09:32:16
+I'm more.
+
+[Rachel Joy Forshaw] 09:32:18
+Could you tell us more specifically about how you adjusted for that problem?
+
+[Participant 1] 09:32:22
+Yes. So then first we thought okay we try to keep the same direction of working. I can explain a little bit what I mean with that in a second.
+
+[Participant 1] 09:32:39
+Kind of say, okay, this is still the aim, but let's approach the analysis as we would as a researcher who does the analysis. So starting from the data or from like the files that we think are the first step.
+
+[Participant 1] 09:32:55
+And like, um. From the chat gpt as like okay what would be the first step to do to reach at AIM and then we follow that and it was very good that we were with three people because we were constantly
+
+[Participant 1] 09:33:09
+Kind of correcting our ideas of like oh no we don't notice, actually. This is knowledge that we bring from our experience, how you do data analysis But we need to get that information from ChatGPT. So then we were like
+
+[Participant 1] 09:33:26
+Asking that question and like acting on the response that we get.
+
+[Participant 1] 09:33:32
+But that was already like confounded with like us knowing to ask which questions to ask to kind of get anywhere, right? So at that point we're like, okay, we could already classify kind of this experiment or this treatment arm as has failed
+
+[Participant 1] 09:33:55
+But we still want to kind of reach the goal of like replicating replicating the results. So let's keep going and try to do it with as little input as possible.
+
+[Participant 1] 09:34:12
+And it really didn't work at all so um this approach of like going step by step or like trying to build it up from the bottom up.
+
+[Participant 1] 09:34:23
+And like having ChatGPT write code For us, so we were like, okay, can you identify which of the data files do we need and to select the variables or something that were used in this analysis?
+
+[Participant 1] 09:34:40
+I don't know the details anymore but like as an example then it would write some very generic code but it would just make up variable names that were not in the data set.
+
+[Participant 1] 09:34:53
+So then we could not use that to get to the next step. And at some point we decided to give up on that strategy And to go basically backwards. So to start with like the result and say, okay, in which analysis
+
+[Participant 1] 09:35:13
+Was this result produced and then ChatGPT was very capable of pointing us at the right file and at the right location or the right line of code of that file.
+
+[Participant 1] 09:35:25
+Then we were like, okay, which data set or which file was used with that. And so we kind of went backwards And that helped us to kind of reproduce the research?
+
+[Participant 1] 09:35:41
+Well, more or less. But… And so it's like the knowledge afterwards that there was like a coding mistake and that the results were not reproducible exactly we never got to that point.
+
+[Participant 1] 09:36:01
+To identify that coding mistake because it happened, I don't know, 10 steps before where we stopped going backwards.
+
+[Participant 1] 09:36:11
+So that was in that sense um yeah quite disappointing
+
+[Rachel Joy Forshaw] 09:36:16
+Okay, thank you so much.
+
+[Francisco Bahamonde Birke] 09:36:17
+How many fighters did you make a tip? You mentioned that you have problems that you could not upload so many files as you needed to. How many files were
+
+[Participant 1] 09:36:20
+So second.
+
+[Participant 1] 09:36:27
+Yeah. I don't remember the exact number, but I would guess something around 20 30 files It was a large package.
+
+[Francisco Bahamonde Birke] 09:36:37
+Okay. And in your case, Orkan, you have mentioned in the past that you subdivided the approach first as a human then as a full machine and so on when you it is as a former team, did you encounter similar problems of C1s that Felix described or how did you approach the full machine part
+
+[Francisco Bahamonde Birke] 09:36:57
+Of your and work.
+
+[Participant 3] 09:36:59
+In terms of uploading the files.
+
+[Francisco Bahamonde Birke] 09:37:02
+In general, how do you approach the formatting part when you subdivided the task in cyborg, First Human and then machine
+
+[Participant 3] 09:37:11
+Yeah, I mean… So as I said.
+
+[Participant 3] 09:37:16
+It was a bit like, you know, we were first we first kind of pretending like you know we don't have access to ChatGPT at all And then in the second stage we try to kind of upload as many as possible. I'm not sure if we were able to upload everything in one go or we did maybe divided into
+
+[Participant 3] 09:37:34
+Into parts to be honest, because so my teammate david was uh kind of you know uh taking charge of the of the interaction with the chat gpt you know instead of like, you know, duplicating the action. So we were kind of discussing what to do, what to upload etc and then
+
+[Participant 3] 09:37:53
+He was kind of taking the action on his on his side.
+
+[Participant 3] 09:37:57
+But yeah, so we kind of, you know. We did upload quite a bit of files and then we I think we ask step by step in terms of you know first explain what these piles are And what the purpose is. And then, you know, for some of the interim
+
+[Participant 3] 09:38:19
+Questions that we have. We ask, for instance, you know, do you see any mistakes or errors etc And then, yeah, we kind of like I guess, rephrase when we couldn't get much from the chat gpt we tried to rephrase the question in different ways
+
+[Participant 3] 09:38:35
+To see like if it leads to a different way of chat gpt searching for the problem. And again, yeah, that didn't turn out.
+
+[Participant 3] 09:38:46
+Much.
+
+[Rachel Joy Forshaw] 09:38:47
+I think you raise an interesting point there about who specifically on the team did the work and who interacted with ChatGPT. Could I also ask Wente and Felix What were the roles in terms of the roles in terms of
+
+[Rachel Joy Forshaw] 09:39:01
+Using ChatGPT on the team.
+
+[Participant 4] 09:39:07
+In my team, I think all of us worked like we did not have a division of labor in a way there was at some point is that we started to run out of time. That was when we started dividing up.
+
+[Participant 4] 09:39:25
+Of flight you know you think of our robots as checks and yeah we're just like realizing that chat gpt wasn't like giving good answers for war robots. So we're dividing up and to think about it ourselves But in terms of trying to replicate and stuff, we're just basically on Zoom together and prompting together.
+
+[Rachel Joy Forshaw] 09:39:49
+Okay, thank you. And Felix
+
+[Participant 1] 09:39:52
+Yeah, so for us it was, we decided to only use… one session so only one person had chat gpt open and was prompting everything.
+
+[Participant 1] 09:40:08
+But he shared the screen and The two other team members we were looking at the screen and like discussing on the go, what to prompt.
+
+[Rachel Joy Forshaw] 09:40:27
+Okay, thank you.
+
+[Rachel Joy Forshaw] 09:40:31
+Next, I want to move to you're thinking about how your team felt about working with AI.
+
+[Rachel Joy Forshaw] 09:40:44
+In this setting. Just to expand more on how you think it affected your team's performance overall.
+
+[Rachel Joy Forshaw] 09:40:55
+Go ahead, Felix.
+
+[Participant 1] 09:40:56
+For me, it's quite an easy answer that we've very, very challenged by it because we had or we were very reflecting on our instructions of the machine team that we should not use any of our knowledge or we should not
+
+[Participant 1] 09:41:20
+We shouldn't be there, essentially. So, uh. Yeah, we have really struggling with um how little input can we give or like what is appropriate for us to giving guidance we were constantly feeling like we're we're holding ourselves back we're making not
+
+[Participant 1] 09:41:47
+Use of the skills and the knowledge we have and we could be done with this way quicker if we could take the direction and wouldn't have to um yeah have like this fake direction that we were of course stirring ourselves a little bit as well through the questions but uh
+
+[Rachel Joy Forshaw] 09:42:07
+When you say appropriate, what was appropriate for the situation, what do you mean by that?
+
+[Participant 1] 09:42:13
+While… as like okay um we need to somehow take step forward.
+
+[Participant 1] 09:42:24
+With the work, right? We need to progress but like what what should that step be?
+
+[Participant 1] 09:42:32
+And we were very determined of having chat gpt decide what that step should be and not us using our knowledge on like how data analysis works or how data cleaning works.
+
+[Participant 1] 09:42:46
+To determine that. Yeah.
+
+[Rachel Joy Forshaw] 09:42:47
+I see. So appropriate as in within the confines of the challenge.
+
+[Participant 1] 09:42:51
+Yes, definitely. Yes.
+
+[Rachel Joy Forshaw] 09:42:53
+I see. Thank you.
+
+[Francisco Bahamonde Birke] 09:42:54
+And you mentioned a lot of issues you were facing. Where you're getting frustrated that ChatGPT was unable to offer a solution or that the solutions that were delivered were not Basically, would you expect it or was it was
+
+[Participant 1] 09:43:10
+It was… it was super interesting.
+
+[Participant 1] 09:43:13
+It was a very interesting experience for us. And I think I can speak for all three of us when I say that because we were really surprised how good ChatGPT is.
+
+[Participant 1] 09:43:29
+At some very specific tasks and how bad it is at other very specific tasks.
+
+[Participant 1] 09:43:36
+So, um. It was not so much of just pure frustration as also like kind of exploring and being amazed in a sense.
+
+[Rachel Joy Forshaw] 09:43:52
+What about organ would you want to come in on this question and on your cyborg teams?
+
+[Participant 4] 09:44:00
+Yeah, we certainly echoed the sentiment that we felt like being held back in a way by ChatGPT.
+
+[Participant 4] 09:44:11
+I think we wasted but you know i i think we spent a lot of time trying to get Chesapeake to work in the end it didn't So some of the things we tried, for instance, with the missing file, we were sort of convinced that ChatGPT is able to
+
+[Participant 4] 09:44:31
+Track down where the file was constructed. Turns out it was just a missing file And with robustness we kept thinking Maybe we just didn't prompt it properly. That's why I was giving vague answers. We're trying all different sort of two prompts idea where like maybe you just didn't have enough training data on, you know, e-com papers
+
+[Participant 4] 09:44:53
+So and that's when we switched to Camila with robust checks ourselves.
+
+[Participant 4] 09:45:01
+But the general feeling is we wasted a bit of time trying to get it to work with GPT in the end.
+
+[Francisco Bahamonde Birke] 09:45:10
+Do you feel that your results would eventually have been better or that you would have used your time in a better way if you wouldn't have had chat GPT?
+
+[Participant 4] 09:45:21
+I think so. With that version of ChatGPT? I think so.
+
+[Rachel Joy Forshaw] 09:45:30
+Okay, and would you like to tell us about your experience?
+
+[Participant 3] 09:45:34
+Yeah, sure. So… I think both I and my teammate, we were both quite optimistic about the ChatGPT and what it can do and We thought it could it could probably do maybe even better than what we could do on our own
+
+[Participant 3] 09:45:51
+So what I can say and what my sense is kind of in an exposed interpretation My sense is we did try a bit in the beginning, as I said, just on our own. But when it turned out that ChatGPT is not
+
+[Participant 3] 09:46:06
+Able to generate any meaningful error or mistake in the in the code any noticeable irregularity I guess, or optimism regarding ChatGPT.
+
+[Participant 3] 09:46:22
+Led us to maybe reduce our own effort. Later on, as I said, for instance, like after that After the second stage with HPT, we did say, okay, let's just look again on our own But I remember, you know, having this feeling that if ChatGPT couldn't find it
+
+[Participant 3] 09:46:43
+I guess we can't find much. So I kind of like, you know, it was a very, it was a much more kind of, you know, relaxed way of looking at at the files after that, expecting that possibly not finding much. So I think it had the effect of reducing our effort later on.
+
+[Participant 3] 09:47:04
+After we interacted with it and it didn't turn up. It didn't give us much as meaningful.
+
+[Participant 3] 09:47:10
+Yeah, I think we did reduce our effort. So we would try harder if it was just on our own for sure i can tell you that.
+
+[Rachel Joy Forshaw] 09:47:14
+And so you think if you… On the human team, that was going to be my question. Okay.
+
+[Participant 3] 09:47:19
+Yeah, if it was just human team, we would definitely put more effort.
+
+[Rachel Joy Forshaw] 09:47:21
+Thank you.
+
+[Rachel Joy Forshaw] 09:47:26
+Okay. I'm going to, I know, Jan, you've been waiting very patiently here.
+
+[Rachel Joy Forshaw] 09:47:35
+I want to give you the opportunity to come in first on this next question because it's something that you can talk about on a human team.
+
+[Rachel Joy Forshaw] 09:47:42
+I'd like to know about the teen dynamics. How your team divided up the work.
+
+[Participant 2] 09:47:50
+Um. We were in the team of two, and I think at the beginning we kind of.
+
+[Participant 2] 09:47:57
+Work together to kind of split up. The work, and, like handle built.
+
+[Participant 2] 09:48:05
+Um. And then we kind of mostly worked on our own, and then kind of uh contacted each other once we had like specific issues or questions.
+
+[Participant 2] 09:48:05
+About packages.
+
+[Participant 2] 09:48:14
+And and if I remember correctly, a thing we first tried to do. The.
+
+[Participant 2] 09:48:19
+Reproducibility, exercise. Together, so that we once had the code that run.
+
+[Participant 2] 09:48:24
+Smoothly through for both of us, and then we kind of.
+
+[Participant 2] 09:48:28
+Um kind of decided on specific parts for uh robustness.
+
+[Rachel Joy Forshaw] 09:48:36
+Was there a specific leader on your team?
+
+[Participant 2] 09:48:41
+Reproductions.
+
+[Participant 2] 09:48:41
+Not that I remember, because we were just too in the team. So.
+
+[Rachel Joy Forshaw] 09:48:45
+Okay, so you collaborated. Okay.
+
+[Participant 2] 09:48:45
+It's a bit strange to introduce hierarchies.
+
+[Rachel Joy Forshaw] 09:48:53
+And on the cyborg and machine teams um We've already spoken about how ChatGPT influenced team dynamics but In general, how was the work divided?
+
+[Rachel Joy Forshaw] 09:49:12
+Go ahead, Rokan.
+
+[Participant 3] 09:49:14
+So I think in the beginning we decided to go on our own separately. I was also in a team with two people so We decided to basically look at the files and the instructions and just look at the code.
+
+[Participant 3] 09:49:30
+Line by line just by ourselves. I think we started interacting more when it was in a second. So after we kind of like you know did our own thing independently, we came together and started discussing like, yeah, what did you find what did you find
+
+[Participant 3] 09:49:45
+Not much. And then we started attracting more about how to use the chat gpt in the second stage, kind of what kind of prompts should we write for it to better understand the purpose of the exercise, et cetera. So we did
+
+[Participant 3] 09:50:00
+Have quite a bit of conversation back and forth on Zoom. As I said, like David was the one who was kind of, you know.
+
+[Participant 3] 09:50:08
+Entering the prompts to make sure that you know we are kind of agreeing on how to do it and then enter the prompts rather than independently working with ChatGPT.
+
+[Participant 3] 09:50:18
+And yeah, so that process as we got the outputs from ChatGPT and tried to interpret it and then re-input some prompts.
+
+[Participant 3] 09:50:27
+That was interactive and we didn't have a leader, I think, even though like they would kindly accept it to kind of, you know, enter the prompts. We didn't have a leader.
+
+[Participant 3] 09:50:36
+And after that session a stage which was interactive we again went back to what we did in the beginning when we said, okay, let's just give a final push without ChatGPT on our own in the third stage We did that also independently again like we went back to oral kind of
+
+[Participant 3] 09:50:54
+Silos. And again, like gave a deadline and then came back after the deadline and finalize it.
+
+[Rachel Joy Forshaw] 09:51:02
+You've mentioned… a couple of times now that ChatGPT potentially change the way that your team handle the problem. Was there any disagreements over the strategy being used there in relation to ChatGPT?
+
+[Participant 3] 09:51:03
+Yeah.
+
+[Participant 3] 09:51:20
+Not really. I think we quickly agreed on how to proceed from the very like yeah from the very beginning we said like you know let's just try to read the paper a little bit understand the problem and understand the kind of
+
+[Participant 3] 09:51:34
+Code and the data look into the code by ourselves and then use the chat gpt and I don't remember having any disagreements. It was quite quickly that we came to that roadmap.
+
+[Rachel Joy Forshaw] 09:51:42
+Okay.
+
+[Participant 3] 09:51:46
+From the beginning.
+
+[Rachel Joy Forshaw] 09:51:49
+And who would like to come in next? On this question. Go ahead, Menti.
+
+[Participant 4] 09:51:57
+Yeah, we've had sort of similar. We didn't have uh a leader we're working together i think at the beginning we agreed to run the code separately and we are running into the same problem the missing file we were talking about
+
+[Participant 4] 09:52:14
+So at that point, we're just like prompting ChatGPD together and to try to figure out where the file is and how to get it.
+
+[Participant 4] 09:52:26
+So yeah, basically working together or like you know prompting separating different ways lay on with the robustness as well. We try to ask chat gpt The thing questioning a different question.
+
+[Participant 4] 09:52:45
+Ways. But yeah, we're also working together So yeah, that's sort of the dynamics.
+
+[Rachel Joy Forshaw] 09:52:54
+And again, you mentioned these issues with chat GPT in terms of this missing file. Was there any disagreements around how AI should be used?
+
+[Francisco Bahamonde Birke] 09:52:55
+So.
+
+[Rachel Joy Forshaw] 09:53:06
+In your team.
+
+[Participant 4] 09:53:07
+Not really. We're thinking of maybe different ways of prompting it but for the what to use AI for, it was very clear one was we wanted to parse the script a little bit to help us identify which file to look at specifically
+
+[Participant 4] 09:53:26
+Sort of like a research assistant The second was for it to give us some suggestions of specific tests.
+
+[Participant 4] 09:53:35
+To run. Yeah, so that's very much in agreement.
+
+[Francisco Bahamonde Birke] 09:53:42
+I've got a general understanding question that I think we missed in the beginning.
+
+[Francisco Bahamonde Birke] 09:53:47
+Were you all meeting online to participate in the games or were you doing that in person?
+
+[Participant 4] 09:53:54
+Ozone.
+
+[Francisco Bahamonde Birke] 09:53:56
+And as far as I understood, then Yamakus and Orkan basically just logged into the Zoom meeting and then you subdivide task and then you work on your own but not together in this in the meeting still How was the case situation in your case, venting?
+
+[Participant 4] 09:54:18
+Yes, and we were we're all in the the same organization.
+
+[Participant 4] 09:54:25
+And basically we were virtually but in a zoom session not all the time you know when we were running code by ourselves, we were not in the Zoom meeting, but when we need to discuss something then we'll go into the same meeting and chat.
+
+[Francisco Bahamonde Birke] 09:54:46
+And how was the communication Orcana and Participant 2 already mentioned some deadlines in terms of time. In your case, you had deadlines or how did you communicate to go back to the Zoom meeting
+
+[Participant 4] 09:55:04
+Yeah, we had like, you know. With an organization we had like teams so we basically just had a teams chat with each other. It was like, okay, so should we yeah basically we were talking in teams
+
+[Participant 1] 09:55:24
+And maybe it's Michael. Yes.
+
+[Rachel Joy Forshaw] 09:55:24
+Felix, you want an opportunity to speak on this? Yes, please.
+
+[Participant 1] 09:55:31
+We decided very early on that we would only have like one prompt.
+
+[Participant 1] 09:55:38
+One session, I should say. And there was not really an opportunity in a sense to divide tasks because uh we were supposed to not really supposed to do anything ourselves so we essentially for the entirety of the day, we were in the Zoom meeting.
+
+[Participant 1] 09:56:01
+With one person sharing the screen. So we took like a Don't just break off half an hour but it was like the only time where we didn't communicate in that time verbally over Zoom.
+
+[Participant 1] 09:56:17
+I think we were quite aligned. So it was not uh necessarily that one person was a leader or something. I think the person who was entering the prompts, of course, was through that position a bit more and the position of
+
+[Participant 1] 09:56:39
+May be suggesting things but it was very much the entire time of like us just thinking along And suggesting prompts or ideas or ideas And then mostly one person from time to time interviewing like, oh, wait a second, we wouldn't know this or wait a second uh
+
+[Participant 1] 09:57:00
+This is too much input from our side and then
+
+[Participant 1] 09:57:07
+I cannot remember of a situation where we didn't agree. On that difference so i cannot recall any conflict in that sense.
+
+[Rachel Joy Forshaw] 09:57:20
+I just had a thought going back to the point you made before about kind of appropriateness. And you mentioned that you were looking at the particular file names coming back in ChatGPT, I assume and using your human tacit knowledge
+
+[Rachel Joy Forshaw] 09:57:37
+Realize what which part of the codes were which. Is that a correct understanding I have there?
+
+[Participant 1] 09:57:44
+No, so we were… ChatGPT gave us the information which gave us the information pieces of code we needed.
+
+[Participant 1] 09:57:57
+So we went backwards from that table that we had to reproduce And asking ChatGPT what is the code to do that? And then what is the data that's used in that code to kind of get the files that we needed to run. We were then running that locally on our machines.
+
+[Participant 1] 09:58:19
+So that's maybe an important point. Yeah.
+
+[Rachel Joy Forshaw] 09:58:20
+I see. I see, yeah, thanks.
+
+[Rachel Joy Forshaw] 09:58:26
+Okay. Next part I'd like to ask you, and this is open to everybody, if you were to do the games again.
+
+[Rachel Joy Forshaw] 09:58:34
+Would you use AI differently? This presumes that you could, of course.
+
+[Rachel Joy Forshaw] 09:58:41
+You would like to go first. Perhaps Jan, since you've not had much opportunity.
+
+[Participant 2] 09:58:51
+Um. Been difficult to to use it differently than not to um.
+
+[Rachel Joy Forshaw] 09:58:58
+I suppose…
+
+[Participant 2] 09:58:58
+Use it at all. Yeah, I think that the different kind of this training made me also be.
+
+[Participant 2] 09:59:05
+More more aware that I can use chat gpt for tasks like this. I mean, it has a limitation, but kind of figuring out.
+
+[Participant 2] 09:59:12
+Couldn't. Where it has the chances. Or yeah, I think that that was a very, very valuable.
+
+[Participant 2] 09:59:18
+Nothing kind of yeah, also the idea to suggest, like a robustness. Uh.
+
+[Participant 2] 09:59:24
+Exercise, etc. I think that that's something. What I would use for for brainstorming, at least.
+
+[Participant 2] 09:59:29
+But in my experience, because I was in the in the stater group. My experience so far is that Chat Gpt is not so good with Stata.
+
+[Participant 2] 09:59:37
+Coding compared to R or Python.
+
+[Rachel Joy Forshaw] 09:59:41
+I suppose it's the question specifically for you is that given that you've experienced the limitations of a human only team, would you be tempted to use AI where you do a replication game again?
+
+[Participant 2] 09:59:56
+Um. Yes, I think huge factors, if it works out. With Ai. Then it's the scalability.
+
+[Participant 2] 10:00:04
+That can at least to check for computational reproducibility. If Ai can do that, then it can.
+
+[Participant 2] 10:00:10
+In the end I expect to do it much faster than is, if human can, can do it.
+
+[Rachel Joy Forshaw] 10:00:17
+Okay, thank you. Who'd like to go next Go ahead, Felix.
+
+[Participant 1] 10:00:22
+Yes. So I, well, it's difficult to say how what I use it, but I would recommend for people setting up studies like that.
+
+[Participant 1] 10:00:33
+To, uh. To check or to check to select working packages or replication packages that can be run on ChatGPT completely so that there's not like file size limitation or something stupid like that that restricts us from trying to give it all with like that treatment arm
+
+[Participant 1] 10:01:04
+Yeah. I think that's the main point. And other than that, I agree with you and specifically for the robustness checks.
+
+[Participant 1] 10:01:17
+We were quite surprised i mean it suggested a lot of robustness checks.
+
+[Participant 1] 10:01:24
+Of course, there was some stupid things in there that didn't make any sense.
+
+[Participant 1] 10:01:29
+But they were also really interesting and very good suggestions that we didn't think of ourselves.
+
+[Participant 1] 10:01:35
+And I think that was the biggest surprise Yeah, the biggest moment of excitement in that sense. Yeah.
+
+[Francisco Bahamonde Birke] 10:01:47
+But besides the asking to GPT for suggestions on how to conduct the analysis.
+
+[Rachel Joy Forshaw] 10:01:47
+Okay.
+
+[Francisco Bahamonde Birke] 10:01:53
+Could you actually let ChatGPT do part of the analysis or not?
+
+[Participant 1] 10:01:58
+Well, um. We… It was quite impressive of like the hundreds or thousands of lines of code and different files with like different structures.
+
+[Participant 1] 10:02:15
+Then we very quickly were directed the relevant uh location of the files that allowed us to reproduce the taper. So with like within a very short amount of time, we were able to identify the correct data set and identify the important part of the code
+
+[Participant 1] 10:02:40
+To run on our machine locally. The analysis to get to the numbers in the table.
+
+[Participant 1] 10:02:48
+The problem, of course, was that there was a mistake way before getting or in the data preparation that led to the file being as it was that we didn't get to.
+
+[Participant 1] 10:03:01
+With the strategy at all.
+
+[Rachel Joy Forshaw] 10:03:04
+Thank you. Wenting, same question to you. Would you use AI differently or you should do it again?
+
+[Participant 4] 10:03:10
+Yeah, for sure. So first of all, I would definitely keep using AI.
+
+[Participant 4] 10:03:15
+You know it's got a lot better now. I think the way that we prompted will probably improve a little bit like, you know, following the recommendation they give now saying hey, you're an economist.
+
+[Participant 4] 10:03:30
+You're trying to describe your replication files in a way as clear as possible to people so how would you describe files With the robust SEO, probably give a couple of examples. So some of the typical robustness is adding additional control. So for instance, in this study, is there anything else that would affect
+
+[Participant 4] 10:03:53
+To dependence variable um can you think of some instruments so i would give it more more concrete examples Yeah.
+
+[Rachel Joy Forshaw] 10:04:03
+And sorry. Go ahead, please.
+
+[Francisco Bahamonde Birke] 10:04:03
+In your presentation. Go ahead.
+
+[Francisco Bahamonde Birke] 10:04:08
+In your previous answer, you mentioned a little bit that you were kind of frustrated with the time and the way groups lost time using ChatGPT.
+
+[Francisco Bahamonde Birke] 10:04:18
+Were there any of the tasks that you relied on chat gpt on would you still do them or which parts of the reproducibility analysis would you be still outsourcing to chat gpt if you would have to do it again.
+
+[Participant 4] 10:04:40
+It's difficult to say with the models we used last year versus the model it is now. So with the model last year, I probably wouldn't outsource.
+
+[Participant 4] 10:04:54
+The robustness. To gpt we'll just read the paper ourselves and think of like critically as a referee what kind of robustness to ask?
+
+[Participant 4] 10:05:05
+My experience related to with the newer versions the model is that it's become quite a bit better with that So, but if I think back to last year i probably would just do that ourselves.
+
+[Rachel Joy Forshaw] 10:05:23
+And Okun, would you like to… share your thoughts here.
+
+[Participant 3] 10:05:28
+Yeah, I guess what I would change after you know learning from this game would be to rely Less.
+
+[Participant 3] 10:05:38
+On chat gpt and more effort, more active effort to order replication at hand.
+
+[Participant 3] 10:05:49
+And also now that you know we talked about centralization of our prompts, as I said, with my teammate we were discussing what to write and then it was being kind of like you know entered by my teammate. And maybe we could have been a bit more experimental where we could have just you know
+
+[Participant 3] 10:06:08
+Galen Tour. Silos and use the chat gpt independently As well, maybe towards the end.
+
+[Participant 3] 10:06:17
+But then again, yeah, I regret. The fact that, you know, we, I think we were too optimistic about you know what chat gpt produced we could have put more effort into.
+
+[Participant 3] 10:06:32
+Ourselves
+
+[Rachel Joy Forshaw] 10:06:34
+Okay. Next question is um
+
+[Participant 1] 10:06:36
+So can I maybe add to my answer? I just still thought of that.
+
+[Rachel Joy Forshaw] 10:06:40
+Apologies, yes, of course.
+
+[Participant 1] 10:06:43
+Which is not necessarily directly related from like what I've learned from the replication games but like uh the field has developed in the last half year. So if I had to do it again and without the restriction of like having to use chat gpt i would
+
+[Participant 1] 10:07:02
+Definitely use more specialized tool for different tasks right so like a notebook lm uh uh… like summarizing the paper or identifying the files or code structure and co-pilot for writing the code. I think we're now at a very different stage.
+
+[Participant 1] 10:07:27
+Of being able to use that than we were half a year ago.
+
+[Rachel Joy Forshaw] 10:07:32
+So the development of ChatGPT since then would change your answer to this question.
+
+[Rachel Joy Forshaw] 10:07:37
+Is what you're saying.
+
+[Participant 1] 10:07:38
+Yeah, in general, like the AI tools are from competitors as well, not just chat GPT. So I wouldn't try to I wouldn't try to use to do the entire task was like one tool or like in one tool closed environment in that sense.
+
+[Rachel Joy Forshaw] 10:07:45
+Yes, AI in general.
+
+[Francisco Bahamonde Birke] 10:08:03
+And I've got a follow-up question for Orkan. Basically, you mentioned that the first part of your work was working as a human only.
+
+[Francisco Bahamonde Birke] 10:08:12
+Would you like to integrate some of the possibilities that ChatGPT offer into that task Or would you decide to do it again, yes, as a human only in the very beginning?
+
+[Participant 3] 10:08:25
+I guess I could, yeah, I mean, we could do something at that. Well, I would say like you know maybe you know maybe we would ideally still assume that we are on our own maybe in the beginning just to put all the effort that we can and maybe
+
+[Participant 3] 10:08:42
+Think of ChatGPT as a kind of robustness device like kind of uh you know confirmation device of what we find in the end or what we don't find in the end Um… But yeah, like using it independently is also would also be a good idea i think like just to for the richness of the prompts and maybe you know um
+
+[Participant 3] 10:09:04
+For the flow because like centralizing it may be kind of restricted our creativity with how we could direct ChatGPT, I feel like we could have experimented a bit more and that that would be possible with independently trying it I guess, rather than centralizing that.
+
+[Participant 3] 10:09:23
+Yeah.
+
+[Rachel Joy Forshaw] 10:09:25
+Penultimate question then, and this is again open to everybody What do you think explains the differences in performance between the three treatment arms, so AI-led, AI-assisted and human-only teams?
+
+[Rachel Joy Forshaw] 10:09:43
+Would you like to go first, Jan?
+
+[Participant 2] 10:09:48
+Okay, can you repeat the question?
+
+[Rachel Joy Forshaw] 10:09:51
+Yes, certainly. What do you think explains the difference in performance between AI-led AI-assisted and human-only teams.
+
+[Participant 2] 10:10:05
+That's not an easy question. Um. So I guess several factors usually play play a role. One is like.
+
+[Participant 2] 10:10:16
+The kind of an issue that was mentioned several times here already. Kind of the um.
+
+[Participant 2] 10:10:20
+The performance of Chatgpt and Ai. At that point when it was conducted.
+
+[Participant 2] 10:10:26
+Thing, I expect that will become better in the future. Then also um.
+
+[Participant 2] 10:10:32
+Kind of the experience of kind, of.
+
+[Participant 2] 10:10:33
+The people who used Chatgpt chat Gpt. So the users, so the more often one does it. It becomes clear which prompts.
+
+[Participant 2] 10:10:40
+To use, and.
+
+[Participant 2] 10:10:42
+The third one is that maybe. That some of the issues are so particular.
+
+[Participant 2] 10:10:50
+That also kind of in in the near future, humans will be better at.
+
+[Participant 2] 10:10:54
+Finding that out if they're not, I mean Chat Gpt and.
+
+[Participant 2] 10:10:56
+Programs are very good when it. But there are a lot of regularities in there, but when they're kind of specific issues, or like, let's say, institutional details that are relevant for an identification strategy.
+
+[Participant 2] 10:11:08
+Yeah, it might be that humans are superior even in a couple of years.
+
+[Rachel Joy Forshaw] 10:11:16
+Is superior in replication.
+
+[Participant 2] 10:11:19
+Report. Yeah, in replication, mostly in reproduction, I assume, like, if code and data is provided.
+
+[Participant 2] 10:11:27
+Yeah. Then.
+
+[Participant 2] 10:11:29
+I don't expect that humans will outperform Chatgpt and Ai in general.
+
+[Participant 2] 10:11:35
+In the near future.
+
+[Rachel Joy Forshaw] 10:11:37
+Okay, thank you. Who else would like to opine on this?
+
+[Rachel Joy Forshaw] 10:11:45
+Yep.
+
+[Participant 3] 10:11:48
+I think Felix was first, but I can go. Yeah. So in terms of like ranking the performance and to explain why these teams perform differently.
+
+[Participant 3] 10:12:01
+I'm not sure if I can say much about machine only versus human only but i think that it comparison between human only and the cyborg themes, where cyborg teams kind of you know did the a little worse.
+
+[Participant 3] 10:12:19
+I think that that could be explained by over dependence on the AI tool, which was our experience as i said and you know not putting as much effort as you could if you were kind of just on your own
+
+[Participant 3] 10:12:36
+That comparison i think that I explain with that over dependence type of story which I think, you know, was true in our team's case. But yeah, I cannot say much about you know other comparisons.
+
+[Rachel Joy Forshaw] 10:12:53
+Okay. Would you like to come in, Felix?
+
+[Participant 1] 10:12:55
+Yeah, actually, I'm very similar direction where I wanted to go so like additional to what Jan said on like the state of art of these tools I think it's important to highlight that the human only teams have many years of experience of doing what they did during the replication game.
+
+[Participant 1] 10:13:20
+Wherefore, where the cyborgs and the machine teams, that's not true at all. We are still learning on how to efficiently use these tools and specifically for the machine team we were at points quite overwhelmed with like figuring out what our role
+
+[Participant 1] 10:13:41
+Actually is.
+
+[Rachel Joy Forshaw] 10:13:47
+Yeah, I'm going to return to that point. That's an interesting one, but I just quickly go to Wenting. If you want to share your thoughts on what might explain the differences in performances.
+
+[Participant 4] 10:13:58
+Yeah, I have two hypotheses. One is, like Oakland was saying you know if you have limited time and tension and you spent already prompting such a petita and maybe you spent less coming up with your own views and your own
+
+[Participant 4] 10:14:17
+Tests as one and maybe two is related to the assignment of the teams So for instance, in my team, I was the only economist. The other two were more like computer scientist side.
+
+[Participant 4] 10:14:32
+So people may be assigned to cyborg or machine learning team are more on the quantitative side rather than on you know no like you know what kind of robust is to check with papers so maybe there's a little bit of selection there
+
+[Participant 4] 10:14:50
+So that's my hypothesis.
+
+[Rachel Joy Forshaw] 10:14:53
+Okay, thank you. So picking up on um Felix's point a little there about what was specific to the game setup Versus what you might do in reality if you were doing replication or reproduction of research.
+
+[Rachel Joy Forshaw] 10:15:10
+So how did the structure of the games shape how you looked at this problem.
+
+[Participant 1] 10:15:21
+I'm not sure I fully understand your question, but I think it hints at the fact that we struggled with like holding back our knowledge.
+
+[Participant 1] 10:15:36
+On how to approach replication or how to approach a data analysis to get like a pure expression of pure expression ChatGPT's flavor.
+
+[Participant 1] 10:15:48
+On how to do this. So I think we, in that sense, you could say we wasted a lot of time or like we were circling back to like discussing Is this a fair prompt to give?
+
+[Participant 1] 10:16:06
+Or the rate is confound the experimental setup too much. So I think that tied us back for sure.
+
+[Rachel Joy Forshaw] 10:16:16
+Yep. So yeah, going back to this, you spoke about the idea of the appropriateness of what you were doing.
+
+[Rachel Joy Forshaw] 10:16:24
+And if you were doing this sort of exercise of reproducing or replicating research.
+
+[Rachel Joy Forshaw] 10:16:31
+With the games that would change your behavior not to have that constraint.
+
+[Participant 1] 10:16:40
+Yeah, so I think that that's a bit difficult for me to say. So certainly like coming back to like the first question, kind of what were the expectations, I think, for most of us, it was like, yeah, the cyborg team will be most powerful or perform the best. And I would say that I still have that expectation
+
+[Participant 1] 10:17:02
+I don't know if having if I would have been in that cyborg.
+
+[Participant 1] 10:17:10
+Team, if that would have changed. My approach, I would certainly
+
+[Participant 1] 10:17:21
+Yeah, I think… I would not necessarily approach the entire replication.
+
+[Participant 1] 10:17:32
+Trying to be in like a specific treatment arm. So I know what I'm good at. I know what i'm not efficient at so i would if there was no restriction in that sense I would maybe… use my abilities or use my abilities
+
+[Participant 1] 10:17:56
+Capabilities of chat gpt more specialized more efficiently but that's also a bit of guessing
+
+[Rachel Joy Forshaw] 10:18:05
+Yeah. Who would like to come in next on this question?
+
+[Rachel Joy Forshaw] 10:18:13
+Just about the general what how much of this Please.
+
+[Participant 4] 10:18:15
+So just in a sec. Sorry, to understand the question, it's just saying how did the experience with the replication game effect Oh, I do replication in the future.
+
+[Rachel Joy Forshaw] 10:18:29
+Not quite. Just what might generalize from the experience of the games and what felt specific to the game's in terms of how if you weren't in the games, you would approach replication or reproduction.
+
+[Participant 4] 10:18:49
+I see. I think there's two two
+
+[Participant 4] 10:18:56
+Different settings where you do replication. One is to check the paper is legit The other is to learn the message from the paper.
+
+[Participant 4] 10:19:04
+And I think I will approach them quite different. Based on the takeaway from the paperwork So if I were just to learn the methods, for instance, I wouldn't obsess so much about like the missing file.
+
+[Participant 4] 10:19:18
+I'll just go to the file that's quite quite essential to me
+
+[Participant 4] 10:19:27
+With respect to the use of AI, whether my takeaway from the game is that AI is good at being literal being parsing the file understanding the file, but maybe it does not have as good of human knowledge of the economics
+
+[Participant 4] 10:19:48
+Of it. So I'm talking now about like the robustness checks So I'll probably stick with using that for the first part, which is to understand the code.
+
+[Participant 4] 10:19:59
+If there's mistakes in the code, then use it to find it.
+
+[Participant 4] 10:20:05
+Relying on it for the second part. So I think, you know, in terms of what generalizes and what doesn't, I think is this course specific to the paper that we're replicating the does not have a very good readme file.
+
+[Participant 4] 10:20:23
+Which sort of increases the value which is why like we spend so much time asking AI to help us if you have like a paper with good quality reading the file then probably we'll just you know follow the instruction of the author and
+
+[Participant 4] 10:20:42
+That would cut down, you know, if we were used to AI, then we use it on a single file because we know exactly where to look.
+
+[Participant 4] 10:20:50
+Another thing that's specific to the game is that we're missing files That we spend a lot of time trained. I don't think that was meant to be like the main objective of the replication game. So there's the two things that are quite specific
+
+[Rachel Joy Forshaw] 10:21:09
+Thank you. Would you like to speak on this?
+
+[Participant 3] 10:21:16
+So I guess… Yeah, I mean… So as far as I can understand.
+
+[Participant 3] 10:21:23
+The question is more about whether we would change anything independently if we were kind of doing your application ourselves, right?
+
+[Participant 3] 10:21:32
+I agree that it would depend on the purpose of why we are doing the replication.
+
+[Participant 3] 10:21:39
+As I said, the game was a little different because when I get a paper um you know in my own research, I want to replicate something or I want to look into the dual files of of some paper, I don't really start with the prior that there is something wrong with this tool file. And that was, I think that was different in the game, that prior kind of like
+
+[Participant 3] 10:22:04
+You know, okay, let's find what's what's fine was different than the regular application exercise that I sometimes do in my own research.
+
+[Participant 3] 10:22:16
+Um whether I want to anything different i mean i was in the cyborg team, so I guess like, you know, I would try to For different tasks, I would try to use you know, my skills versus the AI.
+
+[Participant 3] 10:22:33
+Maybe, you know, just to understand the the paper, maybe summarize it quickly um and get to the key points. Maybe I could use the chat gpt uh but looking into the code, I think I would be a bit more serious. I would be a bit more serious in terms of putting
+
+[Participant 3] 10:22:50
+More of my effort. Then, you know, depending on chat gpt you know.
+
+[Rachel Joy Forshaw] 10:22:56
+Thank you. Yeah, and any last thoughts on that?
+
+[Rachel Joy Forshaw] 10:23:08
+I'll ask everybody then, is there anything that, well, first. Thanks so much for your time and thanks for sharing your thoughts. Is there anything else about the experience or your team's interaction with AI that you think we should know?
+
+[Participant 2] 10:23:15
+Nope.
+
+[Participant 2] 10:23:27
+I found the event to be fun.
+
+[Participant 1] 10:23:28
+Not from my side.
+
+[Rachel Joy Forshaw] 10:23:30
+You found it fun. Good. Felix?
+
+[Participant 1] 10:23:33
+No, not from my side. I think everything important has been said.
+
+[Francisco Bahamonde Birke] 10:23:39
+I've got a question in general. If you would now encounter a paper in which a large application study had been conducted A, making use of chat GPT.
+
+[Francisco Bahamonde Birke] 10:23:50
+Would you have more trust on that paper now after you have experienced that on your own?
+
+[Francisco Bahamonde Birke] 10:23:57
+Before.
+
+[Participant 3] 10:24:02
+Sorry, can you repeat that, Francisco?
+
+[Francisco Bahamonde Birke] 10:24:05
+If you would encounter a paper right now in which a large propagation study has been conducted.
+
+[Francisco Bahamonde Birke] 10:24:11
+Using relying on chat GPT or any similar artificial intelligence tool Would you have more trust now on that paper?
+
+[Francisco Bahamonde Birke] 10:24:23
+Or before you have participated
+
+[Participant 2] 10:24:30
+I think I would have more questions. About the paper. Yeah, like the the details before. I could only kind of say yes or no with trust. But here would more look into the details. See how.
+
+[Participant 2] 10:24:42
+How they set up the whole mass reproducibility or replication, study and.
+
+[Participant 2] 10:24:46
+What kind of prompts did they use?
+
+[Participant 1] 10:24:53
+Yeah, I agree. I think in general, I would have less trust Annette.
+
+[Participant 1] 10:24:59
+I would be much more… Many more questions, much more critical about like what Jan said and the methods section on like the whole setup But also I feel like i also less educated or not less educated but like not
+
+[Participant 1] 10:25:18
+Um not… I feel like I wouldn't be the right person to judge if their setup is appropriate.
+
+[Participant 1] 10:25:32
+And so I don't feel like I know enough about AI or these tools to really form a critical opinion on a on the setup of the study.
+
+[Francisco Bahamonde Birke] 10:25:47
+So it's just a general trust question. This doesn't have to you don't have to be an expert.
+
+[Participant 1] 10:25:49
+Yeah.
+
+[Participant 1] 10:25:53
+No, but it's important, right? Like I… I acquired some knowledge about what I do over the years.
+
+[Participant 1] 10:26:04
+And so I feel like i i feel like i and such papers that use a specific methodology much better than other papers that use different methodology right and for papers that would use AI for the task or ai in general i just feel
+
+[Participant 1] 10:26:24
+Less well equipped to judge that so i would generally trusted less than something I know well.
+
+[Rachel Joy Forshaw] 10:26:36
+Would you like to ask any more questions, Francisco, or should we leave it there?
+
+[Francisco Bahamonde Birke] 10:26:41
+No, that was my last question. Thank you.
+
+[Rachel Joy Forshaw] 10:26:44
+Okay. Quan, also I should open up to you if you're… happy to leave it there or you have any more final questions?
+
+[Juan Pablo Posada Aparicio] 10:26:50
+Oh, no. I feel… everything is covered. I didn't want to interrupt much.
+
+[Rachel Joy Forshaw] 10:26:56
+Okay, so thank you so much everybody for your time. It's a really interesting getting your perceptions on this.
+
+[Rachel Joy Forshaw] 10:27:03
+And of course. Will the Institute for application will be generally in touch with you about things going on.
+
+[Rachel Joy Forshaw] 10:27:11
+And perhaps I'll see some of you at the replication event.
+
+[Rachel Joy Forshaw] 10:27:13
+Tomorrow. If not. Thank you very much and bye
+
+[Participant 2] 10:27:19
+To you, Rachel, Francesco, and Juan, for all your efforts in here, and kind of we will, I think, keep fingers crossed.
+
+[Participant 2] 10:27:26
+That it works out with the revision. Yes, so thanks a lot for your effort as well.
+
+[Rachel Joy Forshaw] 10:27:31
+Definitely. Thank you so much.
+
+[Participant 3] 10:27:32
+Thanks, everyone.
+
+[Participant 2] 10:27:32
+Thank you. Bye, bye.
+
+[Participant 4] 10:27:33
+Thank you
+
+[Participant 1] 10:27:34
+Okay
+

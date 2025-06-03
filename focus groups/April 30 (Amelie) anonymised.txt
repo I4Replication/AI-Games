@@ -1,0 +1,1714 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:02.080
+Amélie Gourdon-Kanhukamwe (ADHD): Juan made me co-host, anyway.
+
+2
+00:00:03.420 --> 00:00:05.060
+David Valenta: Sorry, Emily, what were you saying.
+
+3
+00:00:05.610 --> 00:00:08.880
+Amélie Gourdon-Kanhukamwe (ADHD): I think. I've been made co-host. In fact.
+
+4
+00:00:10.440 --> 00:00:12.599
+David Valenta: So you want to record it yourself.
+
+5
+00:00:12.980 --> 00:00:17.470
+Amélie Gourdon-Kanhukamwe (ADHD): No, no, it's fine. I'm just saying, if you want to step away, that's okay.
+
+6
+00:00:17.470 --> 00:00:20.949
+David Valenta: Yeah. But I think if I'm recording, then I have to stay.
+
+7
+00:00:21.500 --> 00:00:22.190
+Amélie Gourdon-Kanhukamwe (ADHD): Okay,
+
+8
+00:00:26.680 --> 00:00:29.049
+Amélie Gourdon-Kanhukamwe (ADHD): So I'm going to jump with
+
+9
+00:00:29.340 --> 00:00:36.179
+Amélie Gourdon-Kanhukamwe (ADHD): everyone consents to recording because we're supposed to take it before we record. But I'm gonna assume everyone is happy.
+
+10
+00:00:36.280 --> 00:00:38.539
+Amélie Gourdon-Kanhukamwe (ADHD): Just thank David.
+
+11
+00:00:40.020 --> 00:00:41.360
+Amélie Gourdon-Kanhukamwe (ADHD): Good. Okay.
+
+12
+00:00:41.360 --> 00:00:42.100
+David Valenta: Everyone.
+
+13
+00:00:44.476 --> 00:00:48.043
+Amélie Gourdon-Kanhukamwe (ADHD): Yeah. So if there's a slow start as well. So
+
+14
+00:00:48.770 --> 00:00:52.288
+Amélie Gourdon-Kanhukamwe (ADHD): if you haven't met me, I'm I'm Eddie Godway.
+
+15
+00:00:53.328 --> 00:01:00.961
+Amélie Gourdon-Kanhukamwe (ADHD): helping with the qualitative component. I'm a psychology researcher at King's College, London, Uk,
+
+16
+00:01:01.630 --> 00:01:09.440
+Amélie Gourdon-Kanhukamwe (ADHD): and in this session we are going to get through a bunch of questions to get you to think about how you
+
+17
+00:01:09.951 --> 00:01:19.700
+Amélie Gourdon-Kanhukamwe (ADHD): interacted with AI during the session. So it's as you know, it's part of the broader study. We're trying to understand the findings. Which are that
+
+18
+00:01:20.180 --> 00:01:33.137
+Amélie Gourdon-Kanhukamwe (ADHD): so matching groups using AI only perform less well. And we're trying to understand why. So we are particularly interested in understanding the dynamics within the teams. How you use engage with AI
+
+19
+00:01:33.980 --> 00:01:37.570
+Amélie Gourdon-Kanhukamwe (ADHD): and if at all, because you.
+
+20
+00:01:37.810 --> 00:01:43.970
+Amélie Gourdon-Kanhukamwe (ADHD): I think your cyber group, if I remember well, so you might have used it less.
+
+21
+00:01:44.120 --> 00:01:57.990
+Amélie Gourdon-Kanhukamwe (ADHD): We'll go over this in a minute, you and your overall reflections on the experience. This is a focus group. We're collecting qualitative data. It's really about your experience. So there's definitely no right or wrong answers. We just want to learn from your perspective.
+
+22
+00:02:01.000 --> 00:02:09.320
+Amélie Gourdon-Kanhukamwe (ADHD): So we are recording it for transcription later. Obviously, but that's fine.
+
+23
+00:02:10.050 --> 00:02:16.470
+Amélie Gourdon-Kanhukamwe (ADHD): So just to confirm you were cyborg White, just for me, to be completely sure.
+
+24
+00:02:16.920 --> 00:02:20.710
+Participant 2: I would have said I work today, but I was a machine in November. I don't know.
+
+25
+00:02:20.710 --> 00:02:21.185
+Amélie Gourdon-Kanhukamwe (ADHD): Okay.
+
+26
+00:02:21.770 --> 00:02:32.223
+Amélie Gourdon-Kanhukamwe (ADHD): okay, so that's actually, that's a good point. Because you just did it today. And we've already done some focus group with people did in the previous waves last year. I think,
+
+27
+00:02:32.650 --> 00:02:41.629
+Amélie Gourdon-Kanhukamwe (ADHD): what we want today really is to focus on your experience today. But I mean to be fair. I think if you've been in both types, both branches.
+
+28
+00:02:41.830 --> 00:02:46.780
+Amélie Gourdon-Kanhukamwe (ADHD): user contrast might be useful as well. But obviously everything from today would be more.
+
+29
+00:02:48.435 --> 00:02:49.260
+Amélie Gourdon-Kanhukamwe (ADHD): Salient.
+
+30
+00:02:50.950 --> 00:02:59.859
+Amélie Gourdon-Kanhukamwe (ADHD): But consider that when I'm going over the question, it's probably more about today. And then if you find that the comparison is useful don't hesitate. So we actually
+
+31
+00:03:00.100 --> 00:03:05.989
+Amélie Gourdon-Kanhukamwe (ADHD): as much as you feel watching post experience. Okay, so
+
+32
+00:03:07.150 --> 00:03:12.619
+Amélie Gourdon-Kanhukamwe (ADHD): there is 5 sections of questions. The 1st one is about general context and motivation.
+
+33
+00:03:13.168 --> 00:03:18.851
+Amélie Gourdon-Kanhukamwe (ADHD): What I'm gonna do, because I've done that with a group on Monday, and I find that quite useful is when I'll
+
+34
+00:03:19.320 --> 00:03:29.570
+Amélie Gourdon-Kanhukamwe (ADHD): give you a prompt for everyone to to think about and and discuss. I'll also put it in the chat. So then it's return. And and it's here for accessibility purposes.
+
+35
+00:03:29.850 --> 00:03:37.610
+Amélie Gourdon-Kanhukamwe (ADHD): So the 1st question is quite broad. What motivated you to participate in the replication games?
+
+36
+00:03:43.150 --> 00:03:44.830
+Participant 2: Should we answer, or.
+
+37
+00:03:45.370 --> 00:03:53.122
+Amélie Gourdon-Kanhukamwe (ADHD): Yes, please. In whichever I mean, you know, focus will be social. Okay, you know, if you jump and and go back and forth. Actually, it's
+
+38
+00:03:54.100 --> 00:03:55.069
+Amélie Gourdon-Kanhukamwe (ADHD): kind of to.
+
+39
+00:03:55.330 --> 00:04:04.379
+Amélie Gourdon-Kanhukamwe (ADHD): The thoughts might also be inspired by the discussion. This purpose of having you all together, so don't hesitate to that jump in in any order you want.
+
+40
+00:04:10.390 --> 00:04:13.660
+Participant 2: Well, I'm I'm happy to share. Why I participated. If that's okay.
+
+41
+00:04:14.720 --> 00:04:18.009
+Participant 2: Okay, yeah. So I participated in 3 separate games.
+
+42
+00:04:18.560 --> 00:04:21.809
+Participant 2: The 1st time I participated was in the summer of 2020
+
+43
+00:04:21.990 --> 00:04:30.790
+Participant 2: 3, which was essentially the 1st round the 1st meta paper. And so the reason why I wanted to participate is because I thought that, you know, assessing the state of
+
+44
+00:04:31.180 --> 00:04:38.229
+Participant 2: reproducibility and replicability is well, it's interesting. But also it's important.
+
+45
+00:04:38.540 --> 00:04:55.649
+Participant 2: And I had read about the crisis that was, you know, happening in other fields. And so I was curious to find out. You know. How is it in our field, in economics, and how is it? How is it in political science? And I've just been sticking with it. So I also participated in the second round with a second Meta paper. And obviously here in the
+
+46
+00:04:55.840 --> 00:05:00.249
+Participant 2: AI replication came as good because I was very curious to see how AI performs.
+
+47
+00:05:02.310 --> 00:05:02.920
+Amélie Gourdon-Kanhukamwe (ADHD): Good.
+
+48
+00:05:03.970 --> 00:05:06.430
+Amélie Gourdon-Kanhukamwe (ADHD): I'm Nancy, or Yun Chen.
+
+49
+00:05:08.108 --> 00:05:12.230
+Participant 1: Hi! I participated in in the
+
+50
+00:05:12.390 --> 00:05:20.279
+Participant 1: Cornell games last year, and that was my 1st time I was playing a machine there. I participated because
+
+51
+00:05:20.670 --> 00:05:29.629
+Participant 1: I enjoy reading these papers and replicating them, and I thought it'd be fun mostly, and I had run some
+
+52
+00:05:30.220 --> 00:05:40.310
+Participant 1: a paper, read some papers by a bell on P. Hacking. So I was pretty curious. And I wanted to experience that firsthand like how the whole process takes place.
+
+53
+00:05:40.860 --> 00:05:42.220
+Participant 1: So yeah.
+
+54
+00:05:43.270 --> 00:05:46.730
+Amélie Gourdon-Kanhukamwe (ADHD): I take from that that you're also an economist. I forgot to ask people.
+
+55
+00:05:46.730 --> 00:05:47.510
+Participant 1: Yes, but yeah.
+
+56
+00:05:47.510 --> 00:05:54.160
+Participant 1: yes, I'm now. I'm a 4th year. Phd. Student in economics like last year was 3rd year. So.
+
+57
+00:05:54.720 --> 00:05:55.310
+Amélie Gourdon-Kanhukamwe (ADHD): Okay.
+
+58
+00:05:58.190 --> 00:06:04.849
+Participant 3: Yeah. So I'm a like, A, I'm a Phd student in computer science. And I've heard about
+
+59
+00:06:04.900 --> 00:06:20.809
+Participant 3: replication game in in a conference that I was going to. I didn't join, so so I think the replication game happened during the day before the conference, so I didn't went to that one, but I heard of it that time, and I joined the the
+
+60
+00:06:20.810 --> 00:06:45.180
+Participant 3: the like. The subsequent one, I think, like, I'm a like. My research area is a little bit at the intersection of economy and computer science. I do some research related to large language models. So I'm always interested in just how large language models are shaping different fields. And I think this is like a
+
+61
+00:06:45.260 --> 00:07:02.879
+Participant 3: this comparison between large language models and not using large language models. And this hybrid is kind of interesting. So I'm just like joining it, and for fun to see if I can, I can learn something, or to have some interesting observations.
+
+62
+00:07:03.560 --> 00:07:04.579
+Amélie Gourdon-Kanhukamwe (ADHD): Okay, thank you.
+
+63
+00:07:05.127 --> 00:07:13.472
+Amélie Gourdon-Kanhukamwe (ADHD): Okay. Next question is, a bit more about AI, in fact. So but before any of the games
+
+64
+00:07:14.520 --> 00:07:24.489
+Amélie Gourdon-Kanhukamwe (ADHD): So before participating. What were your expectations about the role of that AI could play or would play in your team's work?
+
+65
+00:07:32.010 --> 00:07:34.040
+Participant 1: I I can say this, I mean,
+
+66
+00:07:35.410 --> 00:07:46.249
+Participant 1: I thought, it's I'm just going to upload the files replication files, and it's going to be able to reproduce the results. Exactly how I expect.
+
+67
+00:07:46.410 --> 00:07:50.390
+Participant 1: how the paper has. However, it sort of didn't work
+
+68
+00:07:50.630 --> 00:07:53.820
+Participant 1: for my group like the 1st time.
+
+69
+00:07:54.300 --> 00:07:59.050
+Participant 1: But then, yeah, I mean, I tried a couple of times. It didn't work.
+
+70
+00:07:59.310 --> 00:08:02.840
+Participant 1: But then, in a new chat, I uploaded just the
+
+71
+00:08:03.030 --> 00:08:07.519
+Participant 1: very table, because, Cyborg, you can read through the tables, right? So I
+
+72
+00:08:08.020 --> 00:08:15.270
+Participant 1: variable and the code corresponding code file. And then it gave me the results
+
+73
+00:08:15.430 --> 00:08:22.940
+Participant 1: as expected. But by the time the team had already figured it out. This was just my trying like. After a couple of hours I tried it, just to
+
+74
+00:08:23.080 --> 00:08:24.290
+Participant 1: be sure.
+
+75
+00:08:24.400 --> 00:08:36.299
+Participant 1: if it ever works so, but personally, like the team had, like we, we had figured it out, and within the 1st hour that we could manually do it. So we replicated that those results. But yeah, AI
+
+76
+00:08:36.409 --> 00:08:49.030
+Participant 1: didn't meet the expectations for Stata, at least, because usually when I work, I work on R or python, and there. I get the results quickly, and they're mostly correct. But I think stata is. There's a limitation
+
+77
+00:08:49.520 --> 00:08:50.659
+Participant 1: with stereo.
+
+78
+00:08:50.660 --> 00:08:51.050
+Amélie Gourdon-Kanhukamwe (ADHD): Yeah.
+
+79
+00:08:51.050 --> 00:08:53.770
+Participant 1: Yes, yeah. So that is my experience.
+
+80
+00:08:55.210 --> 00:08:56.260
+Amélie Gourdon-Kanhukamwe (ADHD): Anyone else?
+
+81
+00:08:56.550 --> 00:09:01.590
+Amélie Gourdon-Kanhukamwe (ADHD): What were your expectations about the role of AI before the game?
+
+82
+00:09:03.425 --> 00:09:05.999
+Participant 3: So for me, before the
+
+83
+00:09:06.280 --> 00:09:29.420
+Participant 3: game, I was mostly working in computer science languages. And there, I think there's a more heavy programming component. So I frequently use AI to help with different aspects of programming. But I think here today, where we are doing replication. And it's more economic. So it's more data analysis rather than like
+
+84
+00:09:29.520 --> 00:09:39.020
+Participant 3: coming up with like new code for more, for for complicated models. I think I used our group, I think, used
+
+85
+00:09:39.510 --> 00:09:51.629
+Participant 3: like Gpt, like large language models, more, helping us to come up with robustness, like like proposing robustness checks, and especially.
+
+86
+00:09:51.630 --> 00:09:52.010
+Participant 3: and
+
+87
+00:09:52.010 --> 00:10:13.732
+Participant 3: because I I don't have a lot of economics experience just like. So I'm not even sure what typical people use for robustness checks. So Gpt helps a lot in this case, forming up with, like, I think, interesting hypothesis. That the group members also agree is interesting, and then we can go into that direction.
+
+88
+00:10:15.640 --> 00:10:16.520
+Amélie Gourdon-Kanhukamwe (ADHD): Okay.
+
+89
+00:10:16.800 --> 00:10:19.460
+Amélie Gourdon-Kanhukamwe (ADHD): And Nikra.
+
+90
+00:10:19.650 --> 00:10:30.520
+Participant 2: My expectation was that Chat Gpt was not going to be doing the work for me. My expectation was that I can use Chat gpt potentially to speed up the
+
+91
+00:10:30.950 --> 00:10:42.170
+Participant 2: location of errors, or, like, you know, essentially, I can use chat should be to tell me where to look. But I still have to look myself. It's not gonna do essentially the work for me which
+
+92
+00:10:42.370 --> 00:10:51.499
+Participant 2: was mainly shaped by, I guess my experience in the prior games when it was a machine, and it just didn't really do anything with me because I wasn't able to help it. So.
+
+93
+00:10:51.500 --> 00:10:52.120
+Amélie Gourdon-Kanhukamwe (ADHD): Yeah.
+
+94
+00:10:53.460 --> 00:10:56.700
+Amélie Gourdon-Kanhukamwe (ADHD): So in general just as a follow up.
+
+95
+00:10:58.270 --> 00:11:03.589
+Amélie Gourdon-Kanhukamwe (ADHD): I I think I gather that like any of you had you all had used.
+
+96
+00:11:03.720 --> 00:11:07.720
+Amélie Gourdon-Kanhukamwe (ADHD): Try Gpt or other tools before the games. Right? I mean.
+
+97
+00:11:07.930 --> 00:11:11.209
+Amélie Gourdon-Kanhukamwe (ADHD): if we take sorry if we take away today, obviously because
+
+98
+00:11:11.830 --> 00:11:16.940
+Amélie Gourdon-Kanhukamwe (ADHD): used it last time, unless last time you were in the human only group that
+
+99
+00:11:17.560 --> 00:11:19.990
+Amélie Gourdon-Kanhukamwe (ADHD): when you started doing the AI games
+
+100
+00:11:20.300 --> 00:11:24.829
+Amélie Gourdon-Kanhukamwe (ADHD): you had used it also in other contacts, right? Just to double check.
+
+101
+00:11:25.500 --> 00:11:26.080
+Participant 2: Yes.
+
+102
+00:11:27.425 --> 00:11:30.219
+Amélie Gourdon-Kanhukamwe (ADHD): And Nancy and Yachthy, as well.
+
+103
+00:11:31.860 --> 00:11:32.520
+Participant 3: Yes.
+
+104
+00:11:33.580 --> 00:11:34.090
+Participant 1: Yeah.
+
+105
+00:11:34.090 --> 00:11:34.860
+Amélie Gourdon-Kanhukamwe (ADHD): Oh, okay,
+
+106
+00:11:37.710 --> 00:11:39.119
+Amélie Gourdon-Kanhukamwe (ADHD): So you I mean.
+
+107
+00:11:39.320 --> 00:11:46.620
+Amélie Gourdon-Kanhukamwe (ADHD): naturally, in the flow that comes. So we've already talked a bit about that. You've already talked a bit about that. But I'm going to go into the next section, into
+
+108
+00:11:47.865 --> 00:11:52.950
+Amélie Gourdon-Kanhukamwe (ADHD): more into the AI user interaction during the games.
+
+109
+00:11:54.760 --> 00:11:56.448
+Amélie Gourdon-Kanhukamwe (ADHD): So if you could
+
+110
+00:11:57.260 --> 00:12:00.509
+Amélie Gourdon-Kanhukamwe (ADHD): describe what we are focusing on today?
+
+111
+00:12:02.790 --> 00:12:07.130
+Amélie Gourdon-Kanhukamwe (ADHD): How your team use chat, gpt during the game.
+
+112
+00:12:08.620 --> 00:12:11.150
+Amélie Gourdon-Kanhukamwe (ADHD): That'd be amazing.
+
+113
+00:12:14.973 --> 00:12:17.269
+Participant 1: Mean today just today.
+
+114
+00:12:17.270 --> 00:12:18.870
+Amélie Gourdon-Kanhukamwe (ADHD): Yeah, just today, for now.
+
+115
+00:12:19.050 --> 00:12:20.310
+Participant 1: So like
+
+116
+00:12:21.130 --> 00:12:31.180
+Participant 1: the 2 other team members, we all started reading the paper, and then we started figuring out how to replicate right? So
+
+117
+00:12:31.370 --> 00:12:39.190
+Participant 1: so they were focusing on the manual aspect of it like ran it in in
+
+118
+00:12:39.690 --> 00:12:51.999
+Participant 1: state itself immediately, and it ran, and then I underly was running the same thing on Chat Gpt, and it gave incorrect results. And they didn't match like a few times.
+
+119
+00:12:52.640 --> 00:13:03.829
+Participant 1: So yeah. But then we were content with what we got when we ran manually, and then there was some coding errors that we found
+
+120
+00:13:03.940 --> 00:13:21.760
+Participant 1: again manually, but then we confirmed with Chat gpt, and that gave similar results. What we were we were thinking. It gave similar results when it was finding where it was trying to find errors. So if so, the idea is like, if I give specific file, a specific, very specific
+
+121
+00:13:21.910 --> 00:13:29.530
+Participant 1: table that oh is, can you find coding errors in such and such section? And then it gave correctly
+
+122
+00:13:30.590 --> 00:13:31.160
+Participant 1: so.
+
+123
+00:13:32.190 --> 00:13:33.389
+Participant 1: But yeah.
+
+124
+00:13:33.550 --> 00:13:42.399
+Participant 1: it didn't replicate initially. Once it found the error that I asked for a replication in new chat, then it replicated the tables correctly.
+
+125
+00:13:45.250 --> 00:13:51.289
+Amélie Gourdon-Kanhukamwe (ADHD): How did you use it within your team?
+
+126
+00:13:52.850 --> 00:13:56.460
+Participant 3: I think, for our group. In in our discussion we didn't like.
+
+127
+00:13:56.990 --> 00:14:13.920
+Participant 3: We didn't explicitly say that I'm using Chat Gpt, so there's no way to tell so, but only from my experience. We. We replicated the code pretty quickly, so we didn't have much issue with the cold most of the time we're discussing
+
+128
+00:14:14.309 --> 00:14:33.410
+Participant 3: based on the the columns like, based on, based on the table, we are asked to replicate, what are the robustness checks possible. And then what is this actually doing? And there we were, I think at least I was using Chat Gpt, to help me understand what that
+
+129
+00:14:33.500 --> 00:14:54.150
+Participant 3: particular table is doing. And then, like thinking, guide me thinking of possible possible, like robustness checks which I then propose to the team members. And then we discuss which one makes more sense and which one doesn't. So that's how at least I in the group use the Chatgvt.
+
+130
+00:14:54.320 --> 00:14:54.980
+Participant 3: Yeah.
+
+131
+00:14:54.980 --> 00:14:57.360
+Amélie Gourdon-Kanhukamwe (ADHD): Yep, nicola.
+
+132
+00:14:57.360 --> 00:15:26.969
+Participant 2: Yeah, I would say that 1st of all, we didn't use Chat gpt to run codes, because as far as understanding it can do that, and it did produce some results, prior. But we didn't do that with the only thing we used it for was 1st 1st of all to summarize the paper. You know. What is this paper doing? What is this table showing? I also used it to suggest robustness checks. What I found was that it was suggesting things that are, you know, not really feasible. It just said, you know. Assume that you have Xyz, which you know we didn't
+
+133
+00:15:28.160 --> 00:15:44.650
+Participant 2: So in the end, I think the biggest use of it was essentially giving it a batch of code and asking it, what is this doing in order to find potential discrepancies or errors. It definitely was a big help, I would say, but you have to know exactly what you're
+
+134
+00:15:45.080 --> 00:15:46.149
+Participant 2: in order to get that.
+
+135
+00:15:46.300 --> 00:15:48.059
+Participant 2: Get that output that you want.
+
+136
+00:15:49.130 --> 00:15:50.015
+Amélie Gourdon-Kanhukamwe (ADHD): Okay,
+
+137
+00:15:51.050 --> 00:15:56.710
+Amélie Gourdon-Kanhukamwe (ADHD): actually the what you said. But you know it was a big help. That's nice. Transition to the next question is,
+
+138
+00:15:57.100 --> 00:16:00.360
+Amélie Gourdon-Kanhukamwe (ADHD): if you found that, you know Chatgpt influenced
+
+139
+00:16:00.500 --> 00:16:09.119
+Amélie Gourdon-Kanhukamwe (ADHD): your workflow or your decision making like, did anything in your workflow decision, making change as a result of the responses that it gave you.
+
+140
+00:16:19.220 --> 00:16:20.270
+Amélie Gourdon-Kanhukamwe (ADHD): Any of you.
+
+141
+00:16:27.450 --> 00:16:34.770
+Participant 1: Actually not so much like we were usually running it in parallel, like I said so.
+
+142
+00:16:34.920 --> 00:16:40.869
+Participant 1: The manual process, and verifying with chat, gpt like when we thought of robustness
+
+143
+00:16:41.330 --> 00:16:45.100
+Participant 1: cells. And we asked for robustness checks
+
+144
+00:16:45.740 --> 00:16:56.249
+Participant 1: in in the chat with Llm. And then we would just verify, sort of like, yeah, we are thinking on the same lines. But the workflow wasn't too affected.
+
+145
+00:16:56.420 --> 00:17:07.120
+Participant 1: The driver here right now, here in in the group was the manual checks and and and coding, and then checking just verification with
+
+146
+00:17:07.359 --> 00:17:08.099
+Participant 1: good.
+
+147
+00:17:08.109 --> 00:17:08.629
+Amélie Gourdon-Kanhukamwe (ADHD): And then.
+
+148
+00:17:08.630 --> 00:17:15.419
+Participant 1: There was less reliance on it in terms of who? I wouldn't say that, like we we did the we did
+
+149
+00:17:15.630 --> 00:17:34.929
+Participant 1: the coding, and then fix the checked for the errors ran our own regressions. Because, like I said, data, we can't rely 1st data on Llm. And ran the regressions and then robustness checks of using against data locals, data on our machines. And then.
+
+150
+00:17:35.130 --> 00:17:38.859
+Participant 1: yeah, it didn't affect the workflow as such. For us.
+
+151
+00:17:41.930 --> 00:17:42.960
+Amélie Gourdon-Kanhukamwe (ADHD): Anyone else.
+
+152
+00:17:44.304 --> 00:17:48.519
+Participant 3: I don't. Yeah, I I don't. Also, I also don't think it like
+
+153
+00:17:48.760 --> 00:17:53.639
+Participant 3: I think the workflow remains the same. It's just that. Instead of like
+
+154
+00:17:53.900 --> 00:18:07.420
+Participant 3: coming up with like ideas, or coming up with potential interventions. We I we asked Gpt, so there may be a lag, so there are. Sometimes we are muted doing our work before we come up with suggestions. But I don't think
+
+155
+00:18:07.770 --> 00:18:08.889
+Participant 3: it really.
+
+156
+00:18:09.330 --> 00:18:12.620
+Participant 3: It really changes the workflow by that much.
+
+157
+00:18:16.030 --> 00:18:19.560
+Participant 2: But, echo Dot, I think it didn't really change my workflow very much.
+
+158
+00:18:21.090 --> 00:18:26.400
+Amélie Gourdon-Kanhukamwe (ADHD): Okay, as a follow up prompt. Because I I think that kind of
+
+159
+00:18:27.520 --> 00:18:30.190
+Amélie Gourdon-Kanhukamwe (ADHD): became a bit apparent in other groups that
+
+160
+00:18:30.350 --> 00:18:37.940
+Amélie Gourdon-Kanhukamwe (ADHD): sometimes the organization of who's doing the prompt is different. So like was there like an organization where you know
+
+161
+00:18:38.900 --> 00:18:53.840
+Amélie Gourdon-Kanhukamwe (ADHD): someone that was there organically, people who are initiating from small. But also was there an organization where, you know, maybe you all one person enter the prompts. They've all been decided by the team, or actually, everyone is using Gpt on their own
+
+162
+00:18:54.790 --> 00:18:56.450
+Amélie Gourdon-Kanhukamwe (ADHD): and then they come back.
+
+163
+00:18:56.750 --> 00:19:04.309
+Amélie Gourdon-Kanhukamwe (ADHD): And, you know, kind of more parallel. Work in a way. Did you find any of that
+
+164
+00:19:05.680 --> 00:19:13.110
+Amélie Gourdon-Kanhukamwe (ADHD): well, any specific organizations that emerge either organically or because you decided of working with the prompts and Gpt.
+
+165
+00:19:13.460 --> 00:19:16.279
+Participant 2: My group just worked entirely in parallel the entire time.
+
+166
+00:19:16.975 --> 00:19:17.670
+Amélie Gourdon-Kanhukamwe (ADHD): Okay.
+
+167
+00:19:18.550 --> 00:19:19.750
+Participant 3: Yeah. The same?
+
+168
+00:19:21.270 --> 00:19:23.100
+Participant 1: Yes, same for us.
+
+169
+00:19:23.650 --> 00:19:24.400
+Amélie Gourdon-Kanhukamwe (ADHD): Okay?
+
+170
+00:19:27.100 --> 00:19:28.230
+Amélie Gourdon-Kanhukamwe (ADHD): And
+
+171
+00:19:28.390 --> 00:19:34.629
+Amélie Gourdon-Kanhukamwe (ADHD): and also in terms of process. Did you find that you need to rephrase and iterate a lot.
+
+172
+00:19:38.430 --> 00:19:39.900
+Participant 2: Rephrase, prompt.
+
+173
+00:19:41.910 --> 00:19:42.830
+Amélie Gourdon-Kanhukamwe (ADHD): Yeah.
+
+174
+00:19:42.830 --> 00:19:45.210
+Participant 2: I did. I did not feel that. No.
+
+175
+00:19:45.530 --> 00:19:51.890
+Participant 2: I I did feel that just. You know I know this is not about my past experience. But when I was doing the machine stuff I did. But today I didn't.
+
+176
+00:19:52.520 --> 00:19:55.000
+Amélie Gourdon-Kanhukamwe (ADHD): Okay. Oh, that's actually about interesting.
+
+177
+00:19:57.350 --> 00:20:01.320
+Participant 3: For me. I just ask follow up questions when it doesn't.
+
+178
+00:20:01.990 --> 00:20:09.510
+Participant 3: doesn't do what I want, what I find. It's not desirable. But I didn't rephrase. I didn't rerun. Yeah.
+
+179
+00:20:09.510 --> 00:20:11.720
+Amélie Gourdon-Kanhukamwe (ADHD): Okay. So then you iterated basically.
+
+180
+00:20:11.720 --> 00:20:14.110
+Participant 3: Yes, I. But yeah, I iterated it.
+
+181
+00:20:15.100 --> 00:20:15.770
+Participant 1: I I did.
+
+182
+00:20:15.770 --> 00:20:16.210
+Amélie Gourdon-Kanhukamwe (ADHD): Okay.
+
+183
+00:20:16.210 --> 00:20:24.280
+Participant 1: A little, I mean, not so much like compared to when I was from the machine team, but comparatively much less. But
+
+184
+00:20:24.630 --> 00:20:26.990
+Participant 1: it was still there a little bit.
+
+185
+00:20:27.980 --> 00:20:28.700
+Amélie Gourdon-Kanhukamwe (ADHD): Okay.
+
+186
+00:20:29.010 --> 00:20:29.630
+Participant 1: Yeah.
+
+187
+00:20:30.550 --> 00:20:35.150
+Amélie Gourdon-Kanhukamwe (ADHD): Thanks. Okay, so so like.
+
+188
+00:20:36.430 --> 00:20:42.319
+Amélie Gourdon-Kanhukamwe (ADHD): also, just final point, probably on the process. Because I know Nancy, for example, you said, you know
+
+189
+00:20:42.910 --> 00:20:55.570
+Amélie Gourdon-Kanhukamwe (ADHD): you used it to like, understand the paper, so I assume it was quite early. But like would you? Would you be able to like pinpoint? You know that there was a specific time. So maybe you decided to 1st do stuff without it, and then you
+
+190
+00:20:57.223 --> 00:21:00.749
+Amélie Gourdon-Kanhukamwe (ADHD): started to use it, or you used it from the very beginning.
+
+191
+00:21:00.950 --> 00:21:04.380
+Participant 1: I used to. Yeah, I use like we, I think
+
+192
+00:21:05.130 --> 00:21:14.899
+Participant 1: couple of us use it for summarizing the paper right from the get go. But but nobody thought of starting the coding, using that.
+
+193
+00:21:15.130 --> 00:21:20.430
+Participant 1: because even before we could start, we simply ran the code file and.
+
+194
+00:21:20.430 --> 00:21:20.840
+Amélie Gourdon-Kanhukamwe (ADHD): Nope.
+
+195
+00:21:20.840 --> 00:21:39.830
+Participant 1: I mean parallelly. And then I was like, Okay, while that's happening, I'll quickly upload and check. But then the focus shifted towards manual coding because the 1st attempt with Chat Gpt failed. So I thought, let's not waste too much time there. But then, in a few hours, when our personal, like a manual task was complete. I gave it a shot again.
+
+196
+00:21:40.570 --> 00:21:48.569
+Participant 1: and this time I just focused on 2 specific files that were relevant. And then it gave me the correct results.
+
+197
+00:21:50.740 --> 00:22:08.210
+Participant 1: Yeah, I mean, I did try one in. I did try like one more time sometime. But I knew that it wasn't. Gonna it's gonna it was gonna be very troublesome. Maybe something is not working right with the prompts. And another another group member tried it, too, in his
+
+198
+00:22:08.750 --> 00:22:12.739
+Participant 1: window for Chat window, and it didn't work for him either.
+
+199
+00:22:14.490 --> 00:22:31.250
+Participant 1: So the replication didn't work initially, but after a while for checking robustness or coding errors. Once we found the coding errors, and we uploaded and verified with Chat Gpt that it would give the same results. So that was sort of reassuring. But yeah.
+
+200
+00:22:33.440 --> 00:22:36.219
+Amélie Gourdon-Kanhukamwe (ADHD): Thank you.
+
+201
+00:22:42.865 --> 00:22:44.100
+Participant 3: Think
+
+202
+00:22:44.490 --> 00:22:56.139
+Participant 3: for me. I I also didn't start using it. I think I started just running the replication package and then manually scanning through the paper.
+
+203
+00:22:56.410 --> 00:23:11.090
+Participant 3: I didn't find it technical enough that I need Gpt to summarize and stuff and the code was running fine. So I only started using it mainly during the robustness stage.
+
+204
+00:23:12.480 --> 00:23:14.209
+Amélie Gourdon-Kanhukamwe (ADHD): Okay. And it's go.
+
+205
+00:23:15.470 --> 00:23:17.299
+Participant 2: I immediately started.
+
+206
+00:23:17.470 --> 00:23:37.749
+Participant 2: I put the paper into the machine, and, you know, asked it to summarize it for me. But, as far as you know, coding is concerned, I proceeded, like Yun Chen, I, you know, used the replication package and made sure that I could replicate the table, reproduce the table that was asked. And then, after we successfully reproduced the table, which was after, like 5 or 10 min
+
+207
+00:23:38.490 --> 00:23:49.939
+Participant 2: we started interacting with it. And you know, asking, you know, what does this bit of code do? And you know what might we do for robustness checks? But initially, the only use for chat. Gpt was just to summarize the paper.
+
+208
+00:23:51.210 --> 00:24:06.669
+Amélie Gourdon-Kanhukamwe (ADHD): Okay, I'm gonna bounce before I move to the next section. Actually, I'm gonna sort of like, go back to maybe your expectation perceptions of AI in before, like you used it today. Because, like, at least 2 of you have mentioned, you know, like you
+
+209
+00:24:08.160 --> 00:24:12.639
+Amélie Gourdon-Kanhukamwe (ADHD): used it like for specific stuff at some point. So is that like.
+
+210
+00:24:12.900 --> 00:24:18.880
+Amélie Gourdon-Kanhukamwe (ADHD): was there something in there? That was because you were like feeling skeptical, or or
+
+211
+00:24:19.030 --> 00:24:35.709
+Amélie Gourdon-Kanhukamwe (ADHD): because of previous experience, previous knowledge, previous beliefs you had about it that you decided, you know, to do, or even actually be because of what you thought you had to do in the games, you clearly said. You know I try to look at reproduction by reproducibility, package myself.
+
+212
+00:24:35.850 --> 00:24:38.170
+Amélie Gourdon-Kanhukamwe (ADHD): and and do it myself. So
+
+213
+00:24:38.340 --> 00:24:40.019
+Amélie Gourdon-Kanhukamwe (ADHD): was there a reason for that.
+
+214
+00:24:43.880 --> 00:24:48.469
+Participant 1: So I can say that, like previously, my experience with machine was
+
+215
+00:24:48.590 --> 00:24:57.939
+Participant 1: not great. But then I also believe that the pack the system was new, fairly, comparatively new that time, like the Llm.
+
+216
+00:24:59.880 --> 00:25:07.699
+Participant 1: so it was difficult. I had higher expectations then, and that was, of course, shattered because I was from the machine demand. It took real long.
+
+217
+00:25:08.150 --> 00:25:08.600
+Amélie Gourdon-Kanhukamwe (ADHD): Yeah.
+
+218
+00:25:08.600 --> 00:25:23.900
+Participant 1: They actually had higher expectations also. But I saw the machine, the manual run happening so quickly that I sort of realized that especially for Stata. I don't rely llm, that much.
+
+219
+00:25:24.260 --> 00:25:29.220
+Participant 1: So my have gone further down today. So that that's what I'll say for Steera.
+
+220
+00:25:29.490 --> 00:25:34.299
+Participant 1: But for yeah, those data especially, I can't say about other papers. Yeah.
+
+221
+00:25:35.940 --> 00:25:37.770
+Amélie Gourdon-Kanhukamwe (ADHD): And your cell numbers here.
+
+222
+00:25:42.040 --> 00:25:43.710
+Participant 1: It's a sorry.
+
+223
+00:25:43.710 --> 00:26:06.020
+Participant 2: So from my my experience is that you know I'm trying to reproduce this as quickly as possible. I don't think Chatgpt is gonna help me with that. It's gonna make it slower if I know which table to reproduce. And I look at the replication package. I see where the code is, I click it and I'm done. I don't need to worry about what is it doing? So I think it's just because I'm trying to do it as quickly as possible, and I think as a human, I'm better than than the machine at that.
+
+224
+00:26:08.180 --> 00:26:08.510
+Participant 3: Yeah.
+
+225
+00:26:08.510 --> 00:26:09.659
+Amélie Gourdon-Kanhukamwe (ADHD): Thanks. Yeah, I'm trying.
+
+226
+00:26:10.020 --> 00:26:27.639
+Participant 3: Yeah, I I think the same with me. I I mean, like, the code is is large and a lot of lines and a lot of data processing. I think. Gp, unless there's a bug which Gpt would help me identify after I realize there's a bug just running the code itself.
+
+227
+00:26:27.870 --> 00:26:47.849
+Participant 3: I don't think Gpt will be very. And also there's lots of days like Gpt. Couldn't run the code on itself. So I just started running it myself. I think Gpt will be slow in many instances, and it doesn't handle many file structure. Well, so I didn't find it very helpful to start with using Gpt.
+
+228
+00:26:49.680 --> 00:26:50.206
+Amélie Gourdon-Kanhukamwe (ADHD): Thanks.
+
+229
+00:26:51.980 --> 00:27:03.990
+Amélie Gourdon-Kanhukamwe (ADHD): okay. So the next section is on the perception of AI, all but more like today. So it's gonna come back to a tiny bit on stuff. You know what you've said. And actually, Nicola said something about, you know.
+
+230
+00:27:06.220 --> 00:27:12.100
+Amélie Gourdon-Kanhukamwe (ADHD): along. So none of actually Gpt would get in the way of going fast. So like
+
+231
+00:27:12.830 --> 00:27:23.229
+Amélie Gourdon-Kanhukamwe (ADHD): looking back, did you feel looking back to today? So did you feel that the AI helped or hindered your performance
+
+232
+00:27:23.930 --> 00:27:31.390
+Amélie Gourdon-Kanhukamwe (ADHD): in any way or neutral like it could be neutral as well, because you decided to use it in very specific ways, so that it wouldn't do either.
+
+233
+00:27:34.560 --> 00:27:38.259
+Amélie Gourdon-Kanhukamwe (ADHD): which I'll paste that question in the chat.
+
+234
+00:27:39.910 --> 00:27:44.159
+Participant 2: Think for me. It's very clear. It's very clear that Chatgpt helped a lot.
+
+235
+00:27:44.480 --> 00:28:04.130
+Participant 2: but it didn't help for that specific task that was asked about reproducing the initial results is not helpful for that, but as far as virtually everything else is concerned, it was hugely helpful, and I'm sure that without it we would have performed a lot worse in terms of finding errors, and, you know, coming up with the robustness check. So it was hugely helpful.
+
+236
+00:28:04.750 --> 00:28:05.470
+Amélie Gourdon-Kanhukamwe (ADHD): Okay.
+
+237
+00:28:06.670 --> 00:28:11.899
+Participant 1: I think, for us it's sort of hindered in the way that yeah, I would say.
+
+238
+00:28:12.270 --> 00:28:16.310
+Participant 1: wasted a little time because it wasn't generating the results.
+
+239
+00:28:16.480 --> 00:28:21.850
+Participant 1: and we found more manual errors than Chatgpt. Chatgpt didn't.
+
+240
+00:28:22.420 --> 00:28:29.959
+Participant 1: and verify the errors and robustness checks. I mean, it gives a lot of stuff that's really not relevant or
+
+241
+00:28:30.425 --> 00:28:38.120
+Participant 1: like. For example, we are just supposed to highlight 2 important ones, and those are the ones that come to our mind. And we test like
+
+242
+00:28:38.230 --> 00:28:43.770
+Participant 1: 3 of them. But then Chatgp is gonna give you empty numbers, and you have to then pick which ones are like
+
+243
+00:28:44.200 --> 00:28:48.349
+Participant 1: best. I mean, I think it's a lot of sometimes too much information.
+
+244
+00:28:51.530 --> 00:28:52.230
+Amélie Gourdon-Kanhukamwe (ADHD): John Tren.
+
+245
+00:28:52.630 --> 00:28:54.060
+Participant 3: Yeah, I think it helps.
+
+246
+00:28:54.220 --> 00:28:59.730
+Participant 3: But I would imagine without chat, gpt, we will probably also come up with.
+
+247
+00:29:00.070 --> 00:29:13.560
+Participant 3: So the robustness part. So for the replication part. I don't think it helped for the robustness part. I think it improved the quality for our answers, but we would have done it relatively even quicker without it.
+
+248
+00:29:13.820 --> 00:29:22.970
+Participant 3: I think it helps inform, but it also gives a lot of information. So we would need an extra time to discuss the new ideas and stuff.
+
+249
+00:29:23.350 --> 00:29:24.040
+Participant 3: Hmm.
+
+250
+00:29:24.800 --> 00:29:27.183
+Amélie Gourdon-Kanhukamwe (ADHD): Okay, would you say?
+
+251
+00:29:28.400 --> 00:29:31.785
+Amélie Gourdon-Kanhukamwe (ADHD): that, you know. Sometimes the limitations?
+
+252
+00:29:32.720 --> 00:29:35.820
+Amélie Gourdon-Kanhukamwe (ADHD): became frustrating even, or time consuming.
+
+253
+00:29:36.070 --> 00:29:51.009
+Amélie Gourdon-Kanhukamwe (ADHD): or anything kind of like negative, but also at the same time, all on the opposite side. Actually, you don't need anyone, not just you, but anyone in your team as well expressed, actually enthusiasm, or something more positive about it.
+
+254
+00:29:57.580 --> 00:29:58.350
+Participant 3: See you today.
+
+255
+00:29:58.500 --> 00:29:58.990
+Participant 1: Sorry.
+
+256
+00:30:00.690 --> 00:30:11.507
+Participant 3: I was just gonna say it. It is frustrating a little bit to me certain times when, especially when I ask it to generate
+
+257
+00:30:12.430 --> 00:30:23.550
+Participant 3: generate code, and it gives me code that is wrong. And then I have to ask it again. And then it's like it's just slow. If I directly
+
+258
+00:30:24.120 --> 00:30:37.850
+Participant 3: decide to like. Look at the problem myself. I wouldn't maybe have even done it faster on hindsight, but I think it did, it does happen. But generally, I still feel like it's, it's useful.
+
+259
+00:30:39.750 --> 00:30:42.410
+Amélie Gourdon-Kanhukamwe (ADHD): Nancy, you are going to say something.
+
+260
+00:30:42.410 --> 00:30:53.299
+Participant 1: Yeah, I was saying that overly enthusiastic. I don't know. I think I was the. I was probably the one who was enthusiastic about using it, and I dampened down that enthusiasm because
+
+261
+00:30:53.530 --> 00:30:57.240
+Participant 1: I saw that, like the work was getting done better without it.
+
+262
+00:30:57.970 --> 00:31:01.939
+Amélie Gourdon-Kanhukamwe (ADHD): Okay. But so was there like frustration in the team express.
+
+263
+00:31:01.940 --> 00:31:09.539
+Participant 1: No, no, no frustration as such. It's like we'll just go with what the paper is saying, and it was light
+
+264
+00:31:09.920 --> 00:31:13.159
+Participant 1: that yeah, we can't trust that too much
+
+265
+00:31:13.690 --> 00:31:20.400
+Participant 1: with no frustration as such, because we weren't really depending too much on it. If we were, then we'd be really frustrated.
+
+266
+00:31:21.550 --> 00:31:22.160
+Amélie Gourdon-Kanhukamwe (ADHD): Okay.
+
+267
+00:31:22.160 --> 00:31:22.790
+Participant 1: Yeah.
+
+268
+00:31:24.780 --> 00:31:35.099
+Participant 2: I feel as though it sent us a number of places. It said, you know. Look there, look there! Look there, and you know 2 out of 3 times. There was nothing there, really, of note. But.
+
+269
+00:31:35.200 --> 00:31:44.860
+Participant 2: you know, just giving us a couple of different points to look and actually being able to identify that there were issues there reduced down. You know, there was so much code in our replication package. If we had to.
+
+270
+00:31:44.860 --> 00:31:45.360
+Amélie Gourdon-Kanhukamwe (ADHD): Like cars.
+
+271
+00:31:45.360 --> 00:31:55.739
+Participant 2: Through all of that code ourselves, it would have taken forever. So when I said it was hugely helpful. What I mean is that it just sped things up. We were much faster. Yeah, I don't think we were better. We were just faster.
+
+272
+00:31:57.100 --> 00:32:05.669
+Amélie Gourdon-Kanhukamwe (ADHD): Okay, and so we're gonna move to team dynamics and coordination, I think we've sort of
+
+273
+00:32:05.940 --> 00:32:07.600
+Amélie Gourdon-Kanhukamwe (ADHD): touch, a bit, you know with.
+
+274
+00:32:07.740 --> 00:32:21.830
+Amélie Gourdon-Kanhukamwe (ADHD): I know you all said you worked in parallel but you could work in parallel on defensing, so was there any kind of division of the work. Also, you know, in terms of what to do, or you really, truly worked in parallel, like everyone doing doing the same thing at the same time.
+
+275
+00:32:25.000 --> 00:32:26.440
+Amélie Gourdon-Kanhukamwe (ADHD): just to check.
+
+276
+00:32:30.690 --> 00:32:58.190
+Participant 2: So our team essentially worked in parallel at each stage. So at 1st we all tried to reproduce the table, which happened very quickly. Then we searched for coding errors. We were talking to each other while this was happening, so everybody was searching, and if someone found something, then they said it to the group, and the other people would verify it. And then, once we had done that, we moved to robustness checks and essentially proceeded similarly. So, we were working together. It's just that everyone had their own chat, Gpt window that.
+
+277
+00:32:58.190 --> 00:32:58.870
+Amélie Gourdon-Kanhukamwe (ADHD): Fill it up.
+
+278
+00:32:58.870 --> 00:33:00.010
+Participant 2: You know, working on.
+
+279
+00:33:00.950 --> 00:33:05.280
+Amélie Gourdon-Kanhukamwe (ADHD): Nice Junction.
+
+280
+00:33:05.280 --> 00:33:13.689
+Participant 1: Actually, we. We worked in parallel, we. We ran the code and found the errors and robustness. All stages were discussed, parallelly.
+
+281
+00:33:15.150 --> 00:33:20.649
+Participant 1: Like, yeah. And then we would move on. Once everyone was satisfied with what we had captured.
+
+282
+00:33:24.384 --> 00:33:28.730
+Participant 3: For our group. Yes, we were parallel as well. I
+
+283
+00:33:30.360 --> 00:33:35.929
+Participant 3: I I think, even at the end, it were, it works like we each like
+
+284
+00:33:36.520 --> 00:33:46.030
+Participant 3: propose something, and then we decide as a group which one is more interesting to look at, but like we do it mostly in parallel.
+
+285
+00:33:46.210 --> 00:33:47.060
+Participant 3: Hmm.
+
+286
+00:33:48.140 --> 00:33:48.950
+Amélie Gourdon-Kanhukamwe (ADHD): Okay,
+
+287
+00:33:50.050 --> 00:33:58.150
+Amélie Gourdon-Kanhukamwe (ADHD): was there any like disagreement at points about how the team could? How and when the team would use chatgpt
+
+288
+00:33:59.440 --> 00:34:06.039
+Amélie Gourdon-Kanhukamwe (ADHD): like, especially in the cases I mean. I know most cases. You didn't use it throughout for all tasks. So
+
+289
+00:34:06.520 --> 00:34:12.340
+Amélie Gourdon-Kanhukamwe (ADHD): But was that like something that had to be discussed, and and maybe was disagreed upon before.
+
+290
+00:34:14.300 --> 00:34:24.249
+Participant 3: For our group we had like. I don't think there's a lot of disagreement we we at times discuss, which might, one might be better than another, but not in the context of Chat Gpt. I don't think.
+
+291
+00:34:24.250 --> 00:34:25.040
+Amélie Gourdon-Kanhukamwe (ADHD): Indeed.
+
+292
+00:34:25.260 --> 00:34:34.800
+Participant 3: I don't think we had like I was using chat, gpt to give like we didn't really directly say our usage when we are having the conversations.
+
+293
+00:34:35.800 --> 00:34:37.669
+Amélie Gourdon-Kanhukamwe (ADHD): Okay, Nancy on it.
+
+294
+00:34:40.748 --> 00:34:42.891
+Participant 1: Yeah, I mean, no, no
+
+295
+00:34:43.659 --> 00:34:47.329
+Participant 1: issues as such, I guess not a lot of disagreement except
+
+296
+00:34:48.048 --> 00:35:00.090
+Participant 1: there was just I mean, we just wanted to find more errors, I think one of us. So that's all. So like we were like, maybe there's something more. And then some of us thought that maybe we're done.
+
+297
+00:35:00.290 --> 00:35:11.719
+Participant 1: But then, yeah. So they continued at our own. We continued at our own pace in the end, like once we captured everything, and we still wanted to figure things out. So we kept trying, like the one like I mentioned to you.
+
+298
+00:35:12.020 --> 00:35:19.729
+Participant 1: finding more errors. Another another participant wanted to find more errors. So she continued with that, and I wanted to make sure that I'm able to replicate the code.
+
+299
+00:35:19.730 --> 00:35:20.430
+Amélie Gourdon-Kanhukamwe (ADHD): Hmm.
+
+300
+00:35:20.430 --> 00:35:30.059
+Participant 1: Llm. So I did that on my own. So those were the things we tried on our own after we were like we were done with the group work, you know, just for our satisfaction. So that's some extra
+
+301
+00:35:30.480 --> 00:35:32.940
+Participant 1: that we did on our. But there was no.
+
+302
+00:35:32.940 --> 00:35:33.413
+Amélie Gourdon-Kanhukamwe (ADHD): Is it.
+
+303
+00:35:33.650 --> 00:35:34.429
+Participant 1: It's not true.
+
+304
+00:35:35.026 --> 00:35:36.220
+Amélie Gourdon-Kanhukamwe (ADHD): Yeah, Nico.
+
+305
+00:35:36.220 --> 00:35:53.019
+Participant 2: There was no disagreement in my group. Initially, we just confirmed that, you know, the prompt was to use Chat gpt as little or as much as everyone wants. So everybody individually chose chat, gpt at their own discretion. And so there wouldn't have been any disagreement, because everyone did what they wanted.
+
+306
+00:35:56.560 --> 00:35:57.290
+Amélie Gourdon-Kanhukamwe (ADHD): And
+
+307
+00:35:58.140 --> 00:36:14.399
+Amélie Gourdon-Kanhukamwe (ADHD): probably the last one in terms of dynamic. I think implicitly you use. We sort of got an impression of that from your own sales. But would you say that AI actually shaped AI use the way it was used? Shaped your collaboration?
+
+308
+00:36:15.262 --> 00:36:16.650
+Amélie Gourdon-Kanhukamwe (ADHD): In any way.
+
+309
+00:36:20.580 --> 00:36:27.400
+Participant 3: I didn't think it shaped our collaboration, maybe in terms of timing like, if we are, use not using AI like
+
+310
+00:36:27.590 --> 00:36:31.350
+Participant 3: we would spend less or more time, and, like different
+
+311
+00:36:31.660 --> 00:36:44.989
+Participant 3: ideas, come out. But just in terms of dynamics like, if you just listen to our conversation, you wouldn't even notice that we are using AI on our own. So I I don't think there is too much
+
+312
+00:36:45.940 --> 00:36:47.480
+Participant 3: influence there.
+
+313
+00:36:49.830 --> 00:36:50.520
+Amélie Gourdon-Kanhukamwe (ADHD): Okay.
+
+314
+00:36:51.020 --> 00:36:59.269
+Participant 1: Yeah, I agree. I like that that if you knew if you would hear our conversations you wouldn't know we we would. We are using AI. I agree, too.
+
+315
+00:36:59.800 --> 00:37:01.769
+Participant 1: because it was mostly
+
+316
+00:37:02.351 --> 00:37:11.979
+Participant 1: just for verification, but it didn't essentially shape the collaboration, except for we brought an agreement to the extent we were using it. So
+
+317
+00:37:13.550 --> 00:37:16.250
+Participant 1: that's about it mostly, yeah.
+
+318
+00:37:16.990 --> 00:37:17.570
+Participant 2: I would say
+
+319
+00:37:17.570 --> 00:37:35.279
+Participant 2: that for the most part it didn't shape our collaboration. There was one small exception where someone said that Chatgpt surprisingly identified something, and I wanted to verify that would be able to do it on my end as well. So I tried to replicate, and I wasn't able to do it.
+
+320
+00:37:35.768 --> 00:37:44.200
+Participant 2: So I'm not entirely sure how that would have happened. But, as we know, if you ask the same question twice, sometimes it gives different answers. So I guess that wasn't that surprising?
+
+321
+00:37:46.500 --> 00:37:51.679
+Amélie Gourdon-Kanhukamwe (ADHD): Okay, thanks. For the last section, it's reflection and takeaways.
+
+322
+00:37:52.290 --> 00:37:59.810
+Amélie Gourdon-Kanhukamwe (ADHD): so that that should be like, really don't hesitate to like if you speak, and then something else comes up because you're thinking further.
+
+323
+00:38:00.150 --> 00:38:08.947
+Amélie Gourdon-Kanhukamwe (ADHD): And someone said something that made you think about something else absolutely come back, because I think that's that's the most interesting section.
+
+324
+00:38:09.580 --> 00:38:10.510
+Amélie Gourdon-Kanhukamwe (ADHD): so
+
+325
+00:38:10.660 --> 00:38:25.399
+Amélie Gourdon-Kanhukamwe (ADHD): and I'll probably add a prompt specifically, because you have experience with other branches. And I think it'd be really nice to be able to reflect on this as well. But we'll start with today, probably. So if you were to do the games again,
+
+326
+00:38:26.650 --> 00:38:29.050
+Amélie Gourdon-Kanhukamwe (ADHD): would you use AI differently.
+
+327
+00:38:33.230 --> 00:38:41.100
+Participant 1: It's not a necessity, though I mind to verify a little bit, but earlier I think I was more reliant on it after today's session. I think
+
+328
+00:38:42.590 --> 00:38:46.860
+Participant 1: I could do it on my own. I mean, I I feel
+
+329
+00:38:47.290 --> 00:38:49.530
+Participant 1: little more confident, little less confident.
+
+330
+00:38:50.340 --> 00:38:51.500
+Participant 1: Yeah, yeah.
+
+331
+00:38:52.620 --> 00:38:58.190
+Amélie Gourdon-Kanhukamwe (ADHD): Okay. Oh, that's really surprising to see anyone else.
+
+332
+00:38:58.790 --> 00:39:06.130
+Participant 3: I think I would I would do it similarly. I I think the way I'm doing using AI today is
+
+333
+00:39:06.450 --> 00:39:28.849
+Participant 3: pretty helpful. And I I think if I'm doing it again I'll probably use it in the same way, although, like I do feel like there are at times where, like after I used Gpt, I realized that it would have been better if I just look at it manually. But then there are also times that Gpt are very efficient. It's just sometimes there's an unpredictability. But in terms of
+
+334
+00:39:29.240 --> 00:39:34.089
+Participant 3: how I use it, I think if I were to do it again, it will roughly be the same.
+
+335
+00:39:34.640 --> 00:39:40.640
+Amélie Gourdon-Kanhukamwe (ADHD): Okay. Since Nancy talked about that junction would you say you you would trust it more or less
+
+336
+00:39:40.970 --> 00:39:42.900
+Amélie Gourdon-Kanhukamwe (ADHD): in future games.
+
+337
+00:39:43.120 --> 00:39:53.670
+Participant 3: I I definitely not less. I think maybe a little bit more. It it was kind of helpful for me today. So yeah, so.
+
+338
+00:39:54.650 --> 00:39:55.130
+Amélie Gourdon-Kanhukamwe (ADHD): Mikra.
+
+339
+00:39:55.130 --> 00:40:10.980
+Participant 2: I'm pretty much exactly on the same page as Yan Chen. I think it's a very good point that before you use it you don't know if it's gonna give you something useful, but in expectation it it is, in fact, useful. So I use it. And if it's not useful, then I just, you know, move on, but
+
+340
+00:40:11.620 --> 00:40:16.630
+Participant 2: overall, I feel positively about my experience, and would continue to use it.
+
+341
+00:40:17.290 --> 00:40:22.839
+Amélie Gourdon-Kanhukamwe (ADHD): Okay, do you? Would you trust you would trust it to the same level? Probably, or more.
+
+342
+00:40:22.840 --> 00:40:24.509
+Participant 2: Maybe a little bit more. Yeah.
+
+343
+00:40:25.085 --> 00:40:31.419
+Amélie Gourdon-Kanhukamwe (ADHD): Okay, so I'm gonna add a prompt and then I would
+
+344
+00:40:31.670 --> 00:40:51.100
+Amélie Gourdon-Kanhukamwe (ADHD): talk a lot more about like differences in performance. So where your experience actually, with both multiple games really might come into play. So would you do? Would you say? Sorry that you you would want in future games, clear guidelines, or more freedom into
+
+345
+00:40:51.260 --> 00:40:52.939
+Amélie Gourdon-Kanhukamwe (ADHD): how to work with AI.
+
+346
+00:40:58.130 --> 00:41:01.699
+Participant 1: Clear guidance, if if we know that's gonna be
+
+347
+00:41:02.210 --> 00:41:05.979
+Participant 1: helpful, would would be great. At least, then it's less of
+
+348
+00:41:06.640 --> 00:41:09.809
+Participant 1: going haywire right? Getting distracted. Maybe.
+
+349
+00:41:10.590 --> 00:41:14.530
+Participant 1: Yeah, it'll save time if we know for a fact that yeah, we have a more
+
+350
+00:41:15.300 --> 00:41:18.800
+Participant 1: structure to the prompts. That'll be good.
+
+351
+00:41:20.870 --> 00:41:23.080
+Amélie Gourdon-Kanhukamwe (ADHD): Okay, Yanche.
+
+352
+00:41:26.730 --> 00:41:30.619
+Participant 3: I think, yeah, to some, to some extent
+
+353
+00:41:31.160 --> 00:41:39.860
+Participant 3: I would like more freedom. But it's for me, because I think I've interacted with language models a lot. So I know when to use it, and when
+
+354
+00:41:40.640 --> 00:41:48.899
+Participant 3: I think for people less less frequently using it from my my experience, I would think, like guidelines
+
+355
+00:41:49.050 --> 00:41:59.966
+Participant 3: telling you what scenario it might be helpful, and what scenario will be slow and unproductive will be very helpful. But just for me I would personally appreciate more freedom.
+
+356
+00:42:02.210 --> 00:42:09.799
+Participant 2: For my own experience. As far as I understand today, today's experience was just fully freedom, right? There was no restrictions at all. They just said
+
+357
+00:42:09.800 --> 00:42:10.230
+Participant 2: no.
+
+358
+00:42:10.230 --> 00:42:14.845
+Amélie Gourdon-Kanhukamwe (ADHD): You want, so it seems like more. Freedom is not possible. But
+
+359
+00:42:15.440 --> 00:42:25.270
+Participant 2: I think it. It really all depends on the research question that they are trying to answer right. But as far as my own preference is concerned, maximal freedom is nice. I liked today.
+
+360
+00:42:27.840 --> 00:42:48.119
+Amélie Gourdon-Kanhukamwe (ADHD): Okay. So this is the last, like big, prompt. But we, we might dig into this because it's like, I said, it's probably also the most interesting. So you, as a reminder you know, the difference in performance has been observed. From the previous games that AI led. So I machine groups
+
+361
+00:42:48.240 --> 00:42:54.650
+Amélie Gourdon-Kanhukamwe (ADHD): perform less well. And we wanted to ask you if you have any
+
+362
+00:42:54.900 --> 00:43:07.359
+Amélie Gourdon-Kanhukamwe (ADHD): idea about what might explains this, and since some of you have been, you know, in AI only groups, and now have been in cyborg, that's actually gonna be super interesting to hear from you. So so away. I mean.
+
+363
+00:43:07.470 --> 00:43:13.790
+Amélie Gourdon-Kanhukamwe (ADHD): just, you know, any I any idea on what might be happening, based specifically on your experience.
+
+364
+00:43:20.380 --> 00:43:31.990
+Participant 1: I think it's what we experienced today, like, it doesn't ex understanding the whole code in one. Go, if you give a very specific task. It's better at it.
+
+365
+00:43:32.150 --> 00:43:46.249
+Participant 1: So like. And when I was in the machine team they we we uploaded. I mean it. It didn't replicate, but after several hours like we didn't know what prompt is gonna work. So we just had to try, hit and try, try anything and everything.
+
+366
+00:43:46.860 --> 00:44:03.009
+Participant 1: All the prompts that could work for that, and that's when it suddenly generated all the files, and it didn't even give like we were looking for a specific table or a column right, but it when it generated the entire application. It it replicated the entire package in one go.
+
+367
+00:44:03.370 --> 00:44:06.469
+Participant 1: And so it wasn't very yeah smart, that.
+
+368
+00:44:07.160 --> 00:44:10.810
+Participant 1: But I think all AI team was really really
+
+369
+00:44:11.310 --> 00:44:15.659
+Participant 1: difficult, I would say, to achieve a replication for so.
+
+370
+00:44:19.693 --> 00:44:20.699
+Amélie Gourdon-Kanhukamwe (ADHD): Anyone else.
+
+371
+00:44:22.130 --> 00:44:26.480
+Participant 2: I think, from my perspective, just thinking back to the November experience when
+
+372
+00:44:26.760 --> 00:44:35.980
+Participant 2: I was in the machine team. It it just didn't really do anything. We just sat there for hours and hours and hours and tried to find a prompt that would
+
+373
+00:44:36.350 --> 00:44:46.569
+Participant 2: create an internal reproduction. We weren't able to use stata. We just had to use a chat. Gpt was supposed to run the code within itself, and it just couldn't
+
+374
+00:44:46.570 --> 00:44:46.950
+Participant 2: it?
+
+375
+00:44:47.160 --> 00:44:48.500
+Participant 2: So to me, it's
+
+376
+00:44:48.640 --> 00:45:08.100
+Participant 2: actually one of my team members shockingly was able to reproduce that specific number. Obviously, you don't know if it's because it just ended up reproducing the number with the errors based on the fact that it saw that number in the paper, or if it actually did reproduce it successfully. But
+
+377
+00:45:08.270 --> 00:45:21.689
+Participant 2: you know today I was able to look at the code myself, and I knew what was happening. So it's it's hardly surprising at all that the AI led teams underperformed and AI assisted teams overperform. It's because there's a human still
+
+378
+00:45:21.850 --> 00:45:22.600
+Participant 2: looking at.
+
+379
+00:45:22.600 --> 00:45:22.920
+Amélie Gourdon-Kanhukamwe (ADHD): Do you.
+
+380
+00:45:22.920 --> 00:45:26.290
+Participant 2: Because there's no way that to know what AI led.
+
+381
+00:45:27.300 --> 00:45:34.250
+Amélie Gourdon-Kanhukamwe (ADHD): What what even is happening. So I can't speak to the human. Only teams. I assume they're a little bit slower.
+
+382
+00:45:35.020 --> 00:45:36.700
+Participant 2: But yeah.
+
+383
+00:45:38.150 --> 00:45:38.750
+Amélie Gourdon-Kanhukamwe (ADHD): Yeah.
+
+384
+00:45:39.730 --> 00:45:40.175
+Amélie Gourdon-Kanhukamwe (ADHD): Junction.
+
+385
+00:45:40.940 --> 00:45:43.920
+Participant 3: I was earlier in the human team. I think.
+
+386
+00:45:45.027 --> 00:46:04.660
+Participant 3: So so I definitely, I can imagine the most AI only team being the worst, because I have experiences trying to use Gpt to get something purely on its own. It's it's really frustrating. I really don't have any good intuition. And I think the results might be very interesting, like how
+
+387
+00:46:04.690 --> 00:46:17.069
+Participant 3: humans, compared with like AI assist from my experience today, it seems to me that sometimes, if you are unlucky, you might even just be spending more time using
+
+388
+00:46:17.150 --> 00:46:45.019
+Participant 3: using chat Gpt, because, like at least the reproduction task, assuming that there's no error, should be really quick, and then, if you pass the code to gpt it. Getting back to you takes just a long time. So I wouldn't imagine if you're unlucky, and then the responses getting really bad, I would imagine that at least today, from our group's experience, we were not as fast as
+
+389
+00:46:45.020 --> 00:46:56.860
+Participant 3: when I was in humans group, but also when we were in humans group. We were kind of lucky, so I think the paper we were reproducing is kind of simple. We didn't find any bugs, and so it it all goes very smoothly.
+
+390
+00:46:56.860 --> 00:47:19.489
+Participant 3: so I don't know. I think I still feel like Gpt is helpful. It's good to have just this expert out there, but at the same time as sometimes it is costing us time. So it's an interesting trade-off. I don't have any good intuition as to which will be better. I would like always to have a Gpt at my disposal.
+
+391
+00:47:19.490 --> 00:47:28.450
+Participant 3: I just don't know whether it will increase my efficiency or not, but definitely, it's it's much better than just gpt on its own without any human guidance.
+
+392
+00:47:28.450 --> 00:47:31.210
+Amélie Gourdon-Kanhukamwe (ADHD): Isn't okay.
+
+393
+00:47:34.420 --> 00:47:53.037
+Amélie Gourdon-Kanhukamwe (ADHD): do you feel particularly Nancy and Nikra, because you were in the machine only, and and I was in the machine only last year as well. So I absolutely share kind of the frustration because you expressed. But it was just like sitting here and trying to prompt it?
+
+394
+00:47:53.710 --> 00:48:05.889
+Amélie Gourdon-Kanhukamwe (ADHD): But do you feel that also? Maybe like when you did it last year, if there was like a difference or so like at the stage of. You know where people were in general
+
+395
+00:48:06.630 --> 00:48:15.180
+Amélie Gourdon-Kanhukamwe (ADHD): with using Gpt because it was still quite new, at least newer than today. People also possibly didn't have the experience
+
+396
+00:48:15.600 --> 00:48:17.100
+Amélie Gourdon-Kanhukamwe (ADHD): necessary for that.
+
+397
+00:48:18.120 --> 00:48:25.650
+Participant 1: Oh, oh, yeah, I agree. I feel that I mean it was new to us, like I did it in July, June, or July last year at Cornell.
+
+398
+00:48:25.920 --> 00:48:28.559
+Participant 1: and I think it was fairly new.
+
+399
+00:48:29.060 --> 00:48:34.269
+Participant 1: We had started using it, but not for replication, like, I hadn't done replication at my end.
+
+400
+00:48:35.376 --> 00:48:48.340
+Participant 1: But yeah, read through the paper, read through the replication code understood, but haven't really gotten that far. And then. And it felt like, yeah, compared to that today, I think we know the technology is much more advanced. And now
+
+401
+00:48:48.660 --> 00:48:50.389
+Participant 1: the models are advanced.
+
+402
+00:48:50.720 --> 00:48:54.249
+Participant 1: So I think that should have made a bit of a difference as well.
+
+403
+00:48:56.130 --> 00:49:02.489
+Amélie Gourdon-Kanhukamwe (ADHD): So you're you're saying kind of new in terms of the model was obviously less advanced, but also your own experience with it.
+
+404
+00:49:02.710 --> 00:49:15.829
+Participant 1: Oh, yeah, sorry. Yeah. I mean, yeah. My my usage, of course, has got to do with my feeling comfortable about it like I've used it in. So in the past several months, extensively, so definitely.
+
+405
+00:49:16.740 --> 00:49:19.229
+Participant 1: that definitely helped as well, yeah.
+
+406
+00:49:20.370 --> 00:49:21.570
+Amélie Gourdon-Kanhukamwe (ADHD): Okay. Nicora.
+
+407
+00:49:21.851 --> 00:49:50.890
+Participant 2: I'm not convinced. I I don't know because I didn't. I wasn't on a machine led team today, but I had used chat before, and I I was impressed with what it can do honestly. But it certainly wasn't good enough for the task at hand in November. I I'm not convinced that it would have done better today. But I guess we'll see based on my experience today. You know it. It did what I asked it to do, which was helpful, but like I didn't ask it to do the same thing that I asked it in November. So
+
+408
+00:49:51.010 --> 00:50:01.150
+Participant 2: I'm not. I'm not convinced that it's better now, or that it would have been because I wasn't well trained in it, because I literally spent hours and hours and hours. And it just, you know.
+
+409
+00:50:01.270 --> 00:50:03.230
+Amélie Gourdon-Kanhukamwe (ADHD): No, yeah, so, but
+
+410
+00:50:03.420 --> 00:50:08.969
+Amélie Gourdon-Kanhukamwe (ADHD): just to clarify you, you did have some experience already when you used it in November, right?
+
+411
+00:50:08.970 --> 00:50:32.800
+Participant 2: I did. Yeah. And I've used it for my own coding as well. And it's very useful. I love it when I create figures and stuff for Matlab. I use it all the time, and I had done that before November. But like this task specifically, it just seems I don't want to say insurmountable, because obviously, you know, it's gonna evolve in the future. But right now it just seems too big of a task. But maybe I'm wrong. Maybe people today did. Great. I'm not. I'm not sure.
+
+412
+00:50:33.650 --> 00:50:34.660
+Amélie Gourdon-Kanhukamwe (ADHD): We'll see.
+
+413
+00:50:35.050 --> 00:50:39.709
+Amélie Gourdon-Kanhukamwe (ADHD): Okay, cool anyone has, like a final thought, anything you know, that Prompt
+
+414
+00:50:40.900 --> 00:50:44.769
+Amélie Gourdon-Kanhukamwe (ADHD): popped in and did just want to to say before we, we close up?
+
+415
+00:50:53.210 --> 00:51:02.290
+Amélie Gourdon-Kanhukamwe (ADHD): No. So okay, I just put my video on because I feel like it's really rude to do a focus group without a video, but because of my setup it's a bit difficult
+
+416
+00:51:02.650 --> 00:51:04.950
+Amélie Gourdon-Kanhukamwe (ADHD): to have the video on
+
+417
+00:51:06.290 --> 00:51:12.870
+Amélie Gourdon-Kanhukamwe (ADHD): And so I just wanted to. Hi, thank you. I wanted to thank you for sharing your thoughts and
+
+418
+00:51:13.360 --> 00:51:16.719
+Amélie Gourdon-Kanhukamwe (ADHD): but I just ask the last question, anything else about
+
+419
+00:51:16.820 --> 00:51:19.420
+Amélie Gourdon-Kanhukamwe (ADHD): the experience you want to share? We've done that so
+
+420
+00:51:19.730 --> 00:51:25.609
+Amélie Gourdon-Kanhukamwe (ADHD): really, just thank you for your thoughts. I hope you have a good evening.
+
+421
+00:51:27.480 --> 00:51:28.330
+Participant 2: Thank you very much.
+
+422
+00:51:28.330 --> 00:51:29.200
+Participant 3: Thank you.
+
+423
+00:51:29.610 --> 00:51:31.330
+Participant 1: And thank you for your time.
+
+424
+00:51:32.015 --> 00:51:32.700
+David Valenta: Everyone.
+
+425
+00:51:33.600 --> 00:51:34.350
+Amélie Gourdon-Kanhukamwe (ADHD): Bye.
+
+426
+00:51:34.890 --> 00:51:35.970
+David Valenta: Emily.
+
+427
+00:51:36.210 --> 00:51:36.850
+Amélie Gourdon-Kanhukamwe (ADHD): Yeah.
+
+428
+00:51:37.722 --> 00:51:40.060
+David Valenta: How do you want me to share the.
+

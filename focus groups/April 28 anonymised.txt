@@ -1,0 +1,1418 @@
+WEBVTT
+
+1
+00:00:02.110 --> 00:00:18.116
+Amélie Gourdon-Kanhukamwe (ADHD): exactly. Now we're recording. Okay, before we kick with the questions we are going to. I think we didn't discuss that. But maybe, if you can just really briefly introduce each other, that will also help. And when you introduce each other
+
+2
+00:00:18.640 --> 00:00:32.649
+Amélie Gourdon-Kanhukamwe (ADHD): yourself so you could. Could you also, please. Which say which group you were in during the AI game. You did so if you are human, hybrid or machine only
+
+3
+00:00:34.090 --> 00:00:35.849
+Amélie Gourdon-Kanhukamwe (ADHD): whoever wants to go first.st
+
+4
+00:00:38.890 --> 00:00:48.519
+Participant 3: I can go first.st I'm Joris from Germany. I'm doing a Phd. In political science, in Florence, in Italy at the moment.
+
+5
+00:00:48.690 --> 00:01:07.029
+Participant 3: and I participated in the, I think, the 1st edition of the AI Replication Games in a human team, so I won't have much to say about AI in these games. But if you're interested, I can talk about how I'm using AI in my research more generally, I guess.
+
+6
+00:01:08.400 --> 00:01:09.273
+Amélie Gourdon-Kanhukamwe (ADHD): Thank you.
+
+7
+00:01:10.090 --> 00:01:12.239
+Amélie Gourdon-Kanhukamwe (ADHD): Who is, who wants all the features.
+
+8
+00:01:12.450 --> 00:01:27.760
+Participant 4: Hi again. So my name is Pius. I'm an associate professor at Ism, in Vilnius, Lithuania. My background is political science for masters, and then economics for a Phd. And then I was in a human team as well.
+
+9
+00:01:32.670 --> 00:01:33.630
+Amélie Gourdon-Kanhukamwe (ADHD): Thank you.
+
+10
+00:01:34.208 --> 00:01:51.970
+Participant 2: I can go next. I'm a pre-doctoral research fellow at the University of Zurich, and I'm going to start my Phd. At the Swiss Federal Institute of Technology in a month. And yeah, I was also on the human team at the, I guess, latest replication game, such as University of Ottawa.
+
+11
+00:01:54.060 --> 00:01:56.110
+Amélie Gourdon-Kanhukamwe (ADHD): And Christ, or Christ.
+
+12
+00:01:56.670 --> 00:02:23.758
+Participant 1: Yeah, I think I'm the last. My name is Christ, Billy Arianto. You can call me Billy. I'm from Indonesia. So when I did the AI replication game. I was a Phd. Student at the University of Sheffield, in the Uk. But now now I'm an assistant professor at Manjaya, Catholic University in the faculty of psychology in Indonesia. I was in the cyborg team. So I'm using the
+
+13
+00:02:24.840 --> 00:02:34.669
+Participant 1: AI to help me with the coding, and I guess I'm the only person who use the chat gpt during the application game. I guess. Yeah.
+
+14
+00:02:36.512 --> 00:02:40.860
+Amélie Gourdon-Kanhukamwe (ADHD): Both Sergeant and I were into the machine only group, actually. But
+
+15
+00:02:41.460 --> 00:02:44.440
+Amélie Gourdon-Kanhukamwe (ADHD): as moderator, we probably can't tell you how we felt.
+
+16
+00:02:47.683 --> 00:03:12.590
+Amélie Gourdon-Kanhukamwe (ADHD): Okay, so before. So we're gonna start with the focus group questions. Truly. Now, just to make just so, you know, to make it easier. So Arden and I will alternate. But whoever is not asking the questions will also paste the question in the chat. So then it's easy, and you can remember the question. If you need so yeah, Ardene will start with the 1st section of questions.
+
+17
+00:03:12.590 --> 00:03:25.850
+Ardyn Nordstrom: Yeah. So just to get us started just as a some background questions, wondering if we each of you can give us a little bit of detail on what motivated you to participate in the replication in the replication games that you joined
+
+18
+00:03:27.780 --> 00:03:37.090
+Ardyn Nordstrom: can go in, or there any order I can call people out in the order that I see people in highest. I think you're first, st in my, in my view, so.
+
+19
+00:03:37.390 --> 00:03:41.360
+Participant 4: Yeah, sure. So there were several things. So
+
+20
+00:03:41.760 --> 00:03:52.690
+Participant 4: 1st one, I participated in a previous replication exercise on political economy. I don't know exactly where it was organized because I joined online.
+
+21
+00:03:52.830 --> 00:03:57.089
+Participant 4: And the paper is currently in the works. But I think one thing
+
+22
+00:03:57.230 --> 00:04:06.700
+Participant 4: that was interesting. It was the exercise itself and the paper that we had to replicate in the 1st games. It was a fun exercise and a fun way to spend a day off
+
+23
+00:04:06.900 --> 00:04:20.639
+Participant 4: basically from all the other responsibilities of the university. So it was interesting. And secondly, I'm quite skeptical of AI. So, having a chance to participate in something that may show that it's Bs
+
+24
+00:04:20.800 --> 00:04:30.909
+Participant 4: also motivated a little bit, I must admit so. And and then the 3rd thing, of course, is that participation here in the replication game set organized by the
+
+25
+00:04:31.020 --> 00:04:36.619
+Participant 4: Institute is leads to publications. That's also definitely. And one of the motivators.
+
+26
+00:04:38.370 --> 00:04:41.659
+Ardyn Nordstrom: Perfect Julian, I think you're next.
+
+27
+00:04:43.238 --> 00:04:49.811
+Participant 2: Yeah. So I wrote a replication, I guess everyone probably did. But yeah, I wrote a replication for the Institute.
+
+28
+00:04:50.120 --> 00:05:15.139
+Participant 2: a year ago or a few years ago, which was really interesting experience. And it was sort of the first.st I don't know. I was a master's student at the time was the 1st kind of more serious like thing that I was doing in terms of like I don't know like analyzing results and like making sure that things are actually going. So should. And it was super interesting. And I wanted to do more of that. So yeah, it was mostly to get experience, I guess. And also because, yeah, I guess sort of like
+
+29
+00:05:15.140 --> 00:05:24.350
+Participant 2: coming of age, in a sense. And and Econ in the time that AI is sort of starting is really interesting, but also kind of dangerous. So I wanted to get more insights on that. Yeah.
+
+30
+00:05:26.190 --> 00:05:27.330
+Ardyn Nordstrom: Not really.
+
+31
+00:05:28.860 --> 00:05:56.399
+Participant 1: Yeah. So what motivated me that time as was actually because I just submitted my thesis at that time. And then, like, I'm looking some I'm looking for like something to do. And then I just joined like the replication game. And honestly, I have like the psychology degree. So I'm not actually the person who used RA lot. But then I learned, I learned using R, because I'm doing a modeling like a cognitive modeling which I find it really interesting.
+
+32
+00:05:56.400 --> 00:06:06.509
+Participant 1: But I never use it like, in the out of the context of like doing like a psychology research. So I guess, like, it's very interesting to join this kind of thing, and that's why
+
+33
+00:06:07.431 --> 00:06:14.599
+Participant 1: I was looking for like a hackathon thing workshop. But then I didn't find one. And then I just got the email
+
+34
+00:06:14.800 --> 00:06:19.649
+Participant 1: that oh, there is this replication game. And I found it like, really interesting and
+
+35
+00:06:20.393 --> 00:06:29.699
+Participant 1: I was not so confident with coding at that time. So I was thinking, Yeah, let's just try. I mean, like, maybe I'm not like the base coder. But maybe I can help me.
+
+36
+00:06:29.940 --> 00:06:32.643
+Participant 1: And also, yeah, I'm also interested because
+
+37
+00:06:33.370 --> 00:06:48.800
+Participant 1: it, it leads to the publications which I think, like as a early career early career researcher, like, it's going to be really helpful, like to have something that is published based on like what we actually did. So so that's my motivation.
+
+38
+00:06:50.360 --> 00:06:52.409
+Ardyn Nordstrom: Great thanks.
+
+39
+00:06:52.680 --> 00:07:11.940
+Participant 3: Yeah, I also participated in previous regular replication games for the Institute for replication, the 1st in 2023, the Montreal edition. So I was already familiar with what the I. 4 R. Is doing, and I'm like big Fan, of what they're doing and what Abel is doing more generally.
+
+40
+00:07:11.950 --> 00:07:26.359
+Participant 3: really into open science and like testing the replicability and the robustness of the social sciences. So in general, I'm really interested in everything they're doing. And then the AI topic specifically also interests me because
+
+41
+00:07:26.410 --> 00:07:55.169
+Participant 3: I'm not a big AI skeptic. I'm actually using it a lot for coding. And I think it's made me a lot more productive. But at the same time I'm a bit scared that it will like kind of make some of the skill sets that I've built throughout the last, like 5, 6 years more irrelevant in the future. So I was kind of actually really happy about our results to see that at least the AI Led teams weren't like dominating, which was, be my big fear. I guess.
+
+42
+00:07:55.540 --> 00:07:56.060
+Ardyn Nordstrom: To.
+
+43
+00:07:56.660 --> 00:08:05.420
+Ardyn Nordstrom: Yeah, perfect thanks for that. So I think all of you kind of mentioned. You've been involved with previous replication games. Prior to the AI specific ones.
+
+44
+00:08:05.570 --> 00:08:19.729
+Ardyn Nordstrom: Beyond that, had any of you gotten involved with other replication or reproducibility work that you wanted to share here, including potentially like rerunning people's code or reviewing other researchers, results
+
+45
+00:08:21.010 --> 00:08:22.730
+Ardyn Nordstrom: beyond the replication use.
+
+46
+00:08:23.350 --> 00:08:48.980
+Participant 4: Yes, if I may. So, outside of the university for a long time my main career was in policy consulting, and one study we did for the European Commission was a European research data landscape. We're specifically focused on open science, including replicability reasons for research, sharing data, etc. Etc. So I think that was the main, my main work, where I've engaged more with open science.
+
+47
+00:08:53.770 --> 00:08:58.310
+Ardyn Nordstrom: Anyone else anything to add beyond the replication gives you already described.
+
+48
+00:08:59.850 --> 00:09:11.870
+Participant 3: Yeah. So I am actually like, since 2 or 3 years, I'm doing a bunch of stuff related to replication. Also with the fort people the framework for open and reproducible research training.
+
+49
+00:09:11.890 --> 00:09:39.080
+Participant 3: and I also participated in this multi 100 project from Balash Axel, where they also reproduced, like a hundred different studies across multiple fields. And also in my dissertation research, I'm also doing stuff like looking at publication bias and replicability of certain literatures. So I would actually say, it's kind of one of the main things of my research agenda.
+
+50
+00:09:42.810 --> 00:09:44.039
+Ardyn Nordstrom: Tell you, Julian.
+
+51
+00:09:44.040 --> 00:09:46.109
+Participant 2: Yeah, I would just say, like.
+
+52
+00:09:46.260 --> 00:10:05.110
+Participant 2: I part of my work as a pre Doc has been like reproducing studies a lot either like off my pi or of other people and sort of like trying to yeah, make sure that things replicate or trying to like sort of go off someone else's code. So yeah, I feel like it is a big part of my work. And that's why I wanted to do the Replication games as well.
+
+53
+00:10:05.610 --> 00:10:06.360
+Participant 2: Thanks.
+
+54
+00:10:08.970 --> 00:10:22.780
+Participant 1: For me, I think, like, I haven't got like a lot of experience in like doing coding replications. Actually, honestly. So, yeah. So I think the only event that I did like for doing like a coding replication was only like from like the
+
+55
+00:10:23.412 --> 00:10:25.260
+Participant 1: replication games. So yeah.
+
+56
+00:10:25.650 --> 00:10:26.360
+Ardyn Nordstrom: Perfect.
+
+57
+00:10:26.700 --> 00:10:46.300
+Ardyn Nordstrom: all right. So before all of you participated. I guess. Could you give us a little a sense of what your expectations about what the role of AI would be. I mean, I know there are a lot of human teams. But again, we didn't all know exactly what team would be in ahead of time. So I'm curious if you give any thought to how AI would play a role in your work.
+
+58
+00:10:47.620 --> 00:10:49.630
+Ardyn Nordstrom: what your expectations were. Yeah.
+
+59
+00:10:51.350 --> 00:10:53.189
+Participant 2: I was quite. I'm sorry. Go ahead.
+
+60
+00:10:53.190 --> 00:10:56.570
+Participant 1: Oh, sorry. Like, yeah, you can go first.st
+
+61
+00:10:56.730 --> 00:11:09.970
+Participant 2: I was quite nervous, actually, because I wasn't like I found out that I was in a human team, and like I really very rarely called without AI at all. I mean, I think when I was in the bachelor's, maybe I did that, but like it's been so much a part of my.
+
+62
+00:11:10.220 --> 00:11:18.229
+Participant 2: but also just like learning and everything. And then, yeah, I felt like, I wouldn't be able to. So yeah, quite like apprehensive about that. I guess.
+
+63
+00:11:22.310 --> 00:11:24.135
+Participant 1: Yeah for me, like, I'm actually
+
+64
+00:11:24.730 --> 00:11:39.610
+Participant 1: I think that AI has helped me with the coding, because well, I can say like at that time, like I was quite inexperienced with coding, because I was just learning how to use our like when I'm doing the Phd. And then, apparently
+
+65
+00:11:39.980 --> 00:11:51.550
+Participant 1: luckily, like the chat Gpt was just something big like in the middle of like my Phd. And I'm trying that. And it it helped me quite a lot of it. So low key, like, I was thinking, like, Okay.
+
+66
+00:11:51.740 --> 00:12:20.119
+Participant 1: I hope that I'm in the cyborg team. So that like when I'm doing like my coding, the coding by myself. I also got the help from the from the AI, and apparently like I got what I got. So yes, I I was expecting to be like in the cyborg team at the beginning. And I before this application game, I think like it's going to be really helpful like to use the AI or the what is it? Or the replication game itself?
+
+67
+00:12:23.290 --> 00:12:25.779
+Ardyn Nordstrom: Hi! So yours. Do you have anything to add.
+
+68
+00:12:26.450 --> 00:12:32.409
+Participant 4: Yes, so I think for me, just generally before the before the teams were announced, they
+
+69
+00:12:32.430 --> 00:13:00.959
+Participant 4: was quite unsure. What the I mean humans seem to be clear. AI human hybrid team seemed to be clear to what extent the AI team would be able to use anything outside of it that was not clear, and that was a bit surprising. I mean, it makes sense, you know, that you basically can't know can know nothing about the paper. But of course I wasn't in that team, so I didn't have to deal with anything related to that. But at least that was not something that I expected. But yeah, looking in hindsight, I mean, that makes perfect sense.
+
+70
+00:13:02.670 --> 00:13:09.930
+Participant 3: Yeah for me. I also I felt kind of indifferent of whether I would be in the human or the cyborg team, and I felt like.
+
+71
+00:13:10.412 --> 00:13:23.220
+Participant 3: I've done this before in both ways, like I've reproduced code from other papers on my own, and with the help of Chat Gpt, so I thought either would be kind of fine, but I was also super scared of getting into the AI only team, because
+
+72
+00:13:23.270 --> 00:13:47.519
+Participant 3: from my experience with Chat Gpt. At that time, whenever you got like off on the wrong track, and it started like hallucinating or giving you nonsense results. Then it would like really go down like a slippery slope. And so I was kind of worried that the entire day would just be a disaster. And I think, from what I've heard from others. This was indeed the case, for some of the AI led teams, so I was very glad that I didn't get into that group.
+
+73
+00:13:49.080 --> 00:13:57.650
+Ardyn Nordstrom: Were there any specific tasks that anyone wanted to share, that you thought AI would be particularly good or bad at ahead of time
+
+74
+00:14:02.000 --> 00:14:03.880
+Ardyn Nordstrom: nothing comes to mind. That's also okay.
+
+75
+00:14:04.230 --> 00:14:11.330
+Participant 4: I think I think it's sort of. I would have expected it to work well with the code part and helping with the code, testing, etc.
+
+76
+00:14:11.910 --> 00:14:17.519
+Participant 4: That was my expectation. But again I was in the end in the human hand, so I didn't get to experience it at firsthand.
+
+77
+00:14:20.390 --> 00:14:21.932
+Participant 1: Yeah, I wasn't. I was
+
+78
+00:14:22.770 --> 00:14:34.040
+Participant 1: in the cyber team. I think, like what I, what we did in the team is, actually, we're trying to do the rep the coding replication by ourselves. And then.
+
+79
+00:14:34.660 --> 00:14:50.550
+Participant 1: after we tried like, okay, like it, apparently like it works. Or maybe like it didn't work if it didn't work like. We asked chatgpt like, why it didn't work, and then like it just gave us like the solution, or maybe like cleaning it up. Or maybe we have like, I don't know. Maybe we have a typo or like something at that time. So
+
+80
+00:14:50.750 --> 00:15:06.690
+Participant 1: the AI is actually was actually like, help us to understand, maybe like the nitty gritty of the thing that we didn't realize that we're actually making like an error. So that's when like it helped, but apparently like it's not always been helpful.
+
+81
+00:15:07.200 --> 00:15:13.599
+Participant 1: I tried to remember, because it's been like a year since the last time I joined like the replication game. But I think
+
+82
+00:15:13.850 --> 00:15:33.490
+Participant 1: if we have to tell, like the portion of like, whether we work it ourselves or like, we're using the AI, I think, like it's around, maybe 70% of us doing it, the work by itself. And then, like the 30%, just like asking Chatgpt like, Hey, can you do this or like? Can you help us like to understand? What? Why is there like an error or something which
+
+83
+00:15:34.880 --> 00:15:38.189
+Participant 1: it happened? But it's not. It didn't happen a lot, actually.
+
+84
+00:15:39.946 --> 00:15:41.479
+Participant 3: One more thing on the
+
+85
+00:15:41.650 --> 00:15:58.090
+Participant 3: question of what we thought it would be particularly good or bad at my expectation at the time was, or from my experience at the time, I thought that AI is really good if you feed it, for example, like a small segment of code, like 20 lines or so, and then ask it to
+
+86
+00:15:58.090 --> 00:16:14.539
+Participant 3: like, tell you what's going on there or evaluate it. It's really good at that, because it knows all of the like functions and packages, and so on up to a certain degree. But they do that. It would be really bad at like big picture things like evaluating a really long script.
+
+87
+00:16:14.550 --> 00:16:32.510
+Participant 3: and then figuring out a tiny mistake in there. There. I would have expected that it does really poorly, and I think only like since then. I think it's gotten better at that. And with some of the versions and some of the other ais, they've gotten better at it, but I think at the time it it did a really poor job at big picture stuff.
+
+88
+00:16:35.725 --> 00:16:57.520
+Participant 2: I would say also like any kind of like making connections between like bigger ideas. I would not have expected it to do. Well, which is, I mean in general, yeah, like what we're seeing with Chatgpt at the time, like now, it's kind of deep research, or whatever it's much better but we didn't have that available really widely at the time. So yeah, I wouldn't have expected it to do well on that, either.
+
+89
+00:16:57.950 --> 00:16:59.920
+Ardyn Nordstrom: Yeah, okay.
+
+90
+00:17:00.616 --> 00:17:08.360
+Ardyn Nordstrom: I'm going to turn over to Emily. We're going to talk a little bit about the interaction of with AI use throughout the game. So over to you.
+
+91
+00:17:08.990 --> 00:17:17.550
+Amélie Gourdon-Kanhukamwe (ADHD): Yeah. So yeah, I apologize to Billy because he's gonna be focused a lot on him. But I guess you know.
+
+92
+00:17:18.770 --> 00:17:23.269
+Amélie Gourdon-Kanhukamwe (ADHD): since we have a lot of human participants. Maybe you could reflect also on, like
+
+93
+00:17:25.589 --> 00:17:38.599
+Amélie Gourdon-Kanhukamwe (ADHD): human branch participants. You could reflect, maybe also on like how you you that you would have liked it, you know, if you didn't have it. I think that could also be be informative, especially because some of you are really
+
+94
+00:17:38.740 --> 00:17:53.010
+Amélie Gourdon-Kanhukamwe (ADHD): a heavy AI user? Outside that. So my 1st question, then for everyone is, can you describe how your team use chat, gpt during the games? Please.
+
+95
+00:17:56.760 --> 00:18:01.150
+Participant 1: Yes, yeah, as I have mentioned before, like in the cyborg team
+
+96
+00:18:03.540 --> 00:18:21.610
+Participant 1: last year I tried to. I tried to remember like what we actually did like last year. But basically we tried to code we tried to check like the paper first, st and then like, we tried to code it by ourselves before we actually like using chatgpt. And then like when we code ourselves. And then, like, we found, like an error.
+
+97
+00:18:22.340 --> 00:18:33.909
+Participant 1: The 1st thing that we did is actually okay. Let's just ask chat, gpt like, what's wrong with the code. So it's always been like, we always do like a debugging using like the chat gpt
+
+98
+00:18:34.784 --> 00:18:35.210
+Participant 1: before.
+
+99
+00:18:35.380 --> 00:18:48.140
+Participant 1: So I think, like, instead of like, we're trying to find it like by ourselves, like, so what's happened with like the code, or like checking you know, like the error message like at in the R, we're just immediately going to the chat Gpt.
+
+100
+00:18:48.470 --> 00:18:55.614
+Participant 1: and actually my teammate at that time, Dirk, he actually,
+
+101
+00:18:56.730 --> 00:19:18.369
+Participant 1: I think, like he tried to replicate like using like python at that time, if I'm not mistaken. And then, like what he did, is he asked the chat Gpt. Can you change like from R to python, and then like, see whether, like the results are the same, and if I'm not mistaken, we found like a little difference when we use, like the R, and also, like
+
+102
+00:19:18.510 --> 00:19:29.120
+Participant 1: the AI, generated the Python code, and I I think like because well, he he he was more expert like in the python, and then, like when he changed into python.
+
+103
+00:19:29.350 --> 00:19:34.180
+Participant 1: he tried to clean the code a little bit before like running it. And
+
+104
+00:19:34.330 --> 00:19:45.459
+Participant 1: it did, although, like the resource was a slight difference from what are found, and also like what Python found. So I think that's what we did at that time. Yeah.
+
+105
+00:19:46.640 --> 00:19:48.140
+Amélie Gourdon-Kanhukamwe (ADHD): Thank you.
+
+106
+00:19:50.220 --> 00:19:52.340
+Amélie Gourdon-Kanhukamwe (ADHD): So how do you?
+
+107
+00:19:52.870 --> 00:19:54.640
+Amélie Gourdon-Kanhukamwe (ADHD): So in that process?
+
+108
+00:19:54.770 --> 00:20:06.189
+Amélie Gourdon-Kanhukamwe (ADHD): So you sort of covered a lot of things. Thank you for that. Do you remember? If like, did everyone initiated the prompts, or or was it more one member than the others in the team.
+
+109
+00:20:06.440 --> 00:20:12.597
+Participant 1: Okay, if I'm not mistaken, there were like only 3, I think, 3, or like 4 people, because
+
+110
+00:20:13.230 --> 00:20:24.670
+Participant 1: well, in when we came like to. The sessions, like not everyone's apparently attend, attended like the applications games. So there was only like 3 of us. If I'm not mistaken at that time.
+
+111
+00:20:24.790 --> 00:20:25.640
+Participant 1: And
+
+112
+00:20:25.960 --> 00:20:44.649
+Participant 1: I think what we did because we only we only got like one account. And then we just assigned like to one person. Okay, so if we have like this problem, we discussed like the problem together. But then, like the person who actually put it to put like the code, and then, like, put like the prom like in the chat, Gpt was like only one person. So the others just
+
+113
+00:20:45.133 --> 00:20:57.499
+Participant 1: giving like the suggestions like, maybe we can ask this, we can, we can do this. But the the person who's actually using like the like writing all the prompts is only like one person.
+
+114
+00:20:57.690 --> 00:20:58.609
+Participant 1: Yeah, I think like, that's what.
+
+115
+00:20:58.610 --> 00:21:04.889
+Amélie Gourdon-Kanhukamwe (ADHD): Yeah, that's interesting. I think that because you like, you sounded like, Yeah, that's quite organized
+
+116
+00:21:07.155 --> 00:21:13.870
+Amélie Gourdon-Kanhukamwe (ADHD): that maybe that's why we went nowhere. So
+
+117
+00:21:14.340 --> 00:21:19.390
+Amélie Gourdon-Kanhukamwe (ADHD): in terms of prompts, since I'm on this, did you need to rephrase or iterate a lot, or
+
+118
+00:21:19.990 --> 00:21:24.260
+Amélie Gourdon-Kanhukamwe (ADHD): with with the pumps and like, now.
+
+119
+00:21:27.860 --> 00:21:33.690
+Participant 1: Okay, I I cannot really remember particularly of what the prompt that we wrote.
+
+120
+00:21:34.190 --> 00:21:39.279
+Participant 1: But I think we didn't. We didn't ask quite a lot of question honestly
+
+121
+00:21:40.380 --> 00:21:42.790
+Participant 1: during that time. So basically
+
+122
+00:21:44.330 --> 00:22:06.729
+Participant 1: because we we only use like chat, Gpt when we found like an error with like our code. Actually. So that's why, like, we just copy, paste our code or like copy paste like the error message. And then, like, just put it like in a chat gpt. And I was like, why, why this happened or stuff like that. And then I think we found like the solutions already when we did that. So we didn't really rephrase or like make like a lot of like prompts afterwards.
+
+123
+00:22:07.300 --> 00:22:14.950
+Participant 1: Aside from like when we're trying to change from like R to python, using like the chat Gpt, I think, like we just ask quite.
+
+124
+00:22:15.950 --> 00:22:21.200
+Participant 1: can you can you do this and like because we did it like one by one, from like the code, and apparently like we found
+
+125
+00:22:22.070 --> 00:22:27.527
+Participant 1: oh, apparently when we change it from R to python. There there was, like some of the package, maybe, or
+
+126
+00:22:27.950 --> 00:22:31.970
+Participant 1: some of like the what is it like the line of codes that we
+
+127
+00:22:32.910 --> 00:22:42.859
+Participant 1: that didn't work? We tried to fix it ourselves. But then, like we just automatically like, could you, could you fix this? Because, like, after we did this like, we didn't find like the results? I think that's what
+
+128
+00:22:43.080 --> 00:22:45.199
+Participant 1: we did. If I'm mistaken.
+
+129
+00:22:46.280 --> 00:22:54.630
+Amélie Gourdon-Kanhukamwe (ADHD): Okay. So going from there, how would you say chatgpt responses influence your workflow and your decision making.
+
+130
+00:22:54.740 --> 00:22:55.910
+Amélie Gourdon-Kanhukamwe (ADHD): if at all.
+
+131
+00:22:58.610 --> 00:23:01.829
+Participant 1: So basically, you mean, like the
+
+132
+00:23:02.244 --> 00:23:16.245
+Participant 1: the flow of the thing that we did from like beginning till the end using like the chat gpt. Is that what you mean? Yeah. So I think, like what what we did. We tried our best like to do it ourselves first, st before we actually
+
+133
+00:23:17.020 --> 00:23:22.599
+Participant 1: we actually use chat, gpt, if we found like a problem. Basically. So if we if we found that like, oh.
+
+134
+00:23:22.860 --> 00:23:27.159
+Participant 1: we found like an error, or like. There was something like who needs to be the book.
+
+135
+00:23:28.690 --> 00:23:36.890
+Participant 1: We asked Chat gpt for that, but I think, like we didn't really. We didn't really write to the chat Gpt, if
+
+136
+00:23:37.200 --> 00:23:46.579
+Participant 1: from the beginning, actually. So, I think what we did was, okay, let's just try our best to do to do it by ourselves.
+
+137
+00:23:46.820 --> 00:23:52.120
+Participant 1: If we're desperate or like we, we didn't find like any solution. We just ask the chat Gpt afterwards.
+
+138
+00:23:52.220 --> 00:23:54.550
+Participant 1: So yeah, that's what we did.
+
+139
+00:23:55.030 --> 00:24:06.123
+Amélie Gourdon-Kanhukamwe (ADHD): Okay? So that's sort of answers. The next question, to which is world this moment was there moments where you chose not to use chat. Gpt. Yeah, clearly, yes. Did you have like
+
+140
+00:24:06.710 --> 00:24:14.099
+Amélie Gourdon-Kanhukamwe (ADHD): But did you have a rational reason why you chose to use it that very specific way for error checks only.
+
+141
+00:24:16.400 --> 00:24:38.357
+Participant 1: If you ask about like, where there's moments that we not to use chat to be like when we begin when we begin like we didn't. We didn't immediately like. Okay, let's just read because as a cyborg, I think we had the privilege, we had the privilege of reading the papers, and then like, also check like like the numbers by ourselves. So
+
+142
+00:24:41.430 --> 00:24:46.840
+Participant 1: I think, like the 1st thing like, okay, let's just read the paper first, st so
+
+143
+00:24:47.810 --> 00:25:14.479
+Participant 1: we don't want to. We don't want to ask the chat. Gpt, can you please like make a summary of like this paper, or something like that. But we read the paper 1st and then tried to code ourselves 1st before, like we found like the problems. Yeah. So I know, I know that, like it was a long papers. But we focus only like the results sections. So we only focus on like the result section and try to have, like the exact same numbers of what
+
+144
+00:25:14.670 --> 00:25:29.859
+Participant 1: what the paper had. Basically. So, yeah, so I think, like, the moment is that like in the beginning, where we we consciously want to read the paper, instead of like asking the chat, Gpt to summarize like the papers, and then
+
+145
+00:25:30.170 --> 00:25:39.469
+Participant 1: try to code ourselves and just ask the chat gpt if we found, like the problem. Not like just you please make like the code for ourselves. So.
+
+146
+00:25:40.060 --> 00:26:01.619
+Amélie Gourdon-Kanhukamwe (ADHD): And it was a reason why you wanted to do that consciously. I don't want to put words in your mouth, but it's more that you know you felt it was important, or you because a few of you have spoken about, you know about, for example, skepticism. So why did you feel you had to understand the paper yourself first.st
+
+147
+00:26:02.020 --> 00:26:11.897
+Participant 1: Okay. So I I cannot speak as a team, actually. But I speak like for myself in this in this case, because I was thinking that like
+
+148
+00:26:13.290 --> 00:26:19.116
+Participant 1: I know that, like the Chat, Gpt was not perfect at that time. Well, I think it's still not perfect up until now.
+
+149
+00:26:19.830 --> 00:26:20.540
+Participant 1: but
+
+150
+00:26:21.050 --> 00:26:43.960
+Participant 1: I think by reading the papers like, we actually understand of what the paper wants. And then like for the results, we can see ourselves that like, oh, yeah. So the results. So the number that was expected is like this number, because sometimes, like before, like the air application games, like, when we asked the chat Gpt, I had like the experience of it's giving. It's giving like the
+
+151
+00:26:44.200 --> 00:26:45.520
+Participant 1: wrong number.
+
+152
+00:26:45.670 --> 00:26:53.379
+Participant 1: although, like it's, it's it's actually like the numbers, for example, like 0 point 5. But then, like Jesus, like, put like a random number there.
+
+153
+00:26:54.230 --> 00:27:01.666
+Participant 1: maybe there was like an error with Chattpd, or like it. It grab the Pdf wrongly. Maybe so.
+
+154
+00:27:02.570 --> 00:27:07.839
+Participant 1: I'd rather like to read it myself to really understand of like the paper itself.
+
+155
+00:27:08.040 --> 00:27:20.319
+Participant 1: But instead of like asking the chat. Gpt first.st So that's why, like, I'm thinking, I think, like I need to understand the papers by myself, instead of like asking the Chat Gpt, because I'm afraid that, like it's going to give me like a
+
+156
+00:27:20.690 --> 00:27:24.579
+Participant 1: maybe like a wrong numbers or
+
+157
+00:27:25.640 --> 00:27:31.670
+Participant 1: summarize something that is actually not part of like the paper itself, although, like, we maybe upload like the paper.
+
+158
+00:27:31.870 --> 00:27:37.879
+Participant 1: But maybe it will have like a different results from what is actually the paper once. Yeah.
+
+159
+00:27:38.410 --> 00:27:48.279
+Amélie Gourdon-Kanhukamwe (ADHD): I'm going to pick up on something really tiny because I thought that was really interesting. You said, you know, you wanted to understand what the paper wants to do before checking the results. Which is like.
+
+160
+00:27:48.570 --> 00:27:53.639
+Amélie Gourdon-Kanhukamwe (ADHD): would you say that almost like when you read a paper, there's an element of like
+
+161
+00:27:54.465 --> 00:28:01.740
+Amélie Gourdon-Kanhukamwe (ADHD): in PC tune, content and kind of hidden curriculum almost, and
+
+162
+00:28:02.490 --> 00:28:06.940
+Amélie Gourdon-Kanhukamwe (ADHD): which only you think at the moment. Only human can understand.
+
+163
+00:28:07.130 --> 00:28:13.810
+Participant 1: Hmm, yeah, that's a very that's a that made me reflect. Actually, in this.
+
+164
+00:28:13.810 --> 00:28:16.000
+Amélie Gourdon-Kanhukamwe (ADHD): So this is a psychologist in me. Suddenly.
+
+165
+00:28:16.000 --> 00:28:34.389
+Participant 1: Actually, because, like, what I was thinking is that like when you read when you read the paper yourself, and when you discuss it with the team. Maybe we will have, like a different perception of like what the paper wants, actually. But then, if you discuss between ourselves and then oh, okay. So
+
+166
+00:28:34.900 --> 00:29:03.390
+Participant 1: maybe we cannot find like the whole truth of like the paper itself. But maybe at least like we've got like the agreement of like what the paper wants, and at least when when we see ourselves like in the results section, in this case, the result sections will have, like the number that we want to reach, that we want to replicate while using the chat Gpt, maybe like it will have like a different numbers, or like giving like a random numbers instead of like the thing that we really want to check.
+
+167
+00:29:03.540 --> 00:29:06.850
+Participant 1: So I try not to read the paper myself.
+
+168
+00:29:06.850 --> 00:29:09.290
+Amélie Gourdon-Kanhukamwe (ADHD): You mean because much information.
+
+169
+00:29:10.440 --> 00:29:16.349
+Amélie Gourdon-Kanhukamwe (ADHD): So you mean because there's so much information into a paper that Chat Gpt might focus on the wrong part. Basically.
+
+170
+00:29:16.860 --> 00:29:26.710
+Participant 1: Exactly so. Maybe like it will have like a different focus, because I know that, like in the Chat Gpt, that maybe if they have, like a maximum number of words that they can
+
+171
+00:29:27.200 --> 00:29:33.449
+Participant 1: produce. So maybe I have to say, like, Continue or like Max, could you please continue or like something
+
+172
+00:29:34.990 --> 00:29:45.480
+Participant 1: which I think like it's going to be a bit annoying, because, like the the information is not like in when we wrote like one prompt. And then, like, it's giving you like one
+
+173
+00:29:45.700 --> 00:29:57.560
+Participant 1: big informations. But it's going to be like a big pieces. And we need to ask, like the Chatgpt like to continue to continue, because they have, like a maximum number of words that they can produce.
+
+174
+00:29:57.810 --> 00:29:58.639
+Participant 1: Oh, yeah.
+
+175
+00:30:00.930 --> 00:30:11.449
+Amélie Gourdon-Kanhukamwe (ADHD): Thanks before we move on to the next section of questions. Does anyone in the human groups have like thoughts on those discussions.
+
+176
+00:30:12.070 --> 00:30:32.499
+Amélie Gourdon-Kanhukamwe (ADHD): just as a human participants. Maybe you felt you know you wanted to use it a specific way if you could have if you were allowed to. I don't know if that's because that could inform us, I guess, on the human performance. If how you felt like, maybe you know, you were frustrated. It wasn't here, or something.
+
+177
+00:30:35.320 --> 00:30:38.920
+Participant 3: I think. One thing I would note
+
+178
+00:30:39.080 --> 00:30:59.940
+Participant 3: is that while, yeah, the humans in our experiment performed the best from the way we worked in my group. I think one potential explanation for why humans, even outperform the Cyborg group could be that if you don't have the AI assistance you tend to go for more low hanging fruits.
+
+179
+00:31:00.356 --> 00:31:12.120
+Participant 3: Because you try to do things that are easier to do where you know that you're capable of doing them without AI assistance. So, for example, we were supposed to run a couple of robustness checks.
+
+180
+00:31:12.300 --> 00:31:30.449
+Participant 3: and there I then decided to do something with the entropy balancing instead of using control variables just because I knew how to do that because I've done it before. But if I knew that I had the AI assistance. Maybe I would have gone a step further and said, Okay, I'll do this with entropy, balancing and
+
+181
+00:31:30.450 --> 00:31:47.950
+Participant 3: course and exact matching, and like 5 difference, balancing and matching methods where now I would have just thought, okay, but then I have no idea how to code this up. So I'll just skip this part. So I think potentially, AI could lead people to become more ambitious in what they're trying to do with code.
+
+182
+00:31:51.840 --> 00:31:58.520
+Amélie Gourdon-Kanhukamwe (ADHD): If there's no further thoughts, I think that's actually a nice transition into audience section.
+
+183
+00:31:58.930 --> 00:32:01.590
+Participant 1: I think I wanna add something because.
+
+184
+00:32:01.590 --> 00:32:03.849
+Amélie Gourdon-Kanhukamwe (ADHD): Part about it unless sorry. Can I?
+
+185
+00:32:04.100 --> 00:32:05.560
+Amélie Gourdon-Kanhukamwe (ADHD): Can I add something?
+
+186
+00:32:05.560 --> 00:32:05.880
+Amélie Gourdon-Kanhukamwe (ADHD): Yeah, yeah.
+
+187
+00:32:05.880 --> 00:32:19.930
+Participant 1: What is your risk? That now that, like I remember, there was like a robustness check we also use like the chat gpt, so we code it ourselves. And then, like we put it in the chat, gpt in hope that, like it gives like the same code.
+
+188
+00:32:20.280 --> 00:32:30.400
+Participant 1: and apparently it's giving like a different, a slight difference. I don't. I don't really remember whether it's slightly like a completely different codes, but apparently like it gives like a different.
+
+189
+00:32:30.800 --> 00:32:44.889
+Participant 1: not different, like the same number, but with like a different code somehow. So I think I agree with yours that yes, it made us like quite ambitious, because, like, Oh, apparently Chatgpt can do this. So like, can we just do more about this and do more about this? So
+
+190
+00:32:45.060 --> 00:32:52.810
+Participant 1: I think, yeah. So I agree that like it makes us more ambitious because, oh, we have like the facilities, and we still have a lot of times. That's why, like, we just
+
+191
+00:32:53.662 --> 00:32:56.810
+Participant 1: fight to use like the chat gpt for, like the robustness check.
+
+192
+00:33:00.180 --> 00:33:23.139
+Ardyn Nordstrom: Okay, I think that actually transitions us nicely. So I'll start with a question more oriented to Billy. But then I'll talk about more generally like how how your team felt about working with AI in this setting. I know you've kind of given us some description of the role it played. What was your perception of of how working with AI went in this in this particular setting.
+
+193
+00:33:24.280 --> 00:33:26.705
+Participant 1: Okay. So in my opinion.
+
+194
+00:33:27.920 --> 00:33:30.379
+Participant 1: for myself, like, I think I had like a
+
+195
+00:33:30.991 --> 00:33:33.249
+Participant 1: perception of like AI. Honestly.
+
+196
+00:33:33.890 --> 00:33:35.970
+Participant 1: because I was, I was a bit.
+
+197
+00:33:37.180 --> 00:33:43.350
+Participant 1: I was a bit skeptical at at at one time before, like the air application games, because
+
+198
+00:33:43.640 --> 00:33:46.059
+Participant 1: I had the experience of its
+
+199
+00:33:46.940 --> 00:34:04.439
+Participant 1: when I had, like an error, it gave like a diff when I asked Chatgpt. Sometimes like it, just give like a random package in R, or like something that I didn't use that package. So I want I want to, for example, like doing like a multi level modeling using like this package in double of, like
+
+200
+00:34:04.580 --> 00:34:06.220
+Participant 1: the other Pakistan like
+
+201
+00:34:06.653 --> 00:34:15.750
+Participant 1: the chat Gpt suggested. So I was a bit skeptical at that time, but apparently during the application game it gave it gave me like a bad perception of the
+
+202
+00:34:16.219 --> 00:34:26.600
+Participant 1: AI itself. Actually. So, I think like, oh, apparently, if you use it the right way, like you. You can get like a help from Chat Gpt, for, like your code.
+
+203
+00:34:27.980 --> 00:34:29.100
+Participant 1: I think.
+
+204
+00:34:31.563 --> 00:34:32.739
+Participant 1: I have like a
+
+205
+00:34:33.250 --> 00:34:46.990
+Participant 1: how do you say it like a skepticism if you fully using, like the AI. But as a cyber team myself, I think I had like a quite a nice experience of I'm working by myself. And then, like I asked Chatgpt, if I if I really
+
+206
+00:34:47.510 --> 00:34:59.709
+Participant 1: I mean, like in the data and positions I didn't really know like what to do next. So I will ask, like the what like the next step? Or maybe if I if that is like an error, what should I do?
+
+207
+00:35:00.060 --> 00:35:04.939
+Participant 1: Oh, yeah. So I have like an positive perception about AI.
+
+208
+00:35:05.140 --> 00:35:19.009
+Ardyn Nordstrom: That's interesting. So did you. Did anyone else in your team express any kind of like I know you mentioned you were initially kind of skeptical. But did anybody else in your team express that same kind of skepticism, or or maybe enthusiasm for using AI in this setting.
+
+209
+00:35:19.290 --> 00:35:23.420
+Participant 1: Oh, yeah, so one of my friend. Actually, yes, like you.
+
+210
+00:35:23.530 --> 00:35:33.892
+Participant 1: He he was. He was impressed by when what? What he did like changing from like the R code into like a python code. And apparently it's quite accurate
+
+211
+00:35:34.470 --> 00:35:57.730
+Participant 1: so I think, like he he showed that like well, I'm quite impressed, like, you can actually change from like the R to the python code quite easily. And you just need like to fix the code a little bit. So yeah, but I only I remember like he gave that comments, but like the other one, because there are only like 3 of us, I think, like the other one is just like, Okay, apparently like it can
+
+212
+00:35:58.100 --> 00:36:05.780
+Participant 1: help us. But we didn't really talk about it like how how she felt at that time. So yeah. But
+
+213
+00:36:06.360 --> 00:36:12.279
+Participant 1: I think at least like me and my friend, like we had quite like a positive perception of like yeah itself.
+
+214
+00:36:13.339 --> 00:36:38.560
+Ardyn Nordstrom: To the bigger group. I'm I mean, I know I'm curious. It sounds like folks came into this with different expectations about how AI would be used for the human Orient, like the human only teams. How did you feel about not using AI in this setting? And I know, I mean, Julian, earlier, you mentioned that you had been kind of worried about not having access to it. And so I'm curious if how your team felt on the human side, not using AI.
+
+215
+00:36:40.108 --> 00:36:55.450
+Participant 2: Yeah, there was like a lot of times when we really wanted to. And then we were sort of kind of like your said like, well, you're like, Well, I could do that, but I'm not actually going to, because I don't really know how and it felt kind of like, I don't know. You're like forced to do work that, you know, is like.
+
+216
+00:36:55.450 --> 00:37:21.169
+Participant 2: not like below the standard, but like kind of like, you could do something better. You could. So it's a bit frustrating. I would say, at the same time, it does also make you a bit more creative, because you're like, okay, well, let me focus on the stuff that I do know how to do or that I know that I have the skills to do and like maybe it, it takes longer, and to do it in a different way. But then you have to sort of work around like what you what you can do and rely more on yourself, which is maybe something that we are not super used to anymore. So yeah.
+
+217
+00:37:21.790 --> 00:37:22.700
+Ardyn Nordstrom: Interesting.
+
+218
+00:37:26.640 --> 00:37:30.390
+Participant 4: So, for for me it was a bit different, because
+
+219
+00:37:30.720 --> 00:37:40.460
+Participant 4: I only use AI for for preparing sometimes the outline of the class. If I give it the material on notebook. Lm, so I don't use it outside of that.
+
+220
+00:37:40.660 --> 00:37:44.920
+Participant 4: So for me it would have been more stressful if I had to use one
+
+221
+00:37:46.000 --> 00:37:53.669
+Participant 4: than the opposite. So I got lucky with the team draw, but I can share what my colleague, who was on the AI only team.
+
+222
+00:37:53.810 --> 00:37:58.850
+Participant 4: so he was very frustrated about not being able to read the paper he was replicating.
+
+223
+00:37:59.630 --> 00:38:02.550
+Participant 4: and he was frustrated for days after.
+
+224
+00:38:04.070 --> 00:38:05.820
+Ardyn Nordstrom: I can understand.
+
+225
+00:38:06.565 --> 00:38:07.310
+Amélie Gourdon-Kanhukamwe (ADHD): Frustrated.
+
+226
+00:38:08.293 --> 00:38:11.600
+Ardyn Nordstrom: Yeah, okay.
+
+227
+00:38:12.311 --> 00:38:17.089
+Participant 3: Yeah, maybe. Also on the how it failed to not use it. I think at the time
+
+228
+00:38:17.670 --> 00:38:36.159
+Participant 3: didn't bother me too much. I feel like I'm going through kind of a transition where in maybe 2021, or 2022, I was still kind of like peers where I rarely used AI, and if anything, I would do it for, like some grunt work where I know how to do the code. And but then I wanted to like.
+
+229
+00:38:36.160 --> 00:38:50.709
+Participant 3: loop it in a way, and then I'll just say, Okay, do this, and I will still make most of the decisions. And now I'm slowly transitioning to be much more like Julian, where I'm working a lot with the different ais to help me with coding. And I feel like it's making me more efficient.
+
+230
+00:38:50.720 --> 00:38:52.709
+Participant 3: But yeah, back then.
+
+231
+00:38:53.090 --> 00:38:56.820
+Participant 3: I didn't rely on it that much that I felt I became
+
+232
+00:38:57.433 --> 00:39:19.820
+Participant 3: like that. I was scared of not being able to do something or anything. Just what I what I mentioned before, that it made me go a bit more for low hanging fruit, and that might have then been one of the reason why my team was kind of fast with these robustness checks, where, if we had AI and we might have taken a bit more time, and then found some cooler, more creative ways to to test the robustness instead.
+
+233
+00:39:21.180 --> 00:39:40.929
+Ardyn Nordstrom: Interesting, all right. So I think so. I'll focus the question for somebody. And then folks want to also add on how they think it would have affected their performance. So question here is like really looking back, do you think that AI helped or or hindered your team's performance by being able to incorporate it in the the cyborg team.
+
+234
+00:39:42.478 --> 00:39:49.810
+Participant 1: As a cyborg team. I think, like it's actually help us in terms of
+
+235
+00:39:52.340 --> 00:39:59.289
+Participant 1: in terms of the time. Actually, it. It makes us like a bit more quicker compared to like the other teams, because I remember that
+
+236
+00:39:59.980 --> 00:40:06.240
+Participant 1: at that time well as use, I think, like use just mentioned about like the cyber team was
+
+237
+00:40:06.660 --> 00:40:34.679
+Participant 1: and not cyber sorry, the robot team that is fully using, like the AI like they're frustrated. And it was shown that they're really frustrated. Because, like, they're just confused. Okay, what prompt should we ask that? Like, they really give us the information that we really wants? And then the human theme. The human theme like takes it. I think they get like a bit slower, but they are more accurate. But for us, like we work like really quickly. Actually, I think, like in
+
+238
+00:40:34.840 --> 00:40:36.740
+Participant 1: I forgot, like how many hours we did.
+
+239
+00:40:37.250 --> 00:40:59.420
+Participant 1: I think we are relatively quicker compared to like the other groups. So I can say, like we're faster. But in terms of like the accuracy we hope that, like we were quite accurate of like what we're doing, but apparently like well in hindsight, like, based on like the results of the studies itself, like the human team apparently like, were more accurate compared to like the
+
+240
+00:41:00.370 --> 00:41:03.550
+Participant 1: cyborg team in this case, although we yeah.
+
+241
+00:41:03.700 --> 00:41:05.870
+Participant 1: So I think, like.
+
+242
+00:41:06.120 --> 00:41:17.189
+Participant 1: in terms of making us quicker in working on like the code, I think like it helped us, although, like in terms of like the accuracy like I, I cannot really say that it really
+
+243
+00:41:18.167 --> 00:41:23.870
+Participant 1: it must help us, but at least like it, help us a little bit with, like the accuracy of like the code itself.
+
+244
+00:41:24.150 --> 00:41:24.780
+Ardyn Nordstrom: Hmm.
+
+245
+00:41:25.350 --> 00:41:41.620
+Ardyn Nordstrom: okay, and to to the human teams. And if if I know, some of you have already touched on how you think it would have changed your experience within the team. But do you have any thoughts on how adding AI may have helped or hindered your team's performance? Or where you would have liked to use it potentially
+
+246
+00:41:43.360 --> 00:41:47.979
+Ardyn Nordstrom: that you haven't already mentioned. I know you've already talked about it in the things like robustness checks, for example.
+
+247
+00:41:48.310 --> 00:41:55.020
+Participant 3: One thing that I haven't mentioned yet that I also thought about just now is so in my team we're 3 people and
+
+248
+00:41:55.060 --> 00:42:13.439
+Participant 3: me and one other woman in the team. We were both kind of familiar and comfortable with R. And then we had a 3rd team member. Who was not that experienced? And so for us, that 3rd person didn't contribute as much as the other 2, and it was my like the 2 experienced users
+
+249
+00:42:13.440 --> 00:42:27.270
+Participant 3: did most of the work. And then the 3rd person was there, sort of like a sanity check, and like double checking certain things. And I think if we had access to AI. I could have seen that person take on a much more active role, and then, in the
+
+250
+00:42:27.350 --> 00:42:40.320
+Participant 3: from the view of the experiment again that might have slowed us down and sort of worsened our performance. But for this individual member of our team that could have actually probably substantially increased his performance. Actually.
+
+251
+00:42:41.190 --> 00:42:41.980
+Ardyn Nordstrom: Interesting
+
+252
+00:42:45.760 --> 00:42:53.983
+Ardyn Nordstrom: if there are no other points to add on that, I'm gonna pass back to Emily. And we'll talk a little bit about the team dynamics across all of the teams.
+
+253
+00:42:54.550 --> 00:42:55.680
+Ardyn Nordstrom: all right over to you.
+
+254
+00:42:57.940 --> 00:43:24.230
+Amélie Gourdon-Kanhukamwe (ADHD): Okay. So that really probably goes to everyone. Here to talk for you about having used AI or not. 1st of all. We'd like to know how your team divide up the work. I know. I know, actually talk a bit about that in terms of the prompting. But there's also division of work which can happen. So. If you can each cover that.
+
+255
+00:43:24.550 --> 00:43:26.650
+Amélie Gourdon-Kanhukamwe (ADHD): Who wants to start 1st
+
+256
+00:43:30.050 --> 00:43:30.560
+Amélie Gourdon-Kanhukamwe (ADHD): out to you.
+
+257
+00:43:30.560 --> 00:43:54.600
+Participant 2: We can start, I mean. So similarly, we also divided up the work in terms of like everyone, read the paper first, st and then sort of like come up with stuff on their own. And so actually, something I was gonna say in the previous section of like, how I would have used. AI is probably in that section a lot of like trying to summarize the paper, and maybe like asking it to tell me what were the more important parts that I should like focus on myself.
+
+258
+00:43:54.913 --> 00:44:09.379
+Participant 2: And so yeah, we did that. And then we sort of discussed like main areas that we like brainstorm main areas that we could look into for the paper and then sort of divided them where each person looked at one. And then we went from there like reviewed each other's work and stuff like that.
+
+259
+00:44:11.600 --> 00:44:39.949
+Participant 4: For us. We started the same way, that is, we just got acquainted with the we set the time for acquainting us with the paper itself generally, and then we divided. So instead of 3, we were 2 in the team one of us looked at the code and the other looked at the data and more conceptually about the problem. So basically, we just divided the work by where the problems could lie, one focused on the data, the other focused on the code.
+
+260
+00:44:43.320 --> 00:45:10.790
+Participant 3: For us, we. So we started off by saying, we're just each gonna computationally reproduce all the code and see if we can all manage to reproduce it, to kind of have, like a triple layer of security, of how it works, and then whoever was done 1st with reproducing a certain table or figure. They would then put that result into the excel sheet. And if we later on on auto, someone else ran into some different problems with that then we would update it. And then, as I said, the
+
+261
+00:45:10.940 --> 00:45:34.899
+Participant 3: the other woman in my team, just sorry I forgot, like both of the names of both of my team members, but she and I were then done fairly quickly with this just computational reproduction. And so we then just decided that her and I would each do one of the 2 robustness checks that we were required to do. And then the 3rd person just kept on doing the computation reproduction, and like kind of double checking what we put
+
+262
+00:45:35.050 --> 00:45:36.560
+Participant 3: into the excel sheet.
+
+263
+00:45:39.700 --> 00:45:42.589
+Participant 1: That was kind of similar with like the others. Actually. So
+
+264
+00:45:43.500 --> 00:45:47.040
+Participant 1: we read the papers together first, st and then we
+
+265
+00:45:47.460 --> 00:45:56.860
+Participant 1: quote by ourselves, and then? Well, as we mentioned, if we're kind of desperate of like, okay, what should we do with like the code? We ask the chat gpt
+
+266
+00:45:58.190 --> 00:46:13.979
+Participant 1: as the robustness check. We actually like one of us like, did one robustness check? I think, like at that time. So I did one. And then, like the others, did the other one. And then, like, we just compare with, like each other, like, do you find like the same results? Or like a different results? Something like that.
+
+267
+00:46:14.900 --> 00:46:28.779
+Participant 1: Yeah. So I think that's what we basically did. We read the papers we code by ourselves. And like, we discussed about like the code and then ask if there's an error and the robustness check like in the end.
+
+268
+00:46:31.030 --> 00:46:50.760
+Amélie Gourdon-Kanhukamwe (ADHD): Thank you. So that next question is is, gonna be more for video, really, because it's about the use of chat Gpt, but I think implicitly sort of answered this. I'm sorry if that goes over things. We've discussed a bit already. But was there any disagreement within your team about how or when to use it.
+
+269
+00:46:51.620 --> 00:46:58.230
+Amélie Gourdon-Kanhukamwe (ADHD): Yeah, you explained, like, you know precisely how you used it. But and and why.
+
+270
+00:46:58.390 --> 00:47:02.060
+Amélie Gourdon-Kanhukamwe (ADHD): But was there any disagreement before you came to that about this.
+
+271
+00:47:03.090 --> 00:47:10.239
+Participant 1: Okay, I don't think like we had like a lot of like disagreements about like, what?
+
+272
+00:47:10.490 --> 00:47:13.752
+Participant 1: How we use? Like the chat gpt honestly.
+
+273
+00:47:14.750 --> 00:47:24.950
+Participant 1: yeah, I think we work on. We work pretty well with the chat gpt itself. And I think we didn't really have like a resistance of using like the Chat Gpt at that time. So.
+
+274
+00:47:25.100 --> 00:47:28.720
+Participant 1: and the 3 of us at that time, like we're just up well.
+
+275
+00:47:29.368 --> 00:47:34.060
+Participant 1: For the contacts, it's basically like like
+
+276
+00:47:35.070 --> 00:48:00.459
+Participant 1: the the 3 of us, 2 of us is actually like friends. So we're we're actually like, know each other. But the other one is just another Phd students from the other department. So actually, we just got connected by, okay, we're all like Phd students here. And then, like, we're just doing like this code and everything. And yeah, we're kinda work pretty well. Actually. So we didn't really have like a disagreements at the time.
+
+277
+00:48:01.880 --> 00:48:30.739
+Amélie Gourdon-Kanhukamwe (ADHD): Okay, that actually, that's quite interesting. There's something we I don't think we decided to explore in the focus group. And maybe we should have which is supposed, because clearly you were in the physical. I was also in the Sheffield when I was online, which meant I was with only people I didn't know. I had signed up with 2 people I knew, but we all were sent there literally to a different branch, and therefore different groups, while obviously because you were in person, you also knew each other. And I
+
+278
+00:48:30.740 --> 00:48:34.509
+Amélie Gourdon-Kanhukamwe (ADHD): think actually, that's something we might need to think about, because
+
+279
+00:48:34.830 --> 00:48:46.319
+Amélie Gourdon-Kanhukamwe (ADHD): every group which will be in person is more likely to know each other than if the groups which are online. That's a side note, but nice recorded.
+
+280
+00:48:47.520 --> 00:48:48.650
+Amélie Gourdon-Kanhukamwe (ADHD): so
+
+281
+00:48:49.560 --> 00:49:00.809
+Amélie Gourdon-Kanhukamwe (ADHD): I just the only final question about this. I'm sorry improving on this a lot. But since you use AI you know, you said you had one person who was prompting.
+
+282
+00:49:01.120 --> 00:49:17.360
+Amélie Gourdon-Kanhukamwe (ADHD): and until sales well, we were discussing the phones. But only one person really was doing it. Did did you feel that that kind of like separation of holes. You know. Organization, meant that it
+
+283
+00:49:17.530 --> 00:49:24.919
+Amélie Gourdon-Kanhukamwe (ADHD): shape the collaboration differently. Maybe the person who was, you know, working with strategy
+
+284
+00:49:25.100 --> 00:49:30.600
+Amélie Gourdon-Kanhukamwe (ADHD): experience inputs. And as a result of being the person working with it from users.
+
+285
+00:49:32.600 --> 00:49:36.449
+Participant 1: Yeah, I think, like, by the way, of our the, our.
+
+286
+00:49:36.930 --> 00:49:52.059
+Participant 1: the way that we organize like the information. I I don't really know. Actually, I cannot really, I cannot really give like a comment of whether, if if we find, like other people who's just like actually writing writing the prompts, we'll give like a different results or not
+
+287
+00:49:54.260 --> 00:50:22.069
+Participant 1: what we did. Basically, this one person. So like, okay, let's let's just use like Chat, Gpt, or like, maybe one of us will ask, okay, let's just just chatgpt, like to solve like this problem, basically. And then this one particular person is just like, Okay, what do you want me to write like the code? Or what do you? Which code like you want me to copy in this case? So just copy like the code or something, and then, like, just put it like in the put it in the chat gpt.
+
+288
+00:50:22.140 --> 00:50:26.360
+Participant 1: And then he wrote the Prom, and then I asked, like, Do you want me like to?
+
+289
+00:50:27.520 --> 00:50:39.797
+Participant 1: You want to? Do you want me to send this or something like that? And then we agree. And then, like, we just send like a code, because at that time, like, I think we really we only have like one account per team. So
+
+290
+00:50:40.360 --> 00:50:53.880
+Participant 1: So we avoid, like the chaotic of like each of us like, we'll give like a different information. So we just ask this one person to to actually write the prompt, so that like, it won't be like really chaotic at that.
+
+291
+00:50:53.880 --> 00:50:54.480
+Amélie Gourdon-Kanhukamwe (ADHD): Done.
+
+292
+00:50:54.800 --> 00:51:07.367
+Amélie Gourdon-Kanhukamwe (ADHD): I mean, actually no reflection in. If you're in person, it's also makes sense to have one person using it, because otherwise you're all on your laptop. But if if you're online, it's easy to just each go into chat and do something.
+
+293
+00:51:08.390 --> 00:51:15.980
+Amélie Gourdon-Kanhukamwe (ADHD): yeah, I think maybe we'll have to think about the physical online thing more.
+
+294
+00:51:17.800 --> 00:51:30.499
+Amélie Gourdon-Kanhukamwe (ADHD): and so just maybe a final one, I think again implicitly, you've sort of addressed this, I think, from what I understand. Everyone felt comfortable with the role that AI played in your group.
+
+295
+00:51:33.710 --> 00:51:36.899
+Participant 1: Yeah in one was always yeah.
+
+296
+00:51:36.900 --> 00:51:42.319
+Participant 1: in our case, like, we're pretty comfortable of like using the AI or
+
+297
+00:51:42.580 --> 00:51:45.109
+Participant 1: or helping us to do the code.
+
+298
+00:51:48.150 --> 00:51:51.919
+Amélie Gourdon-Kanhukamwe (ADHD): Okay, thank you. I think I'll pass back to Adip.
+
+299
+00:51:52.310 --> 00:52:02.020
+Ardyn Nordstrom: Alright. So now we're gonna I know we're coming up at the end of time. So I'll I wanna wrap up with some just kind of big picture reflections and takeaways from the process. So
+
+300
+00:52:02.120 --> 00:52:22.629
+Ardyn Nordstrom: for all of you, if you were to do the games again, do you think you'd like to use AI differently, either starting to use it in some way. If you were in the human teams, if you were on the cyborg team using it more heavily or or less heavily. Any thoughts on how you would use AI differently if you were to do this again.
+
+301
+00:52:30.920 --> 00:52:39.449
+Participant 4: It depends on which team you get signed to because we were in human. So I mean, we are limited. If we're in the same team. We we can't do nothing.
+
+302
+00:52:39.450 --> 00:52:45.450
+Ardyn Nordstrom: If you were just to choose whichever use of level you, you want to use it.
+
+303
+00:52:45.783 --> 00:53:02.100
+Participant 4: Think it would be the interesting, the most interesting for me personally would be on the early AI team to sort of go from one extreme to the other, just to to see the the capacity that that is there, but that would just, out of personal interest, so
+
+304
+00:53:02.400 --> 00:53:07.869
+Participant 4: good as as if I were in the hybrid team I would still most use it little.
+
+305
+00:53:08.280 --> 00:53:10.720
+Participant 4: if at all, compared to what I use it now.
+
+306
+00:53:14.320 --> 00:53:17.630
+Participant 1: Honestly like in my case, because knowing that like.
+
+307
+00:53:18.630 --> 00:53:29.049
+Participant 1: yeah, maybe after knowing, like the results that, like the human team, is actually compared to like the AI system, and like the cyborg. And like the robot team.
+
+308
+00:53:29.820 --> 00:53:42.322
+Participant 1: I will try to rely on myself more apparently like I need to be, I think, like I need to be more confident with my own code, which apparently like, maybe like it's going to be compared to like with. When I asked, like the
+
+309
+00:53:42.830 --> 00:54:01.560
+Participant 1: using like the AI in this case, because sometimes, like the problem, is not that like, maybe the the code is actually replicable. But maybe in my case, like, I'm not really, I'm not really confident whether, like I'm doing the right way or not. And then, like, I asked AI, but maybe based on like the results of like our study.
+
+310
+00:54:01.680 --> 00:54:14.089
+Participant 1: Maybe I should believe more on like what I'm coding, apparently, rather than like believing on the AI, and then like using that instead of like what I what I really developed like from the code.
+
+311
+00:54:14.960 --> 00:54:15.550
+Ardyn Nordstrom: Hmm!
+
+312
+00:54:18.180 --> 00:54:29.299
+Ardyn Nordstrom: Are there areas folks would want to use AI more or less, or is, are there specific things? You trust him more, Julian? Yes, if if that's something that comes to mind.
+
+313
+00:54:30.347 --> 00:54:31.449
+Participant 2: Yeah, I mean.
+
+314
+00:54:32.180 --> 00:54:47.189
+Participant 2: like, I think I would probably in answer to your earlier question, like, I would wanna be on the like the full AI team. Now that we have more capabilities to see like what it could do. And yeah, just to sort of echo something someone said earlier.
+
+315
+00:54:47.680 --> 00:54:53.519
+Participant 2: I don't know. I think I would trust it more with the computational side, and probably less with the like.
+
+316
+00:54:54.570 --> 00:55:01.279
+Participant 2: and not making like value judgments, but more just being like what is actually important. Because I think that it's
+
+317
+00:55:01.400 --> 00:55:06.040
+Participant 2: no I I it's not there yet for me. I wouldn't adjust it for that next.
+
+318
+00:55:07.660 --> 00:55:33.929
+Participant 3: Yeah. So nowadays I would also be curious about the the full AI group. To see just if it manages to to get it done at all, just caring a bit less about like how fast it would be, or how good it would be if the entire workflow is actually fully auto fully automated whatever and then, if I was in a cyborg team, I feel like I could see 2 different ways of using it. Either I would just
+
+319
+00:55:34.070 --> 00:55:56.920
+Participant 3: do everything on my own. And then, whenever I reach a point where I'm like, Okay, I don't know how to do this. Then I would start talking to the AI. But an alternative way I could see is just, I do everything on my own, and in parallel I let the AI do everything on its own as well in the background. And then in the end, compare, did we sort of reach the same conclusions, or did it maybe find something that I didn't find, or vice versa.
+
+320
+00:55:59.220 --> 00:56:14.980
+Ardyn Nordstrom: Perfect. So what do you? I mean? It sounds like we're all kind of familiar with the findings of the paper. So what do you think explains the differences that we find in the performance between the AI led, the AI assisted and and the human only teams.
+
+321
+00:56:26.570 --> 00:56:28.670
+Ardyn Nordstrom: If there are any thoughts on that?
+
+322
+00:56:32.050 --> 00:56:37.879
+Ardyn Nordstrom: Do we have any effect into maybe why, the AI teams may have struggled more. Go ahead, Pius, please.
+
+323
+00:56:37.880 --> 00:56:39.820
+Participant 4: Because, yeah, I think
+
+324
+00:56:40.010 --> 00:56:50.650
+Participant 4: still, especially you. If because you had to replicate the one very, very specific result out of the whole paper. And because well, AI doesn't think
+
+325
+00:56:51.190 --> 00:56:56.970
+Participant 4: it just works with what it has to, but it has no capacity of independent thought, so
+
+326
+00:56:57.140 --> 00:57:19.039
+Participant 4: it was not enough info for it to work on that, I think, and without a critical human intervention, then it simply is incapable of that, at least at this stage of achieving the results. I think you still need a more critical and broader view than AI. At least at the time that the games took place
+
+327
+00:57:19.380 --> 00:57:20.720
+Participant 4: could provide.
+
+328
+00:57:28.600 --> 00:57:29.320
+Participant 3: So
+
+329
+00:57:29.580 --> 00:57:40.110
+Participant 3: I think one thing that explains the the huge drop in performance between the AI Led teams and the 2 other teams is just that
+
+330
+00:57:40.620 --> 00:58:00.050
+Participant 3: the chat gpt at the time wasn't very good, and I think it this gap will shrink. I I think it would still be there actually, even with like the best models nowadays, that the fully AI Led team wouldn't do as good as an human AI collaboration team. And then, when it comes to
+
+331
+00:58:00.180 --> 00:58:26.140
+Participant 3: the smaller differences between the human only and the cyborg team. I was very surprised about those, I think, for me personally, my like individual treatment effective, we could estimate it would, I would, for sure, be much more productive with the AI assistance. And so I think one reason, one factor that might explain. This is that people year ago weren't as good as incorporating AI into their workflow, and I think
+
+332
+00:58:26.310 --> 00:58:34.700
+Participant 3: people nowadays become better and better at that. And for me personally, I definitely noticed that that I've gotten better at prompting ais
+
+333
+00:58:35.243 --> 00:58:43.459
+Participant 3: so there could be one factor. And then again, just that the model performance is like kind of outdated nowadays, perspective.
+
+334
+00:58:44.150 --> 00:59:00.660
+Ardyn Nordstrom: That actually leads to a kind of more general question like, do we think, do does anyone have any thoughts on what might generalize here like, do we think any what? What felt specific to the game setup versus kind of things that could generalize to reproducibility, or or this kind of work more generally.
+
+335
+00:59:01.570 --> 00:59:02.920
+Ardyn Nordstrom: Any thoughts on that.
+
+336
+00:59:07.940 --> 00:59:13.040
+Participant 4: I think that. You're unlikely to see
+
+337
+00:59:13.230 --> 00:59:20.139
+Participant 4: AI only groups in the wild, unless there are students having to hand in a paper in half an hour
+
+338
+00:59:20.430 --> 00:59:47.070
+Participant 4: or so. But with research it's simply, I think this is not. You could generalize, I think, in the case that it would if there were people who used AI only for application. But I just don't think that those people exist here that would rely solely on on AI. So I think that's otherwise. I think that the results made sense from the general perspective. But yeah, it's just that for one group, you wouldn't really find a full
+
+339
+00:59:48.073 --> 00:59:54.979
+Participant 4: a full analog. I'm not sure about the word. A full thing in, in, out there in the wild.
+
+340
+01:00:00.710 --> 01:00:23.100
+Participant 2: Yeah, I mean, maybe like the only situation I could think of where you would find like this. Full AI is like, if you're doing some kind of like Meta analysis, where, like, you need to really like review all of these people like thousands of papers or something, then you might see it. But I feel like, yeah, for the time being. It's not really trustworthy enough. So unless you're really doing something at scale, I think probably likely.
+
+341
+01:00:24.010 --> 01:00:30.199
+Ardyn Nordstrom: So okay. So I see we're at time. I want to thank you all for sharing your thoughts.
+
+342
+01:00:30.310 --> 01:00:43.350
+Ardyn Nordstrom: If there's anything else you want to share about your experience, or with your about your team's interaction with AI, or without AI, that you want to let us know now is your chance. But again, I do really want to thank you all for for taking the time.
+
+343
+01:00:43.760 --> 01:00:46.330
+Ardyn Nordstrom: Anything you want to add before we wrap up here.
+
+344
+01:00:52.980 --> 01:00:53.990
+Ardyn Nordstrom: Alrighty.
+
+345
+01:00:55.070 --> 01:01:17.129
+Ardyn Nordstrom: Well, thank you again for taking the time. Apologies again for the Miss. This the false start at the beginning. But I thank you for finding your way to this zoom room and for sharing your thoughts and your insights with us. We'll be doing the analysis of the focus groups over the next few weeks, and then we'll add that into the revision. So thank you all so much.
+
+346
+01:01:17.600 --> 01:01:19.210
+Participant 3: Thank you, too, for ordering.
+
+347
+01:01:19.210 --> 01:01:19.689
+Participant 3: Thank you.
+
+348
+01:01:20.030 --> 01:01:21.280
+Participant 1: Thanks!
+
+349
+01:01:21.280 --> 01:01:21.690
+Participant 1: Oh.
+
+350
+01:01:21.690 --> 01:01:22.720
+Participant 4: Yeah. Goodbye.
+
+351
+01:01:22.900 --> 01:01:23.350
+Participant 3: Bye.
+
+352
+01:01:23.350 --> 01:01:24.580
+Participant 1: See you.
+
+353
+01:01:24.900 --> 01:01:25.404
+Amélie Gourdon-Kanhukamwe (ADHD): Hi!
+
+354
+01:01:29.190 --> 01:01:29.920
+Amélie Gourdon-Kanhukamwe (ADHD): Do you want to stop?
+

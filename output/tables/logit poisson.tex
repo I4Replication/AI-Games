@@ -1,0 +1,43 @@
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\begin{tabular}{l*{6}{c}}
+\hline\hline
+\multicolumn{7}{l}{\textbf{Panel A: Study 1}}\\
+& (1) & (2) & (3) & (4) & (5) & (6)\\
+                    &Reproduction   &\shortstack[c]{Minor\\errors}   &\shortstack[c]{Major\\errors}   &\shortstack[c]{Two good\\robustness}   &\shortstack[c]{Ran one\\robustness}   &\shortstack[c]{Ran two\\robustness}   \\
+\hline
+AI-Assisted         &         -0.724   &         -0.454**   &         -0.667**   &         -0.388   &         -0.959   &         -0.025   \\
+                    &(          1.124)   &(          0.216)   &(          0.302)   &(          1.202)   &(          1.758)   &(          0.949)   \\
+                    &[         -2.928;           1.479]   &[         -0.877;          -0.031]   &[         -1.259;          -0.075]   &[         -2.743;           1.968]   &[         -4.405;           2.487]   &[         -1.886;           1.835]   \\
+AI-Led              &         -6.478***   &         -1.177***   &         -1.802***   &         -2.480**   &         -3.701***   &         -1.777*   \\
+                    &(          1.648)   &(          0.228)   &(          0.422)   &(          1.227)   &(          1.280)   &(          0.926)   \\
+                    &[         -9.708;          -3.247]   &[         -1.625;          -0.729]   &[         -2.630;          -0.974]   &[         -4.885;          -0.075]   &[         -6.209;          -1.192]   &[         -3.591;           0.037]   \\
+\hline
+Model               &Logit   &Poisson   &Poisson   &Logit   &Logit   &Logit   \\
+Controls            &\checkmark   &\checkmark   &\checkmark   &\checkmark   &\checkmark   &\checkmark   \\
+Mean of dep. var    &    0.738   &    0.969   &    0.750   &    0.786   &    0.816   &    0.680   \\
+p-val (AI-Assisted vs. AI-Led)&    0.002   &    0.009   &    0.014   &    0.049   &    0.129   &    0.024   \\
+Obs.                &103   &98   &84   &103   &103   &103   \\
+\hline
+\\
+\multicolumn{7}{l}{\textbf{Panel B: Study 2 combined}}\\
+& (1) & (2) & (3) & (4) & (5) & (6)\\
+                    &Reproduction   &\shortstack[c]{Minor\\errors}   &\shortstack[c]{Major\\errors}   &\shortstack[c]{Two good\\robustness}   &\shortstack[c]{Ran one\\robustness}   &\shortstack[c]{Ran two\\robustness}   \\
+\hline
+AI-Assisted         &         -0.721   &         -0.346*   &         -0.522**   &         -0.462   &          0.044   &          0.278   \\
+                    &(          1.052)   &(          0.183)   &(          0.240)   &(          1.199)   &(          1.599)   &(          0.819)   \\
+                    &[         -2.783;           1.342]   &[         -0.705;           0.014]   &[         -0.993;          -0.052]   &[         -2.811;           1.887]   &[         -3.091;           3.178]   &[         -1.327;           1.882]   \\
+AI-Led              &         -5.886***   &         -1.059***   &         -1.314***   &         -2.690**   &         -2.657**   &         -1.623**   \\
+                    &(          1.316)   &(          0.203)   &(          0.347)   &(          1.213)   &(          1.152)   &(          0.762)   \\
+                    &[         -8.465;          -3.308]   &[         -1.458;          -0.661]   &[         -1.993;          -0.634]   &[         -5.068;          -0.312]   &[         -4.914;          -0.400]   &[         -3.116;          -0.130]   \\
+\hline
+Model               &Logit   &Poisson   &Poisson   &Logit   &Logit   &Logit   \\
+Controls            &\checkmark   &\checkmark   &\checkmark   &\checkmark   &\checkmark   &\checkmark   \\
+Mean of dep. var    &    0.788   &    0.886   &    0.737   &    0.832   &    0.854   &    0.737   \\
+p-val (AI-Assisted vs. AI-Led)&    0.001   &    0.001   &    0.026   &    0.034   &    0.090   &    0.008   \\
+Obs.                &137   &132   &118   &137   &137   &137   \\
+\hline
+\hline\hline
+\multicolumn{7}{p{0.8\textwidth}}{\it{Note:} Standard errors in parentheses, confidence intervals in brackets; human-only branch omitted. The model for One good robustness is not included due to insufficient observations, preventing it from converging. Marginal effects reported for Logit models.}\\
+\multicolumn{7}{l}{Controls include number of teammates; game--software, skill, and attendance fixed effects.}\\
+\multicolumn{7}{l}{\sym{*} \(p<0.1\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\)}\\
+\end{tabular}

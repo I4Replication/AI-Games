@@ -1,0 +1,843 @@
+[Juan Pablo Posada Aparicio] 15:20:56
+Everything seems to be working. Great.
+
+[Juan Pablo Posada Aparicio] 15:21:03
+This is going to take a couple sessions, sorry. The first section is about general context and motivation.
+
+[Juan Pablo Posada Aparicio] 15:21:11
+I'm going to ask questions. Feel free to jump at any point. As I said.
+
+[Juan Pablo Posada Aparicio] 15:21:16
+The idea behind this is to have a conversation, is not to to push you or to try to get answers out of you is just for you to tell me your experience with it.
+
+[Juan Pablo Posada Aparicio] 15:21:25
+First, I wanted to learn what motivated you to participate in the replication games.
+
+[Juan Pablo Posada Aparicio] 15:21:31
+Like in the whole experience.
+
+[Participant 2] 15:21:36
+Yeah, so if i have to be like very, very honest about it like the authorship is a big plus of course Like, yeah, getting ultra sugar in a big paper and um Yeah.
+
+[Participant 2] 15:21:49
+Also, of course, like the mission is important. So taking part in verifying other people's finding that's what you know that's how science progresses so that's also a plus But I think that one big motivator was authorship for me, honestly.
+
+[Juan Pablo Posada Aparicio] 15:22:06
+Of course, of course.
+
+[Participant 1] 15:22:09
+Yeah, I think for me, the main thing was I know it's short notice and some people won't be able to join. So I'm thinking if we want to maximize our chances to publish, we need to increase the M.
+
+[Participant 1] 15:22:23
+And I want to have this on my resume. If possible. So I'm like, okay, I'm going to increase the number of observations and that's going to increase the chances that we get it. That's how I felt about it.
+
+[Juan Pablo Posada Aparicio] 15:22:38
+Interesting. Interesting.
+
+[Participant 3] 15:22:40
+I think for me, the initial motivation to participate, especially like Are you talking about this game concretely or the two set of games that were participated?
+
+[Juan Pablo Posada Aparicio] 15:22:53
+You can talk about both.
+
+[Participant 3] 15:22:55
+Yeah, so I think the main like the material one of the motivations was that i participated just in like generic replication game by your institute and i just like the process so When I saw the call about the sort of ai
+
+[Participant 3] 15:23:16
+Related replication games it was interesting uh interesting sort of addition to what i already had Plus, I just, in terms of my research, I somehow interested professionally in AI and its application and social science.
+
+[Participant 3] 15:23:32
+And I'm also myself extensively, I guess, use it And the second thing, because the first initial game was at Cornell and i was I am a Cornell PhD student, so it was nice. It was a good opportunity to participate somewhere on my campus but eventually I went on my field work and participated remotely but still part of the motivation
+
+[Participant 3] 15:23:57
+Was also in this so yeah
+
+[Juan Pablo Posada Aparicio] 15:24:00
+Great. This gives us a great segue into the next question.
+
+[Juan Pablo Posada Aparicio] 15:24:05
+Before the games, how familiar were you with the whole replication or reproducibility work?
+
+[Juan Pablo Posada Aparicio] 15:24:12
+And by that, I mean, have you ever done a replication before outside the games?
+
+[Juan Pablo Posada Aparicio] 15:24:17
+Have you ever written or tried to run another researcher's results Stuff like that. How familiar were you with the overall replication community?
+
+[Participant 1] 15:24:28
+Just to clarify, are you talking about today or are you talking about when we registered last year for the initial.
+
+[Juan Pablo Posada Aparicio] 15:24:34
+Oh, before, yeah, before the whole thing, before the last year's game.
+
+[Participant 1] 15:24:38
+Yeah um okay because uh and my answer, I'll just add to my answer of the previous question that the I thought it was also interesting to test how well AI was able to uh to a do these tests compared to humans because I had taken part in like it's my third replication games today basically i did one
+
+[Participant 1] 15:25:02
+With a bell that was not about AI specifically, but just reproducing. And I find it very useful In terms of my own profile, but also more generally so i This is something that for me I strongly believe in. I think there's in political science, which is my field.
+
+[Participant 1] 15:25:23
+Need for more replications and more knowledge about replications, more experimentation creating robustness checks, double checking coding errors, and sharing knowledge about this more generally.
+
+[Juan Pablo Posada Aparicio] 15:25:37
+Makes sense. And before the games, like the regular games, you've ever done any replication work as a graduate student or anything like that?
+
+[Participant 1] 15:25:52
+I think not something of… That scale.
+
+[Participant 1] 15:25:57
+Yeah, not that much that I can recall of right now.
+
+[Juan Pablo Posada Aparicio] 15:26:01
+No worries. No worries.
+
+[Participant 2] 15:26:04
+Yeah, so… I hadn't done any proper application before one thing that I don't do very often is building on other people's work. So I don't like downloading their data and realizing it in different ways but not just to verify whether they had been cheating in some way but just because I need that data and it can be helpful to ask like other questions.
+
+[Participant 2] 15:26:26
+So not with the purpose of verification or application but just you know recycling other people's data and code and stuff yeah
+
+[Juan Pablo Posada Aparicio] 15:26:32
+Would you say you learn from it like whenever a new method or something like that comes from comes out, you use replication material to learn from it.
+
+[Participant 2] 15:26:45
+Huh. Yes, yes. Okay, yeah, that's for sure actually now that I think about, yeah, that's definitely for sure And yeah, I would say not just about learning, but also about using parts of the code scripts data etc for for practical purposes. But there's also a learning component to it yes
+
+[Juan Pablo Posada Aparicio] 15:27:04
+I see, I see. Interesting.
+
+[Participant 3] 15:27:08
+Yeah, as for me, yeah, I participated like in replication games once before these games But in general, I think I think lots of attempts to replicate some attempts to papers mainly it was as a part of assignments in my classes like
+
+[Participant 3] 15:27:28
+Bachelor… level classes, master level phd level classes so it was kind of a very popular assignment on sort of a more like empirical methods classes to assign for students And also, I think, yeah, when I'm writing my own research, I very often, for example, if I don't know some
+
+[Participant 3] 15:27:49
+Application on a realization of certain methods. Sometimes I can find an article with replication code and just like use it as a sort of a template for my own research.
+
+[Juan Pablo Posada Aparicio] 15:28:00
+So none of you were new like completely new to the idea of using replication materials or digging into someone else's work. It was something that you have done before to different extents.
+
+[Participant 1] 15:28:15
+I've looked at replication packages a little bit in the past, but that was my first before like the first replication games that I did originally uh was my first attempt at really doing that outside of a course like lecture
+
+[Participant 3] 15:28:15
+Yeah.
+
+[Juan Pablo Posada Aparicio] 15:28:16
+So…
+
+[Juan Pablo Posada Aparicio] 15:28:29
+I know.
+
+[Participant 1] 15:28:30
+You needed to do it in the exercise, for example.
+
+[Juan Pablo Posada Aparicio] 15:28:33
+That's interesting. So given that experience that you had Before participating, what were your expectations about the role of AI?
+
+[Juan Pablo Posada Aparicio] 15:28:43
+Would play in your team's work. How do you think AI would play a role like in the whole replication process.
+
+[Participant 2] 15:28:56
+Oh, sorry, go ahead.
+
+[Participant 3] 15:28:58
+Yeah, thanks. I think, are you talking about once again, this game or both of the games Yeah, so I think I was for the first game since I was in machine team, I was a bit skeptical because I'm skeptical. I was skeptical today
+
+[Juan Pablo Posada Aparicio] 15:29:05
+You could talk about both.
+
+[Participant 3] 15:29:20
+Extent to which AI is able to kind of outsource replication fully. So I don't need to like interact with the article content or anyhow But this time when I was in cyber team, I kind of was pretty pretty optimistic in the sense that uh i
+
+[Participant 3] 15:29:41
+Very often use like AI in my research work sometimes for some understand the summary of the article for which I don't have enough time to read.
+
+[Participant 3] 15:29:55
+Or to fix and debug my code. So exactly the things that we have to apply during the sort of a cyber cyborg exercise.
+
+[Juan Pablo Posada Aparicio] 15:30:06
+So let me ask you this follow up. How do you think your expectation changed from the first game to the second game?
+
+[Participant 3] 15:30:13
+I think they became more optimistic because uh because uh i guess in the first case My expectation was it's like it's too much of the assignment for ai While now I was like, oh, it's actually a good synergy when I have my myself as a sort of a
+
+[Juan Pablo Posada Aparicio] 15:30:14
+Were you…
+
+[Participant 3] 15:30:32
+The main brain, the main guide and like AI is a tool that just helped to helps me or optimizes some of the tasks I have to do.
+
+[Juan Pablo Posada Aparicio] 15:30:43
+Interesting. You mentioned that you mentioned that perhaps it was too much of a task.
+
+[Juan Pablo Posada Aparicio] 15:30:48
+For AI the very first time. What kind of tasks did you expect AI to be good at when it comes to replication?
+
+[Participant 3] 15:30:58
+I think it's more of the task that sort of are more strict, rigid and i assumes sort of a less degrees and for freedom In the sense that, for instance.
+
+[Participant 3] 15:31:11
+Copy paste a part of the code and can ask AI to identify a coding error I think it's the best in this context, I think it's the best task for AI because it assumes some kind of like monotonous boring work that I usually don't like to do and that is cognitively
+
+[Participant 3] 15:31:32
+Hard sometimes it's also good maybe at like uh summarizing and structuring the article text in the sense that what did authors do to get from the data to certain results or at least as they just what they described there because sometimes the prose in the article can be a bit vague
+
+[Participant 3] 15:31:58
+And in this sense is like terms of like structuring the research steps that are hidden in the article, I think AI is pretty good.
+
+[Participant 3] 15:32:05
+And… also like especially and also where you apply certain robustness checks i think you can prompt something about like some task for ai about AI coding and like data analysis like i know sub sampling or running additional tests where ai is
+
+[Participant 3] 15:32:28
+Seems to be good.
+
+[Juan Pablo Posada Aparicio] 15:32:30
+I see. Anyone has anything to add? What were your expectations about AI in your team? Did they meet it?
+
+[Participant 1] 15:32:41
+Yeah, I think I had the same expectations for the same reasons as George just had.
+
+[Participant 1] 15:32:47
+This is, yeah, I was a machine in the first instance and I didn't know the extent to which it would be able to perform all tasks. And in practice, we had issues at that time for it to be able to fully read some of the R files.
+
+[Participant 1] 15:33:07
+Some of the information that was in the PDF, I think. I don't remember exactly, but I know we weren't able to fully uh Like there's some parts of the replication that we weren't fully able to understand because we needed to rely on
+
+[Participant 1] 15:33:24
+What the AI was saying, but sometimes it wasn't able to access everything or we don't we didn't know exactly how to prompt it to get exactly what we wanted well as a human, sometimes I can make my own guess about
+
+[Participant 1] 15:33:39
+What is going to be quicker to do by myself and what's going to be quicker to assign as a task to the machine. So for today I knew this would be a simpler.
+
+[Participant 1] 15:33:53
+In terms of that. At the same time, it also makes it easier to, so we didn't take nearly as much time to do it this time because we just assign tasks to assign tasks everyone in the team and then just
+
+[Participant 1] 15:34:10
+They don't rely quite as much uh on AI because we could use our brains I agree with the word synergy. I think when you can work with a machine in a synergy, that's usually easier.
+
+[Participant 1] 15:34:27
+I think the tasks of specifically in my case just reading the PDF file, summarizing some of like giving ideas about potential robustness checks uh that was something that was something Otherwise, I'd have needed to have come up with ideas but then as a human
+
+[Participant 1] 15:34:47
+I know that as a machine, I couldn't have analyze them using my own knowledge being able to criticize what I see on my screen so That's how I say it.
+
+[Juan Pablo Posada Aparicio] 15:35:01
+I see. Andrea, anything to add?
+
+[Participant 2] 15:35:05
+No, nothing in particular. I think this summarizes how I felt about this. So yeah, nothing in particular.
+
+[Juan Pablo Posada Aparicio] 15:35:12
+Do you use AI tools like ChatGPT, Copilot, stuff like that in your daily life?
+
+[Juan Pablo Posada Aparicio] 15:35:20
+And what tasks do you think it is good at for your day-to-day life?
+
+[Participant 2] 15:35:25
+Coding as it has been mentioned by everyone here. I think it's amazing at coding if you compare it to the ability of i don't know like I don't know, psychology student or something like Yeah, coding is definitely the best thing. I don't use it much for anything else apart from that.
+
+[Participant 2] 15:35:42
+I would say I don't use it like for summaries, which is something that Alexandra and Gergi have mentioned yeah mainly coding.
+
+[Participant 1] 15:35:51
+Yeah, I'll specify in general, that's also how I use it. But today for the specific task of the day.
+
+[Juan Pablo Posada Aparicio] 15:35:52
+Is he…
+
+[Participant 1] 15:35:59
+I knew that some of these things I would need to do a big brainstorm. So I thought, okay, this is where I can leverage the power of AI. And I think I'm not always consistent in how I use AI sometimes.
+
+[Participant 1] 15:36:13
+It will take me an awful lot of time before thinking, hey, I can use AI to do that. And sometimes I won't even think about doing something myself. It will just be I'll go instantly on ChatGPT and ask it to code something so
+
+[Participant 1] 15:36:28
+It depends. On my mindset to some degree, but I think coding is also the one that I use it the most for.
+
+[Juan Pablo Posada Aparicio] 15:36:36
+I see.
+
+[Participant 3] 15:36:37
+Yeah, I think besides coaching, I use it for Pro freezing because I'm not like native English speaker and i like sometimes to use it, for example, if I write an important email to a professor just like to proofread it and maybe reformulate it in a way that it will sound
+
+[Participant 3] 15:37:00
+Ladder. I also like to do it for other like boring readings. For example, if I need to do like a cover letter or like an application for something when I kind of can prompt what ideas or what factual information I want to convey but
+
+[Participant 3] 15:37:19
+I'm too not like lazy but it's like too monotonous and like energy sucking assignment of like crafting all of the official paperwork so this is actually very helpful And sometimes, especially the new tools like that includes deep search I use them, for example, if I had a sort of a research question or like
+
+[Participant 3] 15:37:48
+Question, matter, research question on which i have barely have any idea And what are like important stuff there. Sometimes I used to ask these tools and then it provided some sort of overview but i was mainly interested in the link that it was providing so it's a kind of a
+
+[Participant 3] 15:38:07
+Not like a tool that is great at literature review, but at least a good way to start digging into like some literature, for instance.
+
+[Juan Pablo Posada Aparicio] 15:38:16
+I see. And given that you were fortunate enough, let's put it that way, to be cyborgs How did you use it?
+
+[Juan Pablo Posada Aparicio] 15:38:25
+As a team. Could you walk me through how you incorporated chat gpt during the games?
+
+[Juan Pablo Posada Aparicio] 15:38:39
+Kind of when did you decide to use it? What kind of questions or tasks you assign to it.
+
+[Participant 3] 15:38:47
+I think the first instance when we tried to use it and is that when I open the replication file, I ran it.
+
+[Participant 1] 15:38:47
+So I…
+
+[Participant 3] 15:38:54
+I realized it's not like there is an error that is not solved by, I don't know, like installing few packages or something like this And I was like, oh, there is something there. Let's ask ChatGPT.
+
+[Participant 3] 15:39:09
+In what particular part of the code is the error and how we can fix it, for instance.
+
+[Juan Pablo Posada Aparicio] 15:39:14
+So you uploaded the code and ask it to find an error.
+
+[Participant 3] 15:39:19
+Yeah.
+
+[Juan Pablo Posada Aparicio] 15:39:20
+Okay. Anyone else?
+
+[Participant 1] 15:39:24
+Yeah, we also did that. I think we just, we didn't have someone who uh maybe this is what you want to get at. We don't have like one person using AI and one person just being inhuman. We instead divided the tasks
+
+[Participant 1] 15:39:39
+In terms of someone looking for coding errors, someone looking for one of the robustness checks, someone else looking for another of the robustness checks and we we also had extensive team discussions about which ones we wanted to prioritize and then
+
+[Participant 1] 15:39:58
+We get to reassigning different tasks depending on where we were at where we were at In terms of that, yeah.
+
+[Participant 2] 15:40:09
+Yeah, another example is, yeah, when I… I had done a robotness track in mind like I knew what like exactly procedurally what I would want the code to do and i asked chat gpt can you write code that can do this this and this and
+
+[Juan Pablo Posada Aparicio] 15:40:11
+Under it.
+
+[Juan Pablo Posada Aparicio] 15:40:25
+I see. Alexandre, you said something very interesting that you said something very interesting you were assigning stuff or tasks depending on how things were going.
+
+[Participant 2] 15:40:25
+Yeah.
+
+[Juan Pablo Posada Aparicio] 15:40:39
+I want to know how ChatGPT's responses influenced your workflow or decision making?
+
+[Juan Pablo Posada Aparicio] 15:40:45
+During the games. Did you alter the route you were taking depending on the responses that you get back from ChatGPT?
+
+[Participant 1] 15:40:53
+We did because it provided us suggestions about the kinds of robustness checks that we could do.
+
+[Participant 1] 15:41:01
+We had some ideas about We also came up with our own ideas. So we wanted to add some control variables to one of the analyzers and among the robustness checks, ChatGPT suggested some of them.
+
+[Participant 1] 15:41:18
+Which we then discussed together. We decided to incorporate some of those that it suggested on top of some of those we had thought about.
+
+[Participant 1] 15:41:27
+And to reject some of the other ones based on our team discussion. So it was really an interactive process between the AI and us as a team.
+
+[Participant 1] 15:41:39
+And we… Yeah, I think… different members of the team than used it to uh used it to help them doing each of the different tasks but It also came up with some of the robustness checks that we did end up
+
+[Participant 1] 15:41:58
+Doing or some of them we weren't able to do. And we also reported that in the Excel sheet.
+
+[Participant 1] 15:42:04
+At the end so um not only the robustness checks, but what we ended up testing I think it made some of these things maybe we would have found by by ourselves as well. But it just made the process much quicker.
+
+[Juan Pablo Posada Aparicio] 15:42:20
+I see. I see. Given that the three of you or two of you were machines last time.
+
+[Juan Pablo Posada Aparicio] 15:42:27
+And you had very different expectations when it came to ChatGPT. How did you find this experience compared to the last one? Was it Did you find the output more helpful, perhaps unexpected?
+
+[Juan Pablo Posada Aparicio] 15:42:39
+Compared to what you had last time?
+
+[Participant 2] 15:42:43
+I would say yes, most definitely. I think one possibility is that the model might have gotten a little bit better in this. I don't remember how much time has passed, but ChatGPT like gets improved every month there are updates etc
+
+[Participant 2] 15:42:57
+But the first time as a machine only, as a person in a machine only team I could, I mean, I hadn't read the paper, et cetera, but it really looked like the model was was going about like in a random way about the problem and this was like confirmed by the first draft of the thing
+
+[Participant 2] 15:43:15
+Whereas… Yeah. So I think, I mean, this is a multi-level task that is very complex and you have to keep in mind like the folder structure and the paper and the code, et cetera, et cetera, et cetera. So I think that
+
+[Participant 2] 15:43:29
+Yeah, there is a huge difference between a machine doing that alone and like a human kind of giving the high level structure of the task and then the machine performing the individual subtasks.
+
+[Juan Pablo Posada Aparicio] 15:43:39
+I see.
+
+[Participant 2] 15:43:39
+So way more useful in combination than one, I would say.
+
+[Juan Pablo Posada Aparicio] 15:43:44
+Jordy, anything to add?
+
+[Participant 3] 15:43:45
+No, I think I pretty agree with what was said so yeah
+
+[Participant 1] 15:43:50
+I would just add one quick thing, which is I think it's quicker now than it used to be for reading PDF and our files. I found it quicker on my end.
+
+[Participant 1] 15:44:00
+For those tests and it made the whole analysis after that simpler and quicker. If I recall correctly, when I was a machine, I did end up in some instances having to try again to ask the question because like it was stuck or something
+
+[Participant 1] 15:44:17
+And today, none of that like super quick Right. That's amazing.
+
+[Juan Pablo Posada Aparicio] 15:44:23
+I see. Now, I wanted to shift your attention now towards the perceptions on AI's role How did you feel this time?
+
+[Juan Pablo Posada Aparicio] 15:44:33
+Talk about your feelings on your feelings working with AI on this setting like how did it feel?
+
+[Juan Pablo Posada Aparicio] 15:44:40
+Like was it a relief did you feel happy about it? You felt it was kind of a constraint How did you perceive AI's role here?
+
+[Participant 2] 15:44:50
+If I can say like something real quick about this is that uh like before actually doing experiment, I was feeling like I really hoped I wouldn't be assigned to the human only like team because they like i it feels reassuring to have like someone else that can
+
+[Juan Pablo Posada Aparicio] 15:44:53
+Go for it.
+
+[Participant 2] 15:45:05
+I don't know, identify at least some kinds of problem really quickly that supports your own work but at the same time like My personal feeling during this game in contrast with the previous one was a sense of responsibility because in the machine only team, I felt like, okay, yeah, I just have to do some prompting but at the end, if the replication is wrong it's it's
+
+[Participant 2] 15:45:26
+I don't know, GPT-4s problem. It's not my problem whereas here I felt I was responsible for the output of the replication etc So, I mean… it's a relief to have ChatGPT helping you, but at the same time having the responsibility to being the person who actually produces the output
+
+[Participant 2] 15:45:46
+Put some, I don't know. I wouldn't say pressure because it's not like a big pressure but some Yeah, I can't find the right word, but I think you got what I'm saying.
+
+[Juan Pablo Posada Aparicio] 15:45:56
+Yeah. Andrea, you said something that caught my attention and you said that you feel kind of a relief of having someone else referring to ChatGPT as someone else. You see ChatGPT as a teammate or as a tool.
+
+[Participant 2] 15:46:10
+I would say somewhere in between. Yeah.
+
+[Juan Pablo Posada Aparicio] 15:46:16
+I think. What about everyone else? How do you feel about it?
+
+[Participant 3] 15:46:23
+I think for now I just understood that actually if I had been assigned to like human only team it would have been kind of more exotic because now during everyday professional work, I kind of got used to work with chat gpt too like outsource something so just like replicate the paper
+
+[Participant 3] 15:46:46
+Only using my own sort of a brain it would have been very weird because I got used to already to optimize lots of coding for instance stuff So I guess… I guess it's also like important maybe to think about
+
+[Participant 3] 15:47:05
+What I did not feel, you know, in counterfactual scenarios so i think there was not like a lot of like degree of amplitude of emotions because of it's something more usual for me now But I think… In general, I felt like more of a generalized satisfaction and maybe
+
+[Participant 3] 15:47:26
+More like not confidence but absence of I don't know, anxiety or feeling of uncertainty because it kind of feels that uh you have something that backs you up.
+
+[Juan Pablo Posada Aparicio] 15:47:39
+Compared to the machine only.
+
+[Participant 3] 15:47:41
+Compared to i think human only situation.
+
+[Juan Pablo Posada Aparicio] 15:47:44
+Oh, I see, I see. Oh, interesting. Interesting. Something that uh comes quite frequently when talking with machine only teams.
+
+[Participant 3] 15:47:45
+Yeah, yeah, yeah.
+
+[Juan Pablo Posada Aparicio] 15:47:56
+Is a sense of frustration. That comes with dealing with with AI responses.
+
+[Juan Pablo Posada Aparicio] 15:48:04
+Do you feel, where do you feel the limitations of AI responses are and how where do you think they become frustrating or time consuming
+
+[Participant 1] 15:48:14
+I think one that the my own experience in the machine team was I remember being Always unsure about what was just a machine and what was my own input. I had difficulty removing myself completely because removing myself completely I always want to analyze i have some
+
+[Participant 1] 15:48:37
+I already have some information about the world that I sometimes use without noticing that I'm actually using my own thoughts and putting them into that. So I was always kind of always thinking, oh, is it fine if I ask that question? Is it fine if I
+
+[Participant 1] 15:48:56
+Run this in R? Did the machine sufficiently suggest it to me that I'm allowed to run it in r While today was just, it just felt like team activity where we use each person's strength and we go and discover things. So it felt more like the
+
+[Participant 1] 15:49:17
+In fact, because I took part in the previous replication games.
+
+[Participant 1] 15:49:23
+Which were not about like the AI Terminator. I think I've been in some ways in the three uh possibilities and it felt a lot more like the human, except that like it didn't take nearly as much time because we had a tool or a partner as a
+
+[Participant 1] 15:49:44
+Between both, as Andrea said. That makes it much quicker and can help us brainstorm Yeah, I hadn't thought about it before he said it but now I also tend to think, yeah, it's actually a part of the team in some ways.
+
+[Participant 3] 15:50:04
+Yeah, sorry. Yeah, I just wanted to add on this like what was like, I think you asked what was like kind of a not frustrating but when you under were understanding that it became annoying to use chat gpt so for me
+
+[Juan Pablo Posada Aparicio] 15:50:05
+That brings… Sorry, go for it.
+
+[Participant 3] 15:50:22
+I guess I think it's very simple it's like I'm becoming annoyed and like burdened by ChatGPT when I have to like think a lot about the prompt Because I'm just like trying to, oh, how I have to like formulate this so you will understand and for example in the case of machine it was the case because you have to kind of a prompt
+
+[Participant 3] 15:50:46
+A very kind of a very kind of a long chain of thoughts that should enforce chat gpt to execute which is also like time consuming not time consuming but like kind of annoying activity that you don't like And that's why cyber experience is more interesting because like, oh, I thought I can quickly ask it.
+
+[Participant 3] 15:51:07
+And you thought I can ask it. Okay, sometimes it can be the case that the chat did not understand me, but I can reformulate it like briefly I think this is the core thing like writing long long prompts and like thinking too much on them is it's where i'm getting like annoyed yeah
+
+[Juan Pablo Posada Aparicio] 15:51:28
+Interesting. That brings me to another question. Like, how did you end up dividing work within your team?
+
+[Juan Pablo Posada Aparicio] 15:51:36
+And where they disagreements? On how or when to use ChatGPT or everyone have almost free reign on how to use it.
+
+[Participant 1] 15:51:50
+On our end, everyone had the free purine to use it we just ended up using it. Actually, there's one of my teammates, I don't really know the extent to which they used AI. I think they used it extensively, but not
+
+[Participant 1] 15:52:06
+Perhaps not at all. Depending on the tasks we uh like we knew what our strengths were we knew how we would use it. We did speak about some of the We did have some discussions about how to prompt it with one of my other
+
+[Participant 1] 15:52:27
+Teammates, what are good ways of prompting it but uh Not nearly as much as with the machine team. So we just felt very free to use it or not.
+
+[Participant 3] 15:52:39
+Yeah, I think it was also quite the case in our team but i think it was also mostly related that we kind of understood from their first attempts to reproduce the result that something is weird there like that and very fast to understand that probably we won't get
+
+[Participant 3] 15:52:58
+To the results because there is problem and like data either in data or like in variable names uh so I guess we just agreed that, oh, we can double check something with chat gpt and At some point when we were like.
+
+[Participant 3] 15:53:15
+Can it help us to understand maybe how we can take advantage of the structure of the data maybe to get closer to the to the original result but at least at least I am personally was skeptical that it will help us because
+
+[Participant 3] 15:53:29
+My prior was like, oh, I think the authors just like uploaded not the wrong like the wrong version of their data probably
+
+[Juan Pablo Posada Aparicio] 15:53:41
+This is interesting. And I'll put a pin on that because I wanted to ask something, but I wanted to give Andrea the opportunity to jump in.
+
+[Participant 2] 15:53:48
+No, I don't have anything as well. I was in the same team as Georgie and I had a, yeah, I think that will our experience yeah
+
+[Juan Pablo Posada Aparicio] 15:53:56
+You said something that caught my eye or my ear in this case is the that your first reaction you found out something was on with the result was thinking that the authors were wrong and not that ChatGPT was making a mistake.
+
+[Juan Pablo Posada Aparicio] 15:54:13
+Is that right? Or did I misunderstood?
+
+[Participant 3] 15:54:16
+I think because the first step that I did when I kind of tried to reproduce the results I did it on my own without using ChatGPT.
+
+[Juan Pablo Posada Aparicio] 15:54:24
+Oh, I see, I see. Okay.
+
+[Participant 3] 15:54:25
+So I was like, oh, there's something wrong, but I will use GPT to just double check that I'm understanding that everything's okay. Yeah.
+
+[Juan Pablo Posada Aparicio] 15:54:33
+I see. I wanted to ask something You all said that you more or less had free reign to use ChatGPT on your own.
+
+[Juan Pablo Posada Aparicio] 15:54:45
+In however way you saw fit, right? How comfortable you felt about the output produced by your teammates knowing the role ai was playing in their AI in their output or it didn't change anything
+
+[Participant 3] 15:55:05
+I think in my case, I was totally fine with this Because… To be honest, I didn't even thought about it during during the gaze. I kind of take took it for granted maybe largely because it's a very particular saying and teammates we are kind of similar people in many things like
+
+[Participant 3] 15:55:25
+Like we are like, in our cases we are like junior scholars and people who kind of do academic work so and do and have experience some experience in like data analysis so I assumed kind of a baseline critical thinking in terms of
+
+[Participant 3] 15:55:44
+Working with chat gpt i imagine that we are not like I don't know, it's like 15 years old people who just like ask everything about like the world and trust it naively so maybe that's why I didn't problematize it.
+
+[Participant 3] 15:55:58
+But I can anticipate that in other circumstances I can be more like unsure about how certain people use it.
+
+[Participant 3] 15:56:05
+If I know something that their background is very different from the background of people today.
+
+[Juan Pablo Posada Aparicio] 15:56:13
+I see. I see. What settings would you feel like you're not so comfortable with someone using ChatGPT.
+
+[Participant 1] 15:56:16
+Yeah.
+
+[Participant 3] 15:56:22
+I think for me as a sort of as also a person who is like teaching and the teaching assistant I am very uncomfortable to with like, for example, undergrad students using this by default uh it's it's not that I'm kind of…
+
+[Participant 3] 15:56:39
+Techno skeptical or like very sort of conservative about it. I just understand that like education system will have to change in order to incorporate the availability of interaction with large language models to be useful because lots of parts of education system that were designed they did not take into account that
+
+[Participant 3] 15:57:08
+For example, you can write an essay at home in like five minutes by prompting For example, now I think, oh, if I would be a professor, I will make it not a take-home exam but in personal oral exam So this is the only thing I'm thinking i'm thinking about is that it's not about the
+
+[Participant 3] 15:57:27
+Like that chat GPT is a tool, but the availability of the tool just have to like makes me think about like how things are changing when this tool is becoming available and what it helps to measure and what it does not helps to measure.
+
+[Participant 3] 15:57:44
+Yeah.
+
+[Juan Pablo Posada Aparicio] 15:57:45
+Andrea, Alexander, anything to wrap up on how comfortable you felt on your teams.
+
+[Juan Pablo Posada Aparicio] 15:57:51
+Output that knowing that they use chat gpt
+
+[Participant 2] 15:57:54
+Yeah, if I may add a couple of things like one is that at the beginning, at least you don't really know your teammates so Like I do have a certain prior about AI. I know how like i how well it could have performed for a certain task. And I would say that for checking
+
+[Participant 2] 15:58:08
+A few lines of code I would expect it to be better than an average human. I don't know like if I knew that my like the person in front of me would be, I don't know, like a computer science professor or whatever, then that would be different. But if it's like a, I don't know, like a social science grad student like like me
+
+[Participant 2] 15:58:30
+I would say that, I don't know, like GPT-4 can definitely code better than me and I have no doubts about that so I think on that level.
+
+[Participant 2] 15:58:38
+That was okay. And at the same time, I knew that the other participants in the group like we were like reading the paper and looking around for like trying to actively understand what was happening so I knew that where they weren't just like you know like dumping everything into the chat and telling the gpt so what do I do next like there were some
+
+[Participant 2] 15:58:58
+It was apparent from the conversation that there was some critical thinking going on.
+
+[Juan Pablo Posada Aparicio] 15:59:03
+I see.
+
+[Participant 2] 15:59:04
+Yeah.
+
+[Participant 1] 15:59:04
+Yeah. Just on my end. One of my teammates was a prof and I knew them prior to the game so I knew the task they were good at like i didn't… I didn't feel the the need to inquire about whether they used or not AI because I knew they were well versed
+
+[Participant 1] 15:59:31
+For the other team member, I could see quickly that they were asking good questions and they were like the output that you were producing was great and they were using AI in an interesting way so we Yeah, I didn't feel like this was a
+
+[Participant 1] 15:59:54
+I didn't feel the need and I know that I'm the kind of person who could feel that need with some people.
+
+[Participant 1] 16:00:00
+That, okay, I'm not sure about that how well the research that. Sometimes it's the my my personality type would have me wonder about some of these people, but it wasn't the case in this game because I feel like the people that
+
+[Participant 1] 16:00:19
+Were in my team were committed to the results and had some experience before so I knew they would use it in a nice way and use their own judgment as well.
+
+[Juan Pablo Posada Aparicio] 16:00:28
+So in a sense your trust or their AI output was mediated by the fact that you trusted them as professionals.
+
+[Participant 1] 16:00:38
+Yeah, yeah, in some ways but also um I think I knew that it's less about the AI output than the kind of AI prompting. I knew that the AI prompting that they were doing would get them to interesting results.
+
+[Participant 1] 16:00:52
+I could also feel it in the kinds of interactions that we had.
+
+[Participant 3] 16:00:56
+Just like two fingers on that. I agree with this 100%. Plus, I think for me sort of a mediator was the fact that I knew kind of solve a task that we are trying to solve for instance they are that they are pretty technical meaning okay if
+
+[Juan Pablo Posada Aparicio] 16:00:56
+I see.
+
+[Participant 3] 16:01:12
+And the ghost of error in this case is pretty low, meaning I can imagine that maybe My colleague will prompt something about coding error and chat gpt won't find it okay or it will output a new code to correct and this code just won't work out
+
+[Participant 3] 16:01:30
+Which is not a big thing because it's more of an exploratory creative task and like okay we'll report one less coding error, one coding error less than the report, which is like i think kind of survivable thing And I can anticipate that
+
+[Participant 3] 16:01:49
+For example, I can remember that I was in the machine team, I remember that allocated much more sort of allocated more initiate of the chat gpt and that's where I kind of was already unsure Because there is once again
+
+[Participant 3] 16:02:06
+Lots of stuff where he generates his own content that is like questionably verifiable.
+
+[Juan Pablo Posada Aparicio] 16:02:14
+I see. Guys. If you were to do the games again Would you use AI differently?
+
+[Participant 1] 16:02:25
+As a cyborg?
+
+[Juan Pablo Posada Aparicio] 16:02:26
+Yes, let's say as a hybrid.
+
+[Participant 1] 16:02:30
+Um… If I had to do it on my own, there's some things that I heard today that I'm like oh could have tried that, but maybe one of my team members did it too.
+
+[Participant 1] 16:02:47
+Yeah, I'm not sure. It depends on how uh we divided the task, but if I had been assigned some other tasks, some of the things that I that I heard today, I was thinking, oh, I could just have freeze this this way to freeze this way
+
+[Participant 1] 16:03:02
+Ask it to the machine, but not in significant ways. Most of the questions that I ask him I think I was pretty I already had some experience from the first games and I think that helped me.
+
+[Participant 1] 16:03:15
+Ask good prompts.
+
+[Juan Pablo Posada Aparicio] 16:03:16
+Fair enough. So what my general life? So my question is.
+
+[Juan Pablo Posada Aparicio] 16:03:22
+What aspect of this experience felt specific to the games and what aspect fields that you could apply in your day-to-day life.
+
+[Participant 3] 16:03:33
+For me, maybe it's for a general question for a general question Yeah, so I think… I just want to i kind of the thing that my interaction with chat gpt during the game today was very case specific in terms of the fact i didn't expect that
+
+[Juan Pablo Posada Aparicio] 16:03:37
+Done for everyone.
+
+[Participant 3] 16:03:53
+There are going to be so much obvious so many like obvious problems with the article appearing at the earliest stage.
+
+[Participant 3] 16:04:03
+And I can anticipate that if I would in alternative reality i would uh i would get one like i know a hundred different articles i would a hundred different ways uh different ways because of the unique problems or things that these articles can have. For example, if it would have been a perfectly reproducible article
+
+[Participant 3] 16:04:27
+I wouldn't dedicate so much time and trying to polish my estimate that I'm trying to reproduce, I would have spent much more time having conversation with chat gpt about let's say create creative way to do robustness checks or how to like find a good gotcha situation where we can kind of falsify the hypothesis or the offer but
+
+[Participant 3] 16:04:50
+In this context, we just didn't have this opportunity because we kind of very first came to the conclusion that the initial result is not reproducible.
+
+[Juan Pablo Posada Aparicio] 16:05:03
+Andrea, anything to add?
+
+[Participant 2] 16:05:04
+No, I think this is a very good point like dbt Yeah, I think that this replication game are rather unnatural in the sense that this is not a typical way of using AI to work with code because you would never
+
+[Participant 2] 16:05:19
+Use AI to edit code that you know is wrong from the get-go So like, I think this is a very peculiar situation by which you are given some code and some data and you already know there's something off there
+
+[Participant 2] 16:05:29
+Which is not what usually i mean might happen in some ways where there you will have some bugs in your code or whatever but generally you want to start from something that you know it works and then either like improve it, extend it or whatever.
+
+[Participant 2] 16:05:42
+So I think, yeah, some of these things uh of the consideration that we have talked about so far apply some don't.
+
+[Participant 2] 16:05:53
+And I don't like one big difference is that I'm used to working with the eye alone not in a team. So I do my things and have AI helping me, but it's not like a team of five people and everyone has their own AI assistant and they own like the humans interact with each other. So that's a very
+
+[Participant 2] 16:06:08
+Different setting and I'm not sure to what extent what we said so far would apply to that but Yep.
+
+[Juan Pablo Posada Aparicio] 16:06:14
+Interesting. So let me ask you like the holy grail question. And this goes for all of you.
+
+[Juan Pablo Posada Aparicio] 16:06:19
+What do you think explains the difference in performance between humans, cyborgs, and machines. What do you think is driving this.
+
+[Juan Pablo Posada Aparicio] 16:06:30
+This effect that we're seeing.
+
+[Participant 3] 16:06:33
+I think the core the core difference is that basically Who is… they like the main brain of this whole process. I'm trying to say that uh in my opinion when the main sort of decision maker is AI like and machine team
+
+[Participant 3] 16:06:55
+It's not a good thing. While when it's the real human who is kind of like the the manager the main manager of the situation it's it's gonna be and for example we have an additional helper In the form of AI, it's the most effective situation because basically I plan the strategy and I use AI as a sort
+
+[Participant 3] 16:07:20
+Tool that helps me to do the dirty work By saving time, saving my mental energy to think about more abstract substantive thing. So yeah, I think this is my partly my answer that some more of a like creative abstract thinking abstract
+
+[Participant 3] 16:07:37
+Kind of a task this is where I don't like i don't trust AI and I don't want And I do want myself to be in charge of this while as for like realization of certain thoughts. I want AI to be there just to save my time.
+
+[Participant 1] 16:07:54
+I think in my case, it's I hadn't seen it this way. I generally agree, but I also think for some creative tasks, AI is also Pretty good.
+
+[Participant 1] 16:08:07
+But it's true that it's true like you feel so constrained in the machine team you always feel like urine like… you cannot really put yourself in the shoes of the machine. But you need to So that's the issue. Well, it just seems seems less seamless when
+
+[Participant 1] 16:08:29
+When you're just asking it the questions that you wanted to answer for you and you that for this other question.
+
+[Participant 1] 16:08:36
+It's going to be yourself. You're just much more free to use the strength of each team member, including AI at the best of their capacity in some ways.
+
+[Participant 1] 16:08:47
+I think that's it just provides a lot more options basically
+
+[Participant 3] 16:08:52
+Yeah, so just like, yeah, two fingers on this. I think the main difference is that You know, AI can be creative but uh Only if you will prompt it to be so. By default, it won't be creative. It won't be very stupid and you will
+
+[Participant 3] 16:09:08
+Kind of allocate lots of resources to make itself think in the way you want.
+
+[Juan Pablo Posada Aparicio] 16:09:16
+Are there?
+
+[Participant 2] 16:09:18
+Yeah, if I may add a couple of things like One thing that I think kind of improved recently with AI, but it was used to be pretty bad is a long context and this is typically a very like long context tax you have to keep in memory in in like working memory uh
+
+[Participant 2] 16:09:32
+The general ideas of the paper, the aims of the objectives, the code, which is located in different folders of the reproduction file so Like, I think that that's like a specific uh process of the whole thing where humans may still have a
+
+[Participant 2] 16:09:49
+A substantial advantage and also like we were not exactly comparing like one human with one machine like the comparison was a little bit unbalanced in the sense that humans were in teams, whereas the eye was alone and that could have helped humans as well and also
+
+[Participant 2] 16:10:05
+I think that the interaction with tools is rather different between humans. I mean, we don't have really good AI agents so far So, I mean, they do have some shelves in which they can execute code, but it's not the same as, I don't know, like a person who can access, I don't like look at the data in a CSV file, go back and forth.
+
+[Participant 2] 16:10:24
+And then open a console, do some kind of checks. I don't know. I think the interaction with tools is way different from like between humans and ai and maybe in the future AI would have access to I don't know, not just a small terminal python console or whatever but just i don't know like ways to access all the files in parallel and the navigate directories more productively.
+
+[Participant 2] 16:10:47
+Maybe things might change. I don't know. We'll see.
+
+[Juan Pablo Posada Aparicio] 16:10:51
+So guys, based on your experience, I think you're uniquely positioned to answer this because you have the experience as both side works and machines.
+
+[Juan Pablo Posada Aparicio] 16:11:00
+Why do you think machine teams struggle so much?
+
+[Participant 2] 16:11:08
+Could you clarify how this question is different from the previous one?
+
+[Juan Pablo Posada Aparicio] 16:11:12
+The biggest one is the biggest one on all treatment arms like what do you think changes from humans to cyborgs to to machines. This one is specifically about the machine team struggles like why do you think they specifically struggle so much.
+
+[Juan Pablo Posada Aparicio] 16:11:31
+And provided so But we see the results of the paper. They perform badly in almost all categories.
+
+[Juan Pablo Posada Aparicio] 16:11:40
+Why do you think that's the case?
+
+[Participant 1] 16:11:42
+I'm not sure if it's still the case in 2025, but it wasn't fully able to read the R file last year.
+
+[Participant 1] 16:11:50
+So I'm not sure if this is still the case today. We'll have to find out. But I think that's the main issue that we run into.
+
+[Juan Pablo Posada Aparicio] 16:11:57
+So what Andrea said that the context window is perhaps not enough for the kind of task at hand.
+
+[Participant 1] 16:12:04
+Yeah, like it was simply unable to do some tasks.
+
+[Juan Pablo Posada Aparicio] 16:12:08
+I see. You agree?
+
+[Participant 3] 16:12:12
+So I think, yeah, it's… the problem of the fact that in a machine only team the task for AI is just more complicated where in case of the cyborg it just basically Sometimes it's kind of a similar like a similar task uh
+
+[Participant 3] 16:12:35
+In terms of like accumulation that you kind of but since you kind of how to say it.
+
+[Participant 3] 16:12:45
+Split it in a very small prompt it will uh it it's like more effective to solve this than instead of one large task for example And especially like a year ago, I think it was a huge problem for AI because it
+
+[Participant 3] 16:13:02
+Like how to say like asymptologically with like the the the the longer instruction it was more likely just not to give you what you want to get not also in terms of like truth, but also in terms of whether AI understand you and whether it's able to sort of
+
+[Participant 3] 16:13:22
+Catch and remember all of the things you want him to do for you.
+
+[Juan Pablo Posada Aparicio] 16:13:28
+Guys, that's all. Thank you so much for your time.
+
+[Juan Pablo Posada Aparicio] 16:13:32
+Before we go, I wanted to ask, is there anything else?
+
+[Juan Pablo Posada Aparicio] 16:13:36
+You think we should know?
+
+[Juan Pablo Posada Aparicio] 16:13:42
+Nope? So that's it.
+
+[Participant 2] 16:13:42
+I don't think so, no.
+

@@ -1,0 +1,215 @@
+Rohan Alexander: that we can record. So hi, everyone. My name is Rohan Alexander. So the purpose of this session is part of a broad study on how researchers interacted with AI tools during the replication games. So we're particularly interested in understanding the dynamics within your team, how you used or engaged with AI, and your overall reflections on the experience There are no right or wrong answers. We're just here to learn from your perspective. So just to set the general context and motivation. So if we can go around the room and perhaps we just go in alphabetical order, perhaps. What motivated you to participate in replication games? So Chiara.
+
+Participant 1: So I am from psychology and I'm a postdoc. And so I've been told many, many, many times that reproducibility is very important. And when I saw this opportunity, I thought that I'd be useful. And so I decided to participate.
+
+Participant 2: OK, on my side, of course, it was the obvious goal of why this is organized. But my first one was already in August 2023, when I went to the Econometric Society European Economic Association. So this was in person. And on top of the objective, I liked so much the interaction and the team, which I happen to know two members. And then I become very excited to participate. This set, I found the recent invitation for the AI games and it's what it brings us today with a different taste, let's call it like that. I guess we will touch upon that point later.
+
+Rohan Alexander: Thank you.
+
+Participant 3: It sounds fun. I work in econometrics. So before I implement new methods, I need to be able to replicate what people have already done. So having an exercise that it's very much in this line, especially interacting with AI sounds interesting.
+
+Participant 4: In terms of replication games in general, Abel is my supervisor, so I've kind of been there from the ground up. Always kind of been interested in the fact that there seems to be somewhat of a replication crisis in economics. So there's that kind of, you see things happening out there, and then there's an opportunity to kind of do it yourself. The AI replication games were attractive to me in particular because this is a new tool, and this is a new tool that is more mystical than any other tool that we've kind of had in the last 20, 30 years. And really understanding the applicability and how it evolves over time, this tool, in the replication space. Because let's be honest, if this tool can perfectly replicate work, then that's a great and awesome kind of thought process. But figuring out if we're there yet is kind of a personal question of mine.
+
+Rohan Alexander: Absolutely. So before the games, how familiar were each of you with replication or reproducibility work? Have you done this sort of thing before? Have you ever reviewed code or tried to run another researcher's results before?
+
+Participant 2: So I don't know if you refer really before any experience related to the Institute for Replication. That answer would be kind of in a course, actually as a student, a professor, instructors. And then since I joined your projects, I actually experienced already the free rules, but I think you were asking before, right? That was existing, but very limited experience.
+
+Rohan Alexander: Yeah. Would anyone else like to speak to their past experience other than at the Games, before the Games?
+
+Participant 4: Before any of the replication games, I never actually replicated a paper. After the replication games, or at least the first ones, I have done so and published or working on publishing two comments directly from replication games.
+
+Rohan Alexander: Uru or Luther, do you have anything other to add?
+
+Participant 3: Well, prior to this current games, the previous one that I worked on was also in person in 2023. So that was probably the most extensive replication project I've done to date. Prior to that, I think it's only replicating like one or two results within the paper. So it is fairly sparse compared to what we're doing now.
+
+Rohan Alexander: UPR?
+
+Participant 1: Before the games, I didn't replicate anything. It was just theory. I had lessons about the importance of open science, but that's it. And then I replicated with the other two co-authors a paper within the Institute for Replication Opportunities.
+
+Rohan Alexander: That's wonderful. So before you participated, so before today, what were your expectations about the role that AI would play in your team's work?
+
+Participant 3: Terrible. Based on our initial draft, it sounded like machine teams are going to take a long time. So that formed my expectation.
+
+Participant 4: Same here. Exact same here. Having read the written words on the first draft, it was low expectations for the applicability of AI going in.
+
+Participant 1: Yeah, me too. I know another person that participated in the machine team, and he said that it took, it was very quick. I mean, it was four hours. When I was in a cyborg team, it was eight hours of work. But he said that it was very frustrated because everything was terrible and was not, it was wrong. So expectation from here too.
+
+Participant 2: So I think I will take from the point of Chiara something I already planned to share because the fact of experience already all roles and the teams are different and the papers are different. Maybe we'll also need there some dummies in the analysis because what I experienced so far and guessing that I have a correct understanding what you want with the cyborg and the machine. Why? Because I attended already two times the pre-games and I happen to know well a person from your team And it's probably related to something you're going to ask later, for example, in my team today, and as I'm a team player, and I was the minority, I feel that some people might have doing a lot in what is the machine, what I've done in the cyborg last November. That said, if you are also very interested in the variable of time, the duration, which I think you are, I think the papers also count. because I have a simple thing to share. The time inside board, we were like one hour and a half. That's what we did in November. With that same paper, if we were a machine on how I think a machine should do, I think we would have even been shorter. So if you have control for the kind of paper, and today in the machine, although I think one of the members really thought and considered we should do more what we do on the machine, even if we had the approach I had last November, I think it will always be longer because Okay, maybe I will wait for your later questions. Because I guess you're going to ask us about details about our interaction with the chat GDP. But I think what exactly is the paper about? And how each team or the members perceive what is the role? I think it's also impacts the results. And at least in November, we didn't have any debriefing questions to the teams or did we? I don't remember, okay? Because these are things that can influence tremendously, for example, the duration of how long each team takes in each role.
+
+Rohan Alexander: Absolutely. So now turning to AI use and interaction. So can you describe how your teams used chat GPT during the games today?
+
+Participant 1: So I can go first. So each of us just gave the PDF and the replication package as the zipped folder to our chargeability. And we asked to read it and inspect the files and see what was there. And we all three tried to reproduce the figure. And it went on like, yeah, an hour. And then one of us could do it. And so then we split the forces, and two of us worked on coding errors, and the third one worked on robustness checks.
+
+Rohan Alexander: Thank you. Would anyone else like to talk to how your team used Trash.gpg during these games?
+
+Participant 2: I can share my experience and then go back to a point I raised about the perceptions of the two roles. So I will start actually how we use it when I was in the Cyborg in November. So strictly speaking, and I also met people that were in Cyborg, you cannot even use it at all, but what we did, we actually started by not using and take 20 or 30 minutes each one to read the paper. And then we basically used simultaneously the local, we were running ourselves as if we were, for example, when I was in the human in Barcelona, we were just running on on a state and also at the same time on chat GTP. So we were basically ourselves comparing. And as I think most of us are using for other tasks, I think it's what it speeded up a lot, we were basically using chat GPT, where it could speed up our process. But of course, you're going to read the paper, we were following our own decisions of what should be the reproducibility. That said for today, and that's why I think some teams might have not fully grasped what you want, or I have the wrong understanding. So we you explicitly in the pregames asked us to not read the paper and even on the pregame two days ago, I think was David that replied when someone asked, and should we ask sub questions to realize what chat GDP can summarize the paper? And I understood from David, we could ask that for boosting the understanding of the CHGDP itself, not for us to start trying to understand the paper. And here I go back to something where I don't know if you're just to elicit our, our opinions or share where I think it's a little twist compared to where I was in person in Barcelona. I think your goal when we were the machines today, it's not about the quality of the output. It's about we not being aware of the paper and asking the tasks that we want to reproduce to the table, if there are coding errors, and then two possible robustness checks without being aware of the paper, and then report to you whether we have output or if we're enabled because of A, B, C, or D, right? And what I felt, but maybe you have to put that dummy for, let's call the leverage loss data or the applied micro. And again, as an MIT member, we just kept ours doing it. So as soon as we got the, Summary, we basically took time to start reading the what ChetGDP tells about the paper and doing a lot with the state. So in the end, there was a lot of ping pong between the ChetGDP and the state they used. But I guess that maybe you wanted us to just rely more on our interaction with the ChetGDP. So in the end was not so far what we did today in my teams, what I did with my team in However, the only difference is that we didn't start by reading the paper. But just as a final comment, Rowan, for me, once we ask it to summarize, I would right away start instructing for the next steps rather than trying to understand the problem ourselves.
+
+Rohan Alexander: Thank you very much. Luthero and Niccolo, would you like to add anything?
+
+Participant 3: So our team, essentially, well, we just independently tried to replicate the figure on our own. Nikolai and I are on the same team, so he might have some perspectives that I might have missed. Yeah, so from my perspective, my hands were essentially tied and I tried to be as much of the machine arm as I can. So I asked Jack GPT to summarize the paper and parts of it didn't make a lot of sense to me. So I As much as I was tempted to read it, I decided not to, and I continued to prompt ChadGBT on stuff that it said that didn't make sense to me, until I had a somewhat coherent picture to get it to reproduce the figure that we want. So I think after an hour, I got something that was kind of close, but then it was also later that Nikolai pointed out that it was not exact, it just looked close, it was not the same figure that was on the table. So yeah, that was my experience.
+
+Participant 4: I'd like to highlight something that was kind of intimated there, but I'll make explicit. I found the use of ChatGPT made the human-human connection or the human-human interaction in the team lower, and lower in both in potential and in average, than a standard human or cyborg team. Because we wanted ChatGPT to do the work for us, it seemed like The thing we were working with was instead of other humans being the AI, it felt, I think I used the term enough times by now today, but it felt more insular. Even though we were a team, the fact that you're a team or a collection of twos or a collection of dyads, human and AI, I felt it was a little bit less cooperative than it could have been. So there seems to be that kind of At least, again, my own subjective experience in using the AI. And for me, if I can just kind of plain speak, it felt like it was an undergrad who hadn't used econometrics before. And then my job is to not look at the monitor and just kind of say, do this. And then they tell you something. And then my job is to go, there's no way that that could possibly be right. So let's go ahead and like, see if I can figure out a way to see if this is right or not without actually being able to actually touch the material. So there's a popular party game called Don't Stop Talking or Nobody Explodes and Nobody Explodes, where one group has a manual to defuse the bomb and the other person is trying to defuse the bomb. You're not allowed to see either side. And that seems to be a characterization of my experience with ChatGPT today. I don't know if ChatGPT caught the right wire. Yeah.
+
+Rohan Alexander: The future of economics depends on it. Were there particular moments when you chose not to use ChatGPT? And why is that? Or it was all ChatGPT all the time?
+
+Participant 4: I wanted to not use ChatGPT, but I stuck with it as the rule. But I desperately wanted to stop using it.
+
+Rohan Alexander: What made you want to stop using it? Like what aspect was frustrating? Just interacting with it where it clearly didn't know something. You've described it as an undergraduate before. So that aspect?
+
+Participant 4: Previous experience for me was I know how to do this. I know I could have done this twice over by now rather than wrestling with the machine. That was kind of the kind of what's it I'm looking for. That's exactly where the frustration was coming from for me.
+
+Rohan Alexander: Would anyone else like to add anything?
+
+Participant 2: Rowan, if the experience of Chiara or if there were other people here is similar to what I heard now from Nikolai and Luther, they go in line in what I think is actually the role you want for the machine and where you should take a grain of salt, the team 19. Because after what I experienced in November, what I understood is the role, and I hear now Luther and Nikolai, I, each more time, I think what I did today with my team was close to what it's the cyborg, because what they shared now with you when they wanted to stop, that's where exactly we really stopped, because one of our melons really pushed that side. But I think what you wanted, it's exactly what Nikolai has shared. That said, you made a very specific question. Also, if we could, where would we stop? I don't know if the other members here have been in Stata or are. I think by construction, I already knew this by other experiences, where the chat GTP really stopped. And then we really start using a lot of Stata ourselves. It's because Stata is not open source. And at the given moment, it's just could not proceed specifically in one of the robustness checks that we wanted to implement.
+
+Rohan Alexander: Kiara or Luther, did you have anything to add?
+
+Participant 3: So I guess I can give an example of the frustration. So I think when I was trying to replicate the figure exactly, part of my, at the back of my mind, I was like, well, if I could just see the replication code, I could kind of just compare the two codes that I have and find out exactly what goes wrong. but I can't do that. So I was trying to prompt Chet GPT in that direction, but I never actually got there. So eventually I just ran out of ideas on how else to prompt it and left it as such.
+
+Participant 1: Yeah, even for me, the most frustrating time was reproducing the picture for me and for my other team members, because, well, it's terrible when you, well, he couldn't do the box plot that was inside the violin cloth. And I kept telling him in different ways. And he was keeping telling me that I was right. And see just placing some squares within the violin plot. So it was gosh, please stop. Stop it. I mean, And so at the end, we just managed, so I couldn't manage to reproduce the figure and the guy who could did it on R. Of course, we just guided by Chachipiti, but we weren't able to do it Chachipiti without the R script.
+
+Rohan Alexander: Were there any prompts? Luthi, you mentioned changing your prompts and things like that. Were there any prompts that worked very well or very poorly?
+
+Participant 3: that worked very well or very poorly.
+
+Rohan Alexander: Were there any prompts that worked very well or very poorly?
+
+Participant 3: I think in terms of prompting it in the right direction, when I look at the output and figure out and see that it does not work, I will try to see if I can move it in a particular direction, like if it is the dots that are not showing up between the two plots. I'll prompt it by saying like, could you check the dots or something like that. And sometimes it will give a suggestion that it didn't implement properly, so I just copy-paste what it said earlier and say, could you look into that or build that into your code? So these were the things that worked well. In general, if I just copy-pasted our task, which is to reproduce this table, it doesn't do that well. So it needs a bit more prompting based on its output that gets it closer.
+
+Rohan Alexander: I'm hearing a lot of frustration about using AI in this setting. Would that be fair to say? How else would you characterize your use of working with AI in this setting?
+
+Participant 4: I don't trust it. Whenever it spits out an answer, it's very, it's very confident. And the problem is, is that confidence doesn't have that kind of, you know, here's a number, but I know I might have made a mistake or two, which is what an undergrad RA would give you versus a very like a chat GPT level confidence, you're not getting that kind of like subjective confidence interval from the tone of voice or even just like the tone of the writing. So you're just getting a point estimate and you have no idea where or how wide this confidence interval should be based upon how it's giving you the information. That's kind of, that was my interpretation of every time it told me something because I was like, okay, what is the estimate that we're trying to actually get? And it kept giving me different answers. And I'm like, you can't be this confident and also give me
+
+Rohan Alexander: No lack of confidence or frustration. Would anybody else like to add to this?
+
+Participant 2: Bridging on Rowan's analogy, sorry, on Nicolai's analogy, we had something that, as we are not undergrads, it shows up how we reflect, but taking Nicolai's, the confidence, and if the person doesn't have no clue, would likely just pick that and believe. So at a given moment after in less tries, because besides replicating separately the table, then we always work together with one person typing and sharing the screen, we managed to have Chechi TP to come up with a regression output. But then we right away realized that the total number of observations was basically half of what is in table blah, blah, blah for papers. So, but all around it was as Nikolai describe the structure and how it gives and the explanations all looked very professional and clear. But for us, it was obvious if you allow me the words, it was bullshit.
+
+Participant 1: And sometimes frustration became irritation. I know it's I mean, they're pretty similar, but it's just absolutely
+
+Rohan Alexander: to know what it got on its undergraduate real analysis before we trust it for economics. So looking back, do you think that AI, did AI help at all? Or was it all just hindrance and slowing you down?
+
+Participant 4: I like qualifying usually when I talk, but I found it to be hindrance.
+
+Participant 2: Or if I go back to, oh, sorry, go Chiara.
+
+Participant 1: No, no, no, please go.
+
+Participant 2: So as these analogies I make for the cyborg, and as I think my group, we ended up doing too much maybe because of frustration thing was not moving. That's part it's helpful because then we have one of us with the state open, and then we would quickly, out of clear prompts, ask what are the steps Chechnya TP would advise us to follow. So for that kind of tasks, as I observed in November, can speed up your working process and leads to, given you are the expert, then when you are with the local Stata, generate good stuff. But again, I think that's not the pure task that you ask us with the machine. The machine trying really to produce It leads to a lot of barriers, sometimes leads as one of our proposed robustness traps we just gave up at the given moment after two hours on one of them. And when it really provides the output that we are repeating what we discussed before, it's clear that it's not reliable.
+
+Participant 1: I just wanted to say that it's a little bit difficult to say because I have no idea of the paper. I have no idea of what I did, basically. I mean, I can say that it was helpful when he found out there was a repeated comma in a ggplot code. So of course, that was an error. But when it was something else, I couldn't really check if it was helpful.
+
+Rohan Alexander: Would you have preferred that rather than be provided with an AI assistant or an AI tool that you had to use entirely, that you'd be given undergraduate RAs?
+
+Participant 1: Sorry, can you repeat the question?
+
+Rohan Alexander: Would you have preferred just to be given undergraduate RAs who would follow your directions to help you do this task? Would that have been less frustrating? I'm hearing a lot of frustration. Would that have been less frustrating? even as they may have given you the same incorrect answers, but at least it wouldn't have been frustrating?
+
+Participant 3: I would say yes and no, and I'll qualify that. So, and I'm just thinking about what the counterfactual is without using ChatGPT. And I think in terms of the initial stages of setting up the code, I would not be able to do it as quickly as ChatGPT on my own. Maybe if I had access to a replication package that would speed things up, but I think writing code from scratch, there's no way that I could beat CHEP GPT. I think it does really well on that. But in the second stage of tweaking the code until we get exactly what we want, that is the much more frustrating bit. So in terms of question of whether I would prefer chat GPT to the undergrads, I would say that the first part, I would take AI. I think it's great for generating something quick that works. But for the second part, in terms of tinkering and refining it, I would still prefer an undergrad RA.
+
+Rohan Alexander: Anyone else have anything to add?
+
+Participant 2: Likewise.
+
+Participant 4: I would forgive an undergrad RA for making mistakes. And I would, how do I put this? I would value correcting it. Whereas with the AI, when it makes a mistake, it's unapologetically arrogant. And then when you're correcting it, it's like resistance to being corrected. And when I'm teaching it to do the correct thing, I know that there's no learning going on. It's not going to learn to do this better the next time. So that would be my reflection on the choice between an undergrad RA and an AI.
+
+Rohan Alexander: Was there a specific instance where you would tell it something and then it would repeat that error again?
+
+Participant 4: I can give the most surprisingly most frustrating thing was I wanted it to give me timestamps whenever it responded back to me and it would hallucinate the time. So I would ask it, can you please, you know, tell me the time? And it would tell me the time. And then I'd be like, why is your timestamp in the future? And it goes, it is the correct time. And I'm like, no, it isn't. Why are you useless? And then it would apologize and continue the mistake. Yeah, that's a specific instance that's run throughout the entire day and just kept giving me wrong timestamps. So I had to go in on my prompts and say, for the person who reads this later, the current time is X to ensure that this is not being propagated or this error is not propagated.
+
+Rohan Alexander: Do anyone else have examples of this where consistent errors from the AI despite correction?
+
+Participant 1: Yeah, so after we reproduced the figure, I wanted to open another chat to do the coding error procedure. And I gave Chachapiti the folder, the zipped folder, and said that he couldn't open it. And they said, yeah, but you did in the last chat, so please just do it the same. And he wasn't recognizing the fact that he couldn't open it. He was just saying to me that you were on another chat. Now you're in this new chat. It's different. And yeah, yeah, I know. I know that I'm in another chat, but you could do it before. So please just do it. And he couldn't. So I just had to go back to them.
+
+Rohan Alexander: Diego or Luther, did you have anything else to add?
+
+Participant 2: Several obstacles, but not with a repetitive pattern. Okay. There was one variable from the original data set that continuously had a problem to acknowledge or identify, but I don't think that kind of limitation is the same style as the ones that have been reported. I think this is really the input that we provide.
+
+Participant 3: So my experience was that I was copy pasting the code that chat GPT gave me. Um, and if the code crashes, for some reason, I just copied the error back into the chat and see how it refined the code. And there was a loop of like five or six times of doing this way. God gave me the same error. So eventually I decided that to do something completely different.
+
+Rohan Alexander: Yeah. How were your teams dividing the work? Was there one person telling everyone else what to do, or was it evolving fairly naturally?
+
+Participant 4: I think for our team, it was pretty independent. We did check-ins throughout the day, but it was largely independent.
+
+Participant 2: In my team, the first task to attempt to replicate the table that we were given These we did separately. Then the rest, we just put one person typing on and sharing the screen. And we were then basically always discussing. But a bit again, like the cyborg world.
+
+Participant 1: We were independent in reproducing the figure and then we split coding errors and robustness checks.
+
+Rohan Alexander: Were there some people that were more confident using AI or the role of AI than others in the teams?
+
+Participant 2: Chachi Dipino, with Esteta, we had a member that, I don't know him, but I would guess he's really a micro-econometrician.
+
+Participant 4: I think we were about equally confident with Chachi Dipino in team six.
+
+Rohan Alexander: And so in general, everybody was using AI. Everybody was doing, everyone was doing everything. Uh, were there any disagreements within the team about how or when to use chat GPT?
+
+Participant 1: So it was not an open disagreement, but we couldn't decide when to finish. like there was, I think, after four or five hours, it seemed to me that we couldn't do much more. I mean, it was repeating the same errors, it was repeating the same robustness check, we couldn't do much more. There was a second guy who was, I think he was agreeing with me, but he didn't want to exclusively say that. And then there was a third guy that he wanted to really continue asking the same thing, because he was saying that some other coding errors were appearing that I don't think is true, but there was this kind of disagreement.
+
+Participant 4: Yeah, I wouldn't label it as a disagreement in the sense that we had roughly the same situation. It's a matter of when is it time to give up. I reached there fairly quickly in the sense that I mean, I know that there's a limit. I expected there to be a limit. And when I got there, I kind of stopped. Some team members were more persistent, to their credit. And some team members, yeah, I think it was kind of more of a continuum rather than a disagreement. But we had the same.
+
+Participant 2: In our team, it was more on something I mentioned in the beginning about what would be exactly our role. but exactly because all of us participated in previous roles, I actually contact them ex ante because I remember people on the machines to comment what I've been sharing with you. But then when we started, I also don't call it disagreement, it was clear that one of our members had a more cyborg view of what we should do. And as we are also here to do something and have fun, we basically kept not until four, but we basically kept like five hours. Okay, we stopped for lunch. But I think taking what character on her group, I think me and our Chinese colleague, we had the same view about Chris, it was not so much to go so deep using the state and so on. But then you know, Just for time, we also have to have some fun with this. So that's, I think if that person were not on the team, we had been faster. That's why I think you should take with a grain of salt also the time durations, because they can be led by some member that wants to do more with the state that even when I think we should not do, but me, at least as a team player, I would not turn it into a disagreement. And I just let it, I just let it go.
+
+Rohan Alexander: And did you try different models within chatGPT? Were there any that were better than others?
+
+Participant 3: I didn't.
+
+Participant 4: I just switched to the faster one.
+
+Participant 2: That's an excellent question. I think the reason we took so much time in some, it might not be necessary, one of the robustness checks, I think the reason we didn't thought about that is a consequence of the obstacles that we found. Because if I think on my human role group and even on the cyborg, trying different specifications was something that always came across. And if you stay like two hours in a fairly simple robustness check requirements, and because we have to check a lot with ChHPT and it's just obstacles, then in the end, yeah, we didn't really, nobody really mentioned any proposal because it was so clear that this, I think everybody assumed that would not work.
+
+Participant 1: We used the basic one, what's the four, and then O3. And as far as I can say, I didn't notice so much difference in the output. But yeah, I might be wrong.
+
+Rohan Alexander: Interesting. So now turning to the final section of questions, which is to do with reflections and takeaways. So if you were to do the games again, how would you use AI differently?
+
+Participant 1: Stephen and Machine Team, sorry.
+
+Participant 4: I have a personal obligation I have to get to. So if I may, I'd like to give my answer and then I have to get going. I would want to use it as a sidebar. That's kind of the pithy kind of answer that I would give to that. Thank you. And please excuse me.
+
+Participant 3: Cyborg would be ideal too. I did human team last round and now I see what AI can do, I think complementing both would be ideal.
+
+Participant 1: I agree.
+
+Participant 2: Agreeing with the point that I would also go for the cyborg, I forgot to mention a detail that we also did. And there's not only check GDP itself, it's always progressing. Strictly speaking, we could also check other LLMs, right? So for example, in the team today, I forgot to mention that although we started the 4.0, then eventually, I think more than half of the time, less than half the time, so more than the best half way through, we actually changed for 4.5. Anyway, if I think back on the pre-games, and given the time we have, maybe by default, each team can also try to check whether there are differences depending on the models. Because the takeaway I understood is that the 4-0 and the 3-0 can be slower, but have more accuracy in the reasoning. And the 4-5 is faster. Anyway, those kind of comparisons And as this is continuing to develop, I think, is the dimension that might improve our perceptions and opinions about the machine rule, which, as you correctly already mentioned a few times, we were all a bit frustrated about, okay, the cyborg know the cyborg, if you have, I will not say just for the sake, whatever, you call yourself an expert on something, Of course, the CHTP can speed up and improve your productivity if you use it on the side.
+
+Rohan Alexander: What do you think explains the differences in performance between the AI-led, AI-assisted, and the human-only teams? Do you have any thoughts about the reason for the difference?
+
+Participant 3: attribute that to fine-tuning the code. I think most of my difficulty today had to do with fine-tuning it, and the AI was just not great at it.
+
+Rohan Alexander: To what extent do you think that the structure of the games shaped how you used or didn't use AI? I mean, would you like clearer guidance or more freedom?
+
+Participant 1: Sorry, like in general or during games?
+
+Rohan Alexander: During the games. To what extent do you think that the structure of the games affected your use during the games?
+
+Participant 2: on my side, very much. But I would say that your three games, not only it's a one hour clear explanation, and then even share the documents, which basically covers what David and Abel discuss. What I'm not so sure is everybody attends them because based on the instructions I received, unless Ron, you want to correct me regarding my view on how I've been splitting the perception of what it means the cyborg and the machine. But if how I take it, I managed to understand the differences of what you want, I think your instructions are already pretty clear.
+
+Participant 1: Can I add one last thing about this? Sorry. Following up on what I said before about the duration, so the fact that we knew we had eight hours, I think that person in my team really wanted to do all eight hours because he thought that they were the basic limit of the work. So he didn't want to end before. So I think that was something that impacted our work.
+
+Participant 2: Yeah, I also felt that in one member of my team.
+
+Rohan Alexander: Yeah. Is there anything that you think that might generalize to your use of AI outside of the games?
+
+Participant 1: I will not give Chachapiti something blind. But it makes sense.
+
+Participant 3: Yeah, I'm pleasantly surprised by how efficiently it can generate code. So I think I would use that a bit more in my coding. But at the same time, I'll be quite cautious about whether its output is correct or not.
+
+Rohan Alexander: Yeah, that's right. Which language do you primarily code in?
+
+Participant 3: So what I did today.
+
+Participant 2: and a bit of Python.
+
+Rohan Alexander: It seems less good at Stata compared with Python. Diego, does that mirror your experience?
+
+Participant 2: Absolutely. And I can tell you even a more clear support of that. So I'm actually a Behavioral Experimental Economist. And for our experiments, we use a lot something called the Z3, which has a similarity with Stata. It's closed. And there is the O-tree, which is open source like the R. And as I used more the Z-tree, and I use the O-tree, they report exactly when people are discussing about Stata and R. But this, if we think on the big picture of the LLMs work, it makes all the sense because when they go to search, they bump into walls, right? So that's might explain why for Stata users can be more frustrating And why I use CHDP more for other purposes than to correct my dofile or whatever.
+
+Rohan Alexander: Well, that's all of the questions. Thank you very much for sharing. Is there anything else that you'd like to add before we wrap up?
+
+Participant 2: No. As usual, thank you and to Abel and all the team because I think it's great on how you organize our gatherings. Definitely.
+
+Participant 3: Thanks for organizing.
+
+Rohan Alexander: Thank you very much for all your time and hope that you have a nice evening. Thank you.
+
+Participant 3: Okay, bye-bye.
+
+Participant 1: You too. Bye, thank you. Bye-bye, guys.
