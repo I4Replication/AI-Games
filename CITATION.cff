@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Comparing Human-Only, AI-Assisted, and AI-Led Teams on Assessing Research Reproducibility in Quantitative Social Science"
+version: "0.9.0"
+authors:
+  - family-names: Brodeur
+    given-names: Abel
+    affiliation: "University of Ottawa"
+    orcid: "0000-0002-XXXX-XXXX"
+  - family-names: Valenta
+    given-names: David
+  - family-names: Marcoci
+    given-names: Alexandru
+  - family-names: Aparicio
+    given-names: Juan P.
+  - family-names: Mikola
+    given-names: Derek
+  - family-names: Barbarioli
+    given-names: Bruno
+  - family-names: Alexander
+    given-names: Rohan
+  - family-names: Deer
+    given-names: Lachlan
+  - family-names: Stafford
+    given-names: Tom
+  - family-names: Vilhuber
+    given-names: Lars
+  - family-names: Bensch
+    given-names: Gunther
+date-released: "2025-06-03"
+license: "MIT"
+repository-code: "https://github.com/<username>/AI-paper"
