@@ -131,7 +131,7 @@ make_panel_latex <- function(res, label){
                 "AI-Led              & ", paste(co2, collapse=" & "), " \\\\\n",
                 "                    & ", paste(se2, collapse=" & "), " \\\\\n",
                 "                    & ", paste(ci2, collapse=" & "), " \\\\\n",
-                "\\hline\nControls            & \\multicolumn{2}{c}{\\checkmark} \\\\\n",
+                "\\hline\nControls   & \\checkmark & \\checkmark \\\\\n",
                 "Mean dep. var       & ", paste(y , collapse=" & "), " \\\\\n",
                 "p-val (AI-Assisted vs. AI-Led)    & ", paste(p , collapse=" & "), " \\\\\n",
                 "Obs.                & ", paste(n , collapse=" & "), " \\\\\n\\hline\n")
