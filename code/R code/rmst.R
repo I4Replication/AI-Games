@@ -1,8 +1,8 @@
 ################################################################################
-## 02_rmst_table.R  –  RMST contrasts table                                   ##
+# 02_rmst_table.R  –  RMST contrasts table                                   ##
 ################################################################################
 
-## ── 1. Load & prep ───────────────────────────────────────────────────────────
+# ── 1. Load & prep ───────────────────────────────────────────────────────────
 main <- readRDS("data/AI games.rds") |>
   group_by(branch) |>
   mutate(branch_team_n = row_number()) |>
@@ -17,7 +17,7 @@ lab <- c(
   time2_first_major  = "Minutes to first major error"
 )
 
-## ── 2. Helpers ───────────────────────────────────────────────────────────────
+# ── 2. Helpers ───────────────────────────────────────────────────────────────
 ext <- function(x) {
   data.frame(m_A = x$RMST.arm1$rmst[1], se_A = x$RMST.arm1$rmst[2],
              m_B = x$RMST.arm0$rmst[1], se_B = x$RMST.arm0$rmst[2],
@@ -28,7 +28,7 @@ fp   <- function(p) ifelse(p < .001, "<0.001", formatC(round(p, 3), digits = 3, 
 cell <- function(m, s) sprintf("\\shortstack{%s\\\\(%s)}", fs(m), fs(s))
 cDif <- function(d, p) sprintf("\\shortstack{%s\\\\(%s)}", fs(d), fp(p))
 
-## ── 3. Build table body ──────────────────────────────────────────────────────
+# ── 3. Build table body ──────────────────────────────────────────────────────
 out <- map_dfr(vars, function(v) {
   df <- main %>%
     mutate(event = ifelse(!is.na(.data[[v]]), 1, 0),
@@ -54,7 +54,7 @@ out <- map_dfr(vars, function(v) {
   )
 })
 
-## ── 4. Header names with short-stacks ────────────────────────────────────────
+# ── 4. Header names with short-stacks ────────────────────────────────────────
 names(out) <- c(
   "Variable",
   "Human only",
@@ -65,13 +65,13 @@ names(out) <- c(
   "\\shortstack{AI-Assisted\\\\vs\\\\AI-Led}"
 )
 
-## ── 5. xtable object & alignment ─────────────────────────────────────────────
+# ── 5. xtable object & alignment ─────────────────────────────────────────────
 xt <- xtable(out,
              caption = "Restricted-mean time without success (minutes) and contrasts",
              label   = "tab:rmst")
 align(xt) <- c("l", "l", rep("c", 6))   # ⇒ \begin{tabular}{lcccccc}
 
-## ── 6. Rule lines & note ─────────────────────────────────────────────────────
+# ── 6. Rule lines & note ─────────────────────────────────────────────────────
 add.lines <- list(
   pos = list(-1, 0, nrow(out)),
   command = c("\\hline\\hline\n",
@@ -85,7 +85,7 @@ add.lines <- list(
                      "(7 hours).}\n"))
 )
 
-## ── 7. Generate LaTeX, inject \small, write file ────────────────────────────
+# ── 7. Generate LaTeX, inject \small, write file ────────────────────────────
 dir.create("output/tables", showWarnings = FALSE, recursive = TRUE)
 
 tex_lines <- capture.output(

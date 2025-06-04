@@ -1,7 +1,7 @@
 *==============================================================*
 *  Main table  – Two-panel table
 *==============================================================*
-*cd "~/Dropbox/I4R/AI paper"
+* cd "~/Dropbox/I4R/AI paper"
 use "data/AI games.dta", clear
 
 

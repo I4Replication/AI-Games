@@ -1,6 +1,6 @@
 clear all
 *********************
-*Necessary packages**
+* Necessary packages**
 *********************
 
 local pkgs "reghdfe ftools estout rsource ppmlhdfe"
@@ -50,7 +50,7 @@ do "code/Stata code/error shares.do"
 do "code/Stata code/study 2.do"
 
 
-*Power
+* Power
 rsource, terminator(END_OF_R) rpath("$rpath") ro(--vanilla)
 setwd("~/Dropbox/I4R/AI paper/R code")
 library(haven);

@@ -1,5 +1,5 @@
 ############################################################
-## Density plots – Stata-style kernel estimates in R      ##
+# Density plots – Stata-style kernel estimates in R      
 ############################################################
 # ---- 1. Read data ----
 main <- readRDS("data/AI games.rds")

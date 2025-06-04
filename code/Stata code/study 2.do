@@ -1,7 +1,7 @@
 * ==============================================================
 *   Full controls – Two-tables (Panel A: Study 1)
 * ==============================================================
-*cd "~/Dropbox/I4R/AI paper"
+* cd "~/Dropbox/I4R/AI paper"
 use "data/AI games.dta", clear
 
 gen study=(game==9)
