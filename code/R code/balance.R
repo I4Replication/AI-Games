@@ -1,5 +1,5 @@
 ############################################################
-## BALANCE-TABLE SCRIPT – outputs a LaTeX table           ##
+# BALANCE-TABLE SCRIPT – outputs a LaTeX table           
 ############################################################
 # 2. Read data -------------------------------------------------
 df <- data.frame(readRDS("data/AI games.rds"))

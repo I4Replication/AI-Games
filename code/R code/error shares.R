@@ -1,5 +1,5 @@
 ########################################################################
-##  MAIN SCRIPT – normalised minor / major errors (share within paper)
+#  MAIN SCRIPT – normalised minor / major errors (share within paper)
 ########################################################################
 # ---------- 1. Read data ----------------------------------------------
 main <- readRDS("data/AI games.rds")

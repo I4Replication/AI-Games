@@ -1,10 +1,10 @@
-*cd "~/Dropbox/I4R/AI paper"
+* cd "~/Dropbox/I4R/AI paper"
 
 clear all
 frame rename default main
 import excel "data/AI games.xlsx", sheet("Sheet1") firstrow clear
 
-*this team didnt have R, so they didnt do anything
+* this team didnt have R, so they didnt do anything
 drop if game=="cornell" & team=="4r"
 
 foreach var of varlist game branch paper software attendance max_skill min_skill min_gpt max_gpt min_coding max_coding{
@@ -46,7 +46,7 @@ foreach var of varlist game game2 branch software reproduction min_coding max_co
 		
 }
 
-*Sheffield & Bogota started 15 min late
+* Sheffield & Bogota started 15 min late
 foreach var of varlist time_reproduction time_first_minor time_first_major{
 	
 	replace  `var' = mod(`var', 24*60*60*1000) - hms(0, 15, 0) if game==4 | game==1
@@ -78,7 +78,7 @@ drop N-Y
 
 recode numberofprompts numberoffiles numberofimages numberofwords (.=0)
 replace game=proper(game)
-*this team didnt have R, so they didnt do anything
+* this team didnt have R, so they didnt do anything
 drop if game=="cornell" & team=="4r"
 
 

@@ -1,12 +1,12 @@
-## ---- 1. Read data -----------------------------------------------------------
+# ---- 1. Read data -----------------------------------------------------------
 main <- readRDS("data/AI games.rds")
 
-## ---- 2. Preserve row order & split Panel A ----------------------------------
+# ---- 2. Preserve row order & split Panel A ----------------------------------
 rownames(main) <- 1:nrow(main)
 panelA_data    <- main %>% filter(game != "Virtual 2025")
 rownames(panelA_data) <- 1:nrow(panelA_data)
 
-## ---- 3. Factorise and build FE variables ------------------------------------
+# ---- 3. Factorise and build FE variables ------------------------------------
 factorise_vars <- function(df) {
   df %>% mutate(
     game_software = interaction(game, software, drop = TRUE),
@@ -21,7 +21,7 @@ factorise_vars <- function(df) {
 main        <- factorise_vars(main)
 panelA_data <- factorise_vars(panelA_data)
 
-## ---- 4. Dependent variables --------------------------------------------------
+# ---- 4. Dependent variables --------------------------------------------------
 dep_vars <- c(
   "reproduction", "minor_errors", "major_errors",
   "one_good_robustness", "two_good_robustness",
@@ -30,7 +30,7 @@ dep_vars <- c(
 main        <- main       %>% mutate(across(all_of(dep_vars), as.numeric))
 panelA_data <- panelA_data %>% mutate(across(all_of(dep_vars), as.numeric))
 
-## ---- 5. Fit models -----------------------------------------------------------
+# ---- 5. Fit models -----------------------------------------------------------
 fit_models <- function(df) {
   map(dep_vars, \(dv)
       feols(
@@ -47,7 +47,7 @@ fit_models <- function(df) {
 panelA_models <- fit_models(panelA_data)
 panelB_models <- fit_models(main)
 
-## ---- 6. Helper: joint p-value (AA = AL) --------------------------------------
+# ---- 6. Helper: joint p-value (AA = AL) --------------------------------------
 get_joint_pval <- function(model) {
   out <- tryCatch(
     linearHypothesis(
@@ -60,7 +60,7 @@ get_joint_pval <- function(model) {
   as.numeric(out[2, "Pr(>Chisq)"])
 }
 
-## ---- 7. Extract summary ------------------------------------------------------
+# ---- 7. Extract summary ------------------------------------------------------
 extract_summary <- function(model, dv, df) {
   tidy_df <- broom::tidy(model, conf.int = TRUE) %>%
     filter(term %in% c("branchAI-Assisted", "branchAI-Led"))
@@ -92,7 +92,7 @@ extract_summary <- function(model, dv, df) {
 panelA_res <- map2(panelA_models, dep_vars, extract_summary, df = panelA_data)
 panelB_res <- map2(panelB_models, dep_vars, extract_summary, df = main)
 
-## ---- 8. Significance stars ---------------------------------------------------
+# ---- 8. Significance stars ---------------------------------------------------
 star <- function(p) {
   ifelse(is.na(p), "",
          ifelse(p < .01, "***",
@@ -103,7 +103,7 @@ star <- function(p) {
   )
 }
 
-## ---- 9. Build LaTeX panel ----------------------------------------------------
+# ---- 9. Build LaTeX panel ----------------------------------------------------
 make_panel_latex <- function(res_list, label) {
   
   fmt_num <- \(x) sprintf("%8.3f", x)
@@ -156,7 +156,7 @@ make_panel_latex <- function(res_list, label) {
   out
 }
 
-## ---- 10. Print full LaTeX table ---------------------------------------------
+# ---- 10. Print full LaTeX table ---------------------------------------------
 print_full_table <- function(A, B) {
   cat("\\def\\sym#1{\\ifmmode^{#1}\\else\\(^{#1}\\)\\fi}\n")
   cat("\\begin{tabular}{l*{7}{c}}\n")
@@ -174,7 +174,7 @@ print_full_table <- function(A, B) {
   cat("\\end{tabular}\n")
 }
 
-## ---- 11. Write table to file -----------------------------------------------
+# ---- 11. Write table to file -----------------------------------------------
 dir.create("output/tables", showWarnings = FALSE, recursive = TRUE)
 sink("output/tables/main.tex")
 print_full_table(panelA_res, panelB_res)

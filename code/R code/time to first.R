@@ -1,5 +1,5 @@
 ################################################################################
-## Kaplan–Meier (risk-curve) figures for the AI-Games study                   ##
+# Kaplan–Meier (risk-curve) figures for the AI-Games study                   
 ################################################################################
 # ---- 1. Read & prepare data ---------------------------------------------------
 main <- readRDS("data/AI games.rds") |>

@@ -1,10 +1,10 @@
 ############################################################
-## FULL SCRIPT – outputs a simple LaTeX table like sample ##
+# FULL SCRIPT – outputs a simple LaTeX table like sample ##
 ############################################################
-## 2. Read data -------------------------------------------------
+# 2. Read data -------------------------------------------------
 df <- data.frame(readRDS("data/AI games.rds"))
 
-## 3. Basic prep ------------------------------------------------
+# 3. Basic prep ------------------------------------------------
 df$branch <- as.factor(df$branch)
 branch_labels <- c("1" = "Human-Only",
                    "2" = "AI-Assisted",
