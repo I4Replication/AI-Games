@@ -258,7 +258,7 @@ print_full_latex_table_poilog <- function(panelA_res, panelB_res) {
   cat("\\\\\n")
   cat(make_panel_latex_poilog(panelB_res, "Panel B: Studies I and II combined"))
   cat("\\hline\\hline\n")
-  cat("\\multicolumn{7}{p{0.8\\textwidth}}{\\it{Note:} Standard errors in parentheses, confidence intervals in brackets; human-only branch omitted. The model for One good robustness is not included due to insufficient observations, preventing it from converging. Marginal effects reported for Logit models.}\\\\\n")
+  cat("\\multicolumn{7}{p{0.8\\textwidth}}{\\it{Note:} Standard errors in parentheses, confidence intervals in brackets; human-only group omitted. The model for One good robustness is not included due to insufficient observations, preventing it from converging. Marginal effects reported for Logit models.}\\\\\n")
   cat("\\multicolumn{7}{l}{Controls include number of teammates; game--software, skill, and attendance fixed effects.}\\\\\n")
   cat("\\multicolumn{7}{l}{\\sym{*} \\(p<0.1\\), \\sym{**} \\(p<0.05\\), \\sym{***} \\(p<0.01\\)}\\\\\n")
   cat("\\end{tabular}\n")

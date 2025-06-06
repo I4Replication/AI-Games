@@ -162,17 +162,17 @@ table_body <- kable(final_table,
                     linesep  = "") %>%
   row_spec(1:(nrow(final_table)-1), extra_latex_after = "[1em]") %>%
   add_header_above(c(" " = 1,
-                     "Branches"    = 3,
+                     "Groups"      = 3,
                      "Differences" = 3))
 
 # 13. Write .tex file ----------------------------------------
 cat(
   "\\begin{table}[ht]
   \\centering
-  \\caption{Balance of Team-Level Characteristics by Branch}
+  \\caption{Balance of Team-Level Characteristics by Group}
   \\label{tab:balance_table}
   {\\scriptsize
 ", table_body, "}
-  \\multicolumn{7}{p{0.9\\textwidth}}{\\textit{Note:} Each cell in the first three columns shows the mean (top) and standard deviation (bottom) of the characteristic for the indicated branch. Cells in the last three columns show the mean difference between branches with the corresponding two-sided $t$-test $p$-value in parentheses.}
+  \\multicolumn{7}{p{0.9\\textwidth}}{\\textit{Note:} Each cell in the first three columns shows the mean (top) and standard deviation (bottom) of the characteristic for the indicated group. Cells in the last three columns show the mean difference between groups with the corresponding two-sided $t$-test $p$-value in parentheses.}
 \\end{table}",
   file = "output/tables/balance.tex")

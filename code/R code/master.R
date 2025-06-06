@@ -60,8 +60,8 @@ cat("\n--- Main Table (Power) ---\n")
 source(here::here("code", "R code", "power.R"))
 rm(list = ls())
 
-# ---- 3. Branch Differences Table ----
-cat("\n--- Branch Differences Table ---\n")
+# ---- 3. Group Differences Table ----
+cat("\n--- Group Differences Table ---\n")
 source(here::here("code", "R code", "branches.R"))
 rm(list = ls())
 

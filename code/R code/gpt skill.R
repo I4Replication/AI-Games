@@ -197,7 +197,7 @@ cat(
 \\caption{AI-Assisted and AI-Led Metrics by Experience Level}
 \\label{tab:comparison_experience}
 \\tiny", table_body,"
-\\multicolumn{7}{p{0.9\\textwidth}}{\\it{Note:} Group columns display mean (SD). The two right-most columns show High – Low/Medium differences within each branch, with two-sided Welch \\emph{p}-values in parentheses.}
+\\multicolumn{7}{p{0.9\\textwidth}}{\\it{Note:} Group columns display mean (SD). The two right-most columns show High – Low/Medium differences within each group, with two-sided Welch \\emph{p}-values in parentheses.}
 \\end{table}",
   file = "output/tables/gpt skill.tex"
 )

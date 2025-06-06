@@ -3,7 +3,7 @@
 *********************************************************************/
 
 * -------------------------------------------------------------------
-* 1. Load data and keep only the AI-Assisted branch
+* 1. Load data and keep only the AI-Assisted group
 use "data/AI games.dta", clear
 keep if branch == 2
 

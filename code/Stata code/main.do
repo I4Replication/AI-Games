@@ -76,7 +76,7 @@ estout using "output/tables/main.tex", 																///
       postfoot("\hline\hline"                                												///
                "\multicolumn{8}{l}{\it{Note:} Standard errors in " 											///
                "parentheses, confidence intervals in brackets; " 											///
-               "human-only branch omitted.}\\"               												///
+               "human-only group omitted.}\\"               												///
                "\multicolumn{8}{l}{Controls include number of "    											///
                "teammates; game–software, skill, and attendance "  											///
                "fixed effects.}\\"                           												///

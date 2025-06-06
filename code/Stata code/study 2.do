@@ -36,6 +36,6 @@ estout using "output/tables/study 2.tex", ///
     posthead("\hline") ///
     prefoot("\hline") ///
     postfoot("\hline\hline" ///
-    "\multicolumn{8}{l}{\it{Note:} Standard errors in parentheses, confidence intervals in brackets; human-only branch omitted.}\\" ///
+    "\multicolumn{8}{l}{\it{Note:} Standard errors in parentheses, confidence intervals in brackets; human-only group omitted.}\\" ///
     "\multicolumn{8}{l}{\sym{*} \(p<0.1\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\)}\\" ///
     "\end{tabular}")

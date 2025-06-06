@@ -180,7 +180,7 @@ dir.create("output/tables", recursive = TRUE, showWarnings = FALSE)
 cat(
   "\\begin{table}[ht]
 \\centering
-\\caption{Comparison of Key Metrics by Prompt Levels within AI-Assisted Branch}
+\\caption{Comparison of Key Metrics by Prompt Levels within AI-Assisted Group}
 \\label{tab:comparison_metrics_prompts}
 {\\scriptsize", prompts_table_body,"
 \\multicolumn{4}{p{0.8\\textwidth}}{\\it{Note:} Group columns show mean (SD); the Difference column is Above − Below with a two-sided Welch
