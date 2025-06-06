@@ -117,8 +117,7 @@ estout using "output/tables/logit poisson.tex", append style(tex)  	///
 			 "The model for One good robustness is not included "			///
 			 "due to unsuficient observations, preventing it from "			///
 			 "converging. Marginal effects reported for Logit models.}\\"   ///
-             "\multicolumn{7}{l}{Controls include number of teammates; " 	///
-             "game–software, skill, and attendance fixed effects.}\\"    	///
+               "\multicolumn{7}{l}{Controls include number of teammates; game, software, and game $\times$ software fixed effects; maximum and minimum position skill fixed effects; attendance fixed effects.}\"        ///
              "\multicolumn{7}{l}{\sym{*} \(p<0.1\), \sym{**} \(p<0.05\)," 	///
              " \sym{***} \(p<0.01\)}\\"                                  	///
              "\end{tabular}")                                            	///
