@@ -52,7 +52,7 @@ cat("\n--- Main Table (Error Shares) ---\n")
 source(here::here("code", "R code", "error shares.R"))
 rm(list = ls())
 
-cat("\n--- Main Table (Study 2 Interaction) ---\n")
+cat("\n--- Main Table (Study II Interaction) ---\n")
 source(here::here("code", "R code", "study 2.R"))
 rm(list = ls())
 

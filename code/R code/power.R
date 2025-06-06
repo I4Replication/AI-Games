@@ -1,8 +1,8 @@
 # ===============================================================
 #   Ex-post power for the “AI Games” project   (7 outcome DVs)
 #   -------------------------------------------------------------
-#   • Panel A  = Study 1   (all games except “Virtual 2025”)
-#   • Panel B  = Study 2   (full combined sample)
+#   • Panel A  = Study I   (all games except “Virtual 2025”)
+#   • Panel B  = Study II  (full combined sample)
 #   • Rows     = AI-Assisted power, AI-Led power
 #   • Columns  = 7 dependent variables
 #   • Output   =  output/tables/power_main.tex   (two-sided α = .05)
@@ -117,8 +117,8 @@ run_panel <- function(df, lbl) {
   map_dfr(dep_vars, bootstrap_power, data = df) %>% mutate(Panel = lbl)
 }
 
-panelA_power <- run_panel(panelA_data, "Panel A: Study 1")
-panelB_power <- run_panel(main,        "Panel B: Study 2 (Combined)")
+panelA_power <- run_panel(panelA_data, "Panel A: Study I")
+panelB_power <- run_panel(main,        "Panel B: Studies I and II combined")
 
 # ---- 3  build LaTeX table -------------------------------------------------
 dv_labels <- c(

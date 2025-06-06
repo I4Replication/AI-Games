@@ -8,7 +8,7 @@ use "data/AI games.dta", clear
 egen game_software = group(game software)
 
 ***************************************************************
-* 1. Panel A – Study 1
+* 1. Panel A – Study I
 ***************************************************************
 eststo clear
 local i = 0
@@ -49,7 +49,7 @@ foreach var of varlist                                    ///
 estout using "output/tables/logit poisson.tex", replace style(tex)  ///
     prehead("\def\sym#1{\ifmmode^{#1}\else$begin:math:text$^{#1}$end:math:text$\fi}"    ///
             "\begin{tabular}{l*{6}{c}}" "\hline\hline"                 					///
-            "\multicolumn{7}{l}{\textbf{Panel A: Study 1}}\\"    	   					///
+            "\multicolumn{7}{l}{\textbf{Panel A: Study I}}\\"    	   					///
             "& (1) & (2) & (3) & (4) & (5) & (6)\\")                   					///
     posthead("\hline")                                                 					///
     prefoot("\hline")                                                  					///
@@ -70,7 +70,7 @@ estout using "output/tables/logit poisson.tex", replace style(tex)  ///
                  "p-val (AI-Assisted vs. AI-Led)" "Obs."))
 
 ***************************************************************
-* 2. Panel B – Study 2
+* 2. Panel B – Study II
 ***************************************************************
 eststo clear
 local i = 0
@@ -106,7 +106,7 @@ foreach var of varlist                                    ///
 * --- append the bottom half -------------------------------------------------*
 estout using "output/tables/logit poisson.tex", append style(tex)  	///
     prehead("\hline\\"                                                    	///
-            "\multicolumn{7}{l}{\textbf{Panel B: Study 2 combined}}\\"      ///
+            "\multicolumn{7}{l}{\textbf{Panel B: Studies I and II combined}}\\"      ///
             "& (1) & (2) & (3) & (4) & (5) & (6)\\")                     	///
     posthead("\hline")                                                   	///
     prefoot("\hline")                                                   	///
