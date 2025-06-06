@@ -78,7 +78,7 @@ add.lines <- list(
               "\\hline\\hline\n",
               paste0("\\hline\\hline\n",
                      "\\multicolumn{", ncol(out),
-                     "}{p{\\textwidth}}{\\it Note:~Each cell shows the mean RMST in ",
+                     "}{p{0.6\\textwidth}}{\\it Note:~Each cell shows the mean RMST in ",
                      "minutes with the standard error below in parentheses. Contrast ",
                      "columns present the mean difference with its two-sided ",
                      "\\emph{p}-value below. Times are right-censored at 420 minutes ",
@@ -99,6 +99,6 @@ tex_lines <- capture.output(
 )
 
 tbl_line <- grep("^\\\\begin\\{table\\}", tex_lines)[1]
-tex_lines <- append(tex_lines, "\\small", after = tbl_line)
+tex_lines <- append(tex_lines, "\\tiny", after = tbl_line)
 
 writeLines(tex_lines, "output/tables/rmst.tex")

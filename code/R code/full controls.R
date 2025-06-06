@@ -145,8 +145,8 @@ make_full_latex_table <- function(tables, panel_name="") {
 }
 
 # --- 6. Print/export Panel A and Panel B as two tables ---
-panelA_latex <- make_full_latex_table(panelA_tables, "Panel A: Study 1")
-panelB_latex <- make_full_latex_table(panelB_tables, "Panel B: Study 2 combined")
+panelA_latex <- make_full_latex_table(panelA_tables, "Panel A: Study I")
+panelB_latex <- make_full_latex_table(panelB_tables, "Panel B: Studies I and II combined")
 
 cat(panelA_latex, file = "output/tables/full controls (s1).tex")
 cat(panelB_latex, file = "output/tables/full controls (s2).tex")

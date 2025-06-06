@@ -161,9 +161,9 @@ print_full_table <- function(A, B) {
   cat("\\def\\sym#1{\\ifmmode^{#1}\\else\\(^{#1}\\)\\fi}\n")
   cat("\\begin{tabular}{l*{7}{c}}\n")
   cat("\\hline\\hline\n")
-  cat(make_panel_latex(A, "Panel A: Study 1"))
+  cat(make_panel_latex(A, "Panel A: Study I"))
   cat("\\\\\n")
-  cat(make_panel_latex(B, "Panel B: Study 2 combined"))
+  cat(make_panel_latex(B, "Panel B: Studies I and II combined"))
   cat("\\hline\\hline\n")
   cat("\\multicolumn{8}{l}{\\it{Note:} Standard errors in parentheses; ",
       "confidence intervals in brackets. Human-only branch omitted.}\\\\\n")

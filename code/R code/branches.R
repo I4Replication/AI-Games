@@ -159,4 +159,4 @@ make_latex_table(df, suffix = "", caption_add = "", label_add = "_third")
 
 # =========== TABLE 2: Excluding game 9 ============
 df_no9 <- df %>% filter(game != "Virtual 2025")
-make_latex_table(df_no9, suffix = "_s1", caption_add = " (Study 1)", label_add = "_third_s1")
+make_latex_table(df_no9, suffix = "_s1", caption_add = " (Study I)", label_add = "_third_s1")
