@@ -167,8 +167,7 @@ print_full_table <- function(A, B) {
   cat("\\hline\\hline\n")
   cat("\\multicolumn{8}{l}{\\it{Note:} Standard errors in parentheses; ",
       "confidence intervals in brackets. Human-only group omitted.}\\\\\n")
-  cat("\\multicolumn{8}{l}{Controls: number of teammates; ",
-      "game–software, skill, and attendance fixed effects.}\\\\\n")
+  cat("\\multicolumn{8}{l}{Controls: number of teammates; game-by-software fixed effects; maximum and minimum position skill fixed effects; attendance fixed effects.}\\\\\n")
   cat("\\multicolumn{8}{l}{\\sym{*} $p<0.10$, \\sym{**} $p<0.05$, ",
       "\\sym{***} $p<0.01$}\\\\\n")
   cat("\\end{tabular}\n")

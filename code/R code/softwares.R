@@ -142,7 +142,7 @@ print_full_latex_table_soft <- function(panelA_res, panelB_res) {
   cat(make_panel_latex_soft(panelB_res, "Panel B: Studies I and II combined"))
   cat("\\hline\\hline\n")
   cat("\\multicolumn{8}{l}{\\it{Note:} Standard errors in parentheses, confidence intervals in brackets; human-only group omitted; Stata papers omitted.}\\\\\n")
-  cat("\\multicolumn{8}{l}{Controls include number of teammates; game, skill, and attendance fixed effects.}\\\\\n")
+  cat("\\multicolumn{8}{l}{Controls include number of teammates; game and software fixed effects; maximum and minimum position skill fixed effects; attendance fixed effects.}\\\\\n")
   cat("\\multicolumn{8}{l}{\\sym{*} \\(p<0.1\\), \\sym{**} \\(p<0.05\\), \\sym{***} \\(p<0.01\\)}\\\\\n")
   cat("\\end{tabular}\n")
 }

@@ -84,8 +84,7 @@ estout using "output/tables/softwares.tex", append style(tex) 	///
              "parentheses, confidence intervals in brackets; "         			///
              "human-only group omitted; "				///
 			 "Stata papers omitted.}\\" 		///
-             "\multicolumn{8}{l}{Controls include number of teammates; " 		///
-             "game, skill, and attendance fixed effects.}\\"           			///
+               "\multicolumn{8}{l}{Controls include number of teammates; game and software fixed effects; maximum and minimum position skill fixed effects; attendance fixed effects.}\"           ///
              "\multicolumn{8}{l}{\sym{*} \(p<0.1\), \sym{**} \(p<0.05\), " 		///
              "\sym{***} \(p<0.01\)}\\"                                			///
              "\end{tabular}")                                          			///
