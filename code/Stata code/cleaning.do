@@ -95,7 +95,7 @@ drop follow
 recode prompts files images words (.=0)
 
 label variable game "Game"
-label variable branch "Branch"
+label variable branch "Group"
 label variable team "Team"
 label variable paper "Paper"
 label variable paper_game "Paper in game"

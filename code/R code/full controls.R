@@ -138,7 +138,7 @@ make_full_latex_table <- function(tables, panel_name="") {
   out <- paste0(out, "p-val (AI-Assisted vs. AI-Led)&", paste(pvals, collapse="   &"), "   \\\\\n")
   out <- paste0(out, "Observations        &", paste(nobs, collapse="   &"), "   \\\\\n")
   out <- paste0(out, "\\hline\\hline\n")
-  out <- paste0(out, "\\multicolumn{8}{l}{\\it{Note:} Standard errors in parentheses, confidence intervals in brackets; human-only branch omitted.}\\\\\n")
+  out <- paste0(out, "\\multicolumn{8}{l}{\\it{Note:} Standard errors in parentheses, confidence intervals in brackets; human-only group omitted.}\\\\\n")
   out <- paste0(out, "\\multicolumn{8}{l}{\\sym{*} \\(p<0.1\\), \\sym{**} \\(p<0.05\\), \\sym{***} \\(p<0.01\\)}\\\\\n")
   out <- paste0(out, "\\end{tabular}\n")
   out

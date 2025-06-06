@@ -113,7 +113,7 @@ estout using "output/tables/logit poisson.tex", append style(tex)  	///
     postfoot("\hline\hline"                                              	///
              "\multicolumn{7}{p{0.8\textwidth}}{\it{Note:} "            	///
              "Standard errors in parentheses, confidence intervals "     	///
-             "in brackets; human-only branch omitted. "						///
+             "in brackets; human-only group omitted. "						///
 			 "The model for One good robustness is not included "			///
 			 "due to unsuficient observations, preventing it from "			///
 			 "converging. Marginal effects reported for Logit models.}\\"   ///

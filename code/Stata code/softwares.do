@@ -82,7 +82,7 @@ estout using "output/tables/softwares.tex", append style(tex) 	///
     postfoot("\hline\hline"                                             		///
              "\multicolumn{8}{l}{\it{Note:} Standard errors in "        		///
              "parentheses, confidence intervals in brackets; "         			///
-             "human-only branch omitted; "				///
+             "human-only group omitted; "				///
 			 "Stata papers omitted.}\\" 		///
              "\multicolumn{8}{l}{Controls include number of teammates; " 		///
              "game, skill, and attendance fixed effects.}\\"           			///

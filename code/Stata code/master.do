@@ -60,7 +60,7 @@ q();
 END_OF_R
 
 
-**Branch differencess
+**Group differences
 rsource, terminator(END_OF_R) rpath("$rpath") ro(--vanilla)
 setwd("~/Dropbox/I4R/AI paper/R code")
 library(haven);

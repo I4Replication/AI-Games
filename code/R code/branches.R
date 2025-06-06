@@ -104,8 +104,8 @@ make_latex_table <- function(df, suffix = "", caption_add = "", label_add = "") 
         variable %in% c("Minutes to reproduction",
                         "Minutes to first minor error",
                         "Minutes to first major error"),
-        paste0(sprintf("%.1f", diff_mean), "<br>(", p_fmt, ")"),
-        paste0(sprintf("%.3f", diff_mean), "<br>(", p_fmt, ")")
+        paste0(sprintf("%.1f", diff_mean), "<br>[", p_fmt, "]"),
+        paste0(sprintf("%.3f", diff_mean), "<br>[", p_fmt, "]")
       ),
       comp_col = gsub(" vs ", "_", comparison)
     ) %>%
@@ -149,7 +149,7 @@ make_latex_table <- function(df, suffix = "", caption_add = "", label_add = "") 
     paste0("\\label{tab:comparison_metrics", label_add, "}\n"),
     "{\\scriptsize\n",
     table_body, "\n",
-    "\\multicolumn{7}{p{0.9\\textwidth}}{\\textit{Note:} Standard errors in parentheses for individual branches (Human-only, AI-Assisted, and AI-Led); p-values in parentheses for branch comparisons (Human-Only vs AI-Assisted, Human-Only vs AI-Led, and AI-Assisted vs AI-Led).}}\n",
+    "\\multicolumn{7}{p{0.9\\textwidth}}{\\textit{Note:} Columns 2--4 present means and standard errors in parentheses for individual groups (Human-only, AI-Assisted, and AI-Led); columns 5--7 present differences in means and p-values in brackets for group comparisons (Human-Only vs AI-Assisted, Human-Only vs AI-Led, and AI-Assisted vs AI-Led).}}\n",
     "\\end{table}",
     file = paste0("output/tables/branches", suffix, ".tex"))
 }

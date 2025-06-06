@@ -147,7 +147,7 @@ print_full_latex_table <- function(resA,resB){
   cat(make_panel_latex(resB, "Panel B: Studies I and II combined"))
   cat("\\hline\\hline\n",
       "\\multicolumn{3}{l}{\\it{Note:} Standard errors in",
-      " parentheses, confidence intervals in brackets; human-only branch omitted.}\\\\\n",
+      " parentheses, confidence intervals in brackets; human-only group omitted.}\\\\\n",
       "\\multicolumn{3}{l}{Controls include number of teammates; game–software, skill, and attendance FEs.}\\\\\n",
       "\\multicolumn{3}{l}{\\sym{*} $p<0.1$, \\sym{**} $p<0.05$, \\sym{***} $p<0.01$}\\\\\n",
       "\\end{tabular}\n", sep=" ")

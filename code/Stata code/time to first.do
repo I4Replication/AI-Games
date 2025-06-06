@@ -21,7 +21,7 @@ foreach var of local varlist {
     keep branch_team_n branch `var'
     rename `var' `var'_br
 
-    *** Reshape wide for each branch
+    *** Reshape wide for each group
     reshape wide `var'_br, i(branch_team_n) j(branch)
 
     *** Generate cumulative variables
