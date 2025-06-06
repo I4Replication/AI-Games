@@ -10,6 +10,14 @@
 
 ---
 
+## Getting started
+
+This project relies on the **here** package for resolving file paths. To ensure
+that `here::here()` points to the correct locations, open the R project file
+`AI paper.Rproj` before running any code. Avoid manually setting the working
+directory or sourcing scripts from outside the project folder—doing so can cause
+file loading to fail.
+
 ## 1  |  Project layout
 
 ```
@@ -33,8 +41,9 @@
 
 ### 2.1 R workflow
 
+Open `AI paper.Rproj` to launch the project. From the project root, run
+
 ```r
-# from the repo root
 source("code/R code/master.R")
 ```
 
