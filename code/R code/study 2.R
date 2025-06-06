@@ -1,19 +1,19 @@
 ###############################################################
 #  FULL CONTROLS • Replica estout (Panel A)                   #
 #  ---------------------------------------------------------  #
-#  Estudio 1 vs. Estudio 2 (“Virtual 2025”)                   #
-#  Genera:  output/tables/study_2.tex                         #
+#  Study I vs. Study II (“Virtual 2025”)                      #
+#  Generates:  output/tables/study_2.tex                      #
 ###############################################################
 
 if (!requireNamespace("pacman", quietly = TRUE)) install.packages("pacman")
 pacman::p_load(dplyr, fixest, car, broom, glue, stringr)
 
-# ---- 1. Leer y preparar datos -------------------------------------------
+# ---- 1. Read and prep data ----------------------------------------------
 df <- readRDS("data/AI games.rds") |>
   mutate(
     study_f = factor(game == "Virtual 2025",
                      levels = c(FALSE, TRUE),
-                     labels = c("Study 1", "Study 2")),
+                     labels = c("Study I", "Study II")),
     branch  = relevel(factor(branch), "Human-Only"),
     game_software = interaction(game, software, drop = TRUE),
     across(c(max_skill, min_skill, attendance), as.factor)
@@ -25,7 +25,7 @@ dep_vars <- c(
   "ran_one_robustness","ran_two_robustness"
 )
 
-# ---- 2. Auxiliares -------------------------------------------------------
+# ---- 2. Helpers ----------------------------------------------------------
 fmt      <- \(x) sprintf("% .3f", x)
 fmt_ci   <- \(lo, hi) sprintf("[% .3f; % .3f]", lo, hi)
 star     <- \(p) ifelse(is.na(p),"",
@@ -47,7 +47,7 @@ summ <- function(m,dv){
   td <- broom::tidy(m, conf.int = TRUE)
   
   tibble(
-    # Principales (Study 1)
+    # Main effects (Study I)
     b_aa  = pick(td,"branchAI.*Assisted$",estimate),
     se_aa = pick(td,"branchAI.*Assisted$",std.error),
     lo_aa = pick(td,"branchAI.*Assisted$",conf.low),
@@ -60,7 +60,7 @@ summ <- function(m,dv){
     hi_al = pick(td,"branchAI.*Led$",conf.high),
     p_al  = pick(td,"branchAI.*Led$",p.value),
     
-    # Interacciones con Study 2
+    # Interactions with Study II
     b_iaa  = pick(td,"branchAI.*Assisted:study_fStudy 2$",estimate),
     se_iaa = pick(td,"branchAI.*Assisted:study_fStudy 2$",std.error),
     lo_iaa = pick(td,"branchAI.*Assisted:study_fStudy 2$",conf.low),
@@ -79,7 +79,7 @@ summ <- function(m,dv){
   )
 }
 
-# ---- 3. Estimar modelos ---------------------------------------------------
+# ---- 3. Estimate models --------------------------------------------------
 models <- lapply(dep_vars, \(dv)
                  feols(
                    as.formula(glue(
@@ -89,7 +89,7 @@ models <- lapply(dep_vars, \(dv)
 )
 res <- Map(summ, models, dep_vars)
 
-# ---- 4. Construir tabla LaTeX --------------------------------------------
+# ---- 4. Build LaTeX table ------------------------------------------------
 col_labels <- c(
   "Reproduction",
   "\\shortstack[c]{Minor\\\\errors}",
@@ -133,7 +133,7 @@ body <- c(
   row("Observations",                 sapply(res,\(x) x$N))
 )
 
-# ---- 5. Guardar archivo .tex ---------------------------------------------
+# ---- 5. Save .tex file ---------------------------------------------------
 dir.create("output/tables", recursive = TRUE, showWarnings = FALSE)
 outfile <- "output/tables/study 2.tex"
 

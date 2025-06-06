@@ -13,7 +13,7 @@ generate major_errors_norm = major_errors/max_major
 
 
 ******************************************************************************
-* 1. Panel A – Study 1
+* 1. Panel A – Study I
 ******************************************************************************
 eststo clear
 local i = 0
@@ -34,7 +34,7 @@ estout using "output/tables/error_shares.tex", 															///
       replace style(tex)                                        			 								///
       prehead("\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}"													///
               "\begin{tabular}{l*{7}{c}}" "\hline\hline"    												///
-              "\multicolumn{8}{l}{\textbf{Panel A: Study 1}}\\" 											///
+              "\multicolumn{8}{l}{\textbf{Panel A: Study I}}\\" 											///
               "& (1) & (2) & (3) & (4) & (5) & (6) & (7)\\") 												///
       posthead("\hline")                                        											///
       prefoot("\hline")																						///
@@ -53,7 +53,7 @@ estout using "output/tables/error_shares.tex", 															///
                    "p-val (AI-Assisted vs. AI-Led)" "Obs."))
 
 ******************************************************************************
-* 2. Panel B – Study 2
+* 2. Panel B – Study II
 ******************************************************************************
 
 eststo clear
@@ -74,7 +74,7 @@ foreach var of varlist minor_errors_norm major_errors_norm {
 estout using "output/tables/error_shares.tex", 																///
       append style(tex)                                      												///
       prehead("\hline\\"																					///
-			  "\multicolumn{8}{l}{\textbf{Panel B: Study 2 combined}}\\" 									///
+			  "\multicolumn{8}{l}{\textbf{Panel B: Studies I and II combined}}\\" 									///
               "& (1) & (2) & (3) & (4) & (5) & (6) & (7)\\") 												///
       posthead("\hline")                                     												///
       postfoot("\hline\hline"                                												///

@@ -18,7 +18,7 @@ foreach var of varlist branch game software max_skill min_skill attendance{
 }
 
 ***************************************************************
-* 1. Panel A – Study 1
+* 1. Panel A – Study I
 ***************************************************************
 eststo clear
 local i =0
@@ -54,7 +54,7 @@ estout using "output/tables/full controls (s1).tex", ///
 
 	
 ***************************************************************
-* 2. Panel B – Study 2
+* 2. Panel B – Study II
 ***************************************************************	
 	
 eststo clear

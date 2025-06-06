@@ -1,21 +1,21 @@
 * ==============================================================
-*   Full controls – Two-tables (Panel A: Study 1)
+*   Full controls – Two-tables (Panel A: Study I)
 * ==============================================================
 * cd "~/Dropbox/I4R/AI paper"
 use "data/AI games.dta", clear
 
 gen study=(game==9)
-label define study_lbl 0 "Study 1" 1 "Study 2"
+label define study_lbl 0 "Study I" 1 "Study II"
 label values study study_lbl
 
 ***************************************************************
-* 1. Panel A – Study 1
+* 1. Panel A – Study I
 ***************************************************************
 eststo clear
 local i = 0
 foreach var of varlist reproduction minor_errors major_errors one_good_robustness two_good_robustness ran_one_robustness ran_two_robustness {
 	local i = `i' + 1
-	* Regresión con controles completos para Study 1 (game != 9)
+        * Regression with full controls for Study I (game != 9)
 	eststo: reghdfe `var' i.branch##i.study number_teammates, a(i.game##i.software i.max_skill i.min_skill i.attendance) vce(r)
 	estadd ysumm
 	test (2.branch - 3.branch = 0)
@@ -23,7 +23,7 @@ foreach var of varlist reproduction minor_errors major_errors one_good_robustnes
 	estadd scalar pval=`try': est`i'
 }
 
-* --- Exporta tabla tipo estout en LaTeX ---
+* --- Export estout table to LaTeX ---
 estout using "output/tables/study 2.tex", ///
     cells(b(fmt(%9.3f) star label("")) se(par fmt(%9.3f)) ci(par("[" "; " "]") fmt(%9.3f))) ///
     drop(1.branch* *0.* 1.study number_teammates _cons) ///
