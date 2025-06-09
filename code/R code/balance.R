@@ -174,6 +174,7 @@ cat(
   \\label{tab:balance_table}
   {\\scriptsize
 ", table_body, "}
-  \multicolumn{7}{p{0.9\textwidth}}{\textit{Note:} Columns 2--4 present means and standard errors in parentheses for individual groups (Human-only, AI-Assisted, and AI-Led); the difference columns show mean differences and $p$-values in brackets for the indicated group comparisons.}
-\\end{table}",
-  file = "output/tables/balance.tex")
+  \\multicolumn{7}{p{0.9\\textwidth}}{\\textit{Note:} Columns 2--4 present means and standard errors in parentheses for individual groups (Human-only, AI-Assisted, and AI-Led); columns 5--7 show mean differences and $p$-values in brackets for the indicated group comparisons.}
+  \\end{table}",
+  file = "output/tables/balance.tex"
+)

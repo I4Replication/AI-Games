@@ -193,11 +193,15 @@ table_body <- kable(latex_df,
 dir.create("output/tables", recursive = TRUE, showWarnings = FALSE)
 
 cat(
-  "\\begin{table}[ht]
-\\centering
-\\caption{AI-Assisted and AI-Led Metrics by Experience Level}
-\\label{tab:comparison_experience}
-\\tiny", table_body,"
-\multicolumn{7}{p{0.9\textwidth}}{\it{Note:} Columns 2--5 present means and standard errors in parentheses for individual groups (Human-only, AI-Assisted, and AI-Led); the difference columns show mean differences and $p$-values in brackets for the indicated group comparisons.}
-\\end{table}",
+  "\\begin{table}[ht]\n",
+  "\\centering\n",
+  "\\caption{AI-Assisted and AI-Led Metrics by Experience Level}\n",
+  "\\label{tab:comparison_experience}\n",
+  "{\\tiny\n",
+  table_body, "\n",
+  "}\n",
+  "\\\\\n",
+  "\\multicolumn{7}{p{0.9\\textwidth}}{\\textit{Note:} Columns 2--5 present means and standard errors in parentheses for individual groups (Human-only, AI-Assisted, and AI-Led); columns 6--7 show mean differences and $p$-values in brackets for the indicated group comparisons.}\n",
+  "\\end{table}",
+  file = "output/tables/gpt skill.tex"
 )

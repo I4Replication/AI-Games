@@ -17,7 +17,7 @@ pkgs <- c(
   "fixest", "purrr", "broom", "tibble", "car", "margins",
   "sandwich", "lmtest", "multcomp", "kableExtra",
   "ggplot2", "patchwork", "modelsummary",
-  "ggsurvfit", "survRM2", "xtable"
+  "ggsurvfit", "survRM2", "xtable", "glue"
 )
 pacman::p_load(char = pkgs, install = TRUE, character.only = TRUE)
 

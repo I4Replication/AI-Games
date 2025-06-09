@@ -148,13 +148,14 @@ print_full_latex_table <- function(resA,resB){
   cat("\\hline\\hline\n",
       "\\multicolumn{3}{l}{\\it{Note:} Standard errors in",
       " parentheses, confidence intervals in brackets; human-only group omitted.}\\\\\n",
-      "\\multicolumn{3}{l}{Controls include number of teammates; game-by-software fixed effects; maximum and minimum position skill fixed effects; attendance fixed effects.}\\\\\n",
+      "\\multicolumn{3}{l}{Controls include number of teammates; game-by-software fixed effects; maximum and minimum }\\\\\n",
+      "\\multicolumn{3}{l}{position skill fixed effects; attendance fixed effects.}\\\\\n",
       "\\multicolumn{3}{l}{\\sym{*} $p<0.1$, \\sym{**} $p<0.05$, \\sym{***} $p<0.01$}\\\\\n",
       "\\end{tabular}\n", sep=" ")
 }
 
 # ---------- 9. Save LaTeX ---------------------------------------------
 dir.create("output/tables", showWarnings = FALSE, recursive = TRUE)
-sink("output/tables/error_shares.tex")
+sink("output/tables/error shares.tex")
 print_full_latex_table(panelA_res, panelB_res)
 sink()
