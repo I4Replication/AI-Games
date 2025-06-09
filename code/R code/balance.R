@@ -126,7 +126,8 @@ diff_df <- diff_df %>%
   mutate(p_fmt = ifelse(is.na(p_value),"NA",
                         ifelse(p_value<0.001,"\\textless0.001",
                                sprintf("%.3f",p_value))),
-         diff_p = paste0(sprintf("%.3f", diff_mean), "<br>(", p_fmt, ")"),
+         # Add \relax so [ is not parsed as an optional argument
+         diff_p = paste0(sprintf("%.3f", diff_mean), "<br>\\relax[", p_fmt, "]"),
          comp_col = gsub(" vs ", "_", comparison)) %>%
   dplyr::select(variable, comp_col, diff_p) %>%
   pivot_wider(names_from = comp_col, values_from = diff_p)
@@ -173,6 +174,6 @@ cat(
   \\label{tab:balance_table}
   {\\scriptsize
 ", table_body, "}
-  \\multicolumn{7}{p{0.9\\textwidth}}{\\textit{Note:} Each cell in the first three columns shows the mean (top) and standard deviation (bottom) of the characteristic for the indicated group. Cells in the last three columns show the mean difference between groups with the corresponding two-sided $t$-test $p$-value in parentheses.}
+  \multicolumn{7}{p{0.9\textwidth}}{\textit{Note:} Columns 2--4 present means and standard errors in parentheses for individual groups (Human-only, AI-Assisted, and AI-Led); the difference columns show mean differences and $p$-values in brackets for the indicated group comparisons.}
 \\end{table}",
   file = "output/tables/balance.tex")

@@ -119,7 +119,8 @@ diff_p_df <- diff_p_df %>%
     p_fmt    = ifelse(is.na(pval), "NA",
                       ifelse(pval < 0.001, "<0.001",
                              sprintf("%.3f", pval))),
-    diff_p   = paste0(diff_fmt, "<br>(", p_fmt, ")")
+    # Add \relax so [ is not parsed as an optional argument
+    diff_p   = paste0(diff_fmt, "<br>\\relax[", p_fmt, "]")
   ) %>% 
   dplyr::select(variable, diff_p)    # ← note the namespace
 
@@ -183,8 +184,7 @@ cat(
 \\caption{Comparison of Key Metrics by Prompt Levels within AI-Assisted Group}
 \\label{tab:comparison_metrics_prompts}
 {\\scriptsize", prompts_table_body,"
-\\multicolumn{4}{p{0.8\\textwidth}}{\\it{Note:} Group columns show mean (SD); the Difference column is Above − Below with a two-sided Welch
-\\emph{p}-value in parentheses. Groups are defined by the median number of prompts (", prompts_median, ") in the AI-Assisted sample.}}
+\multicolumn{4}{p{0.8\textwidth}}{\it{Note:} Columns 2--3 present means and standard errors in parentheses for individual groups (Human-only, AI-Assisted, and AI-Led); the Difference column shows mean differences and $p$-values in brackets for the indicated group comparison. Groups are defined by the median number of prompts (", prompts_median, ") in the AI-Assisted sample.}}
 \\end{table}",
   file = "output/tables/prompts.tex"
 )
