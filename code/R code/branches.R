@@ -104,8 +104,8 @@ make_latex_table <- function(df, suffix = "", caption_add = "", label_add = "") 
         variable %in% c("Minutes to reproduction",
                         "Minutes to first minor error",
                         "Minutes to first major error"),
-        paste0(sprintf("%.1f", diff_mean), "<br>[", p_fmt, "]"),
-        paste0(sprintf("%.3f", diff_mean), "<br>[", p_fmt, "]")
+        paste0(sprintf("%.1f", diff_mean), "<br>\\relax[", p_fmt, "]"),
+        paste0(sprintf("%.3f", diff_mean), "<br>\\relax[", p_fmt, "]")
       ),
       comp_col = gsub(" vs ", "_", comparison)
     ) %>%
