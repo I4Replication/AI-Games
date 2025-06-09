@@ -2,11 +2,8 @@
 #  FULL CONTROLS • Replica estout (Panel A)                   #
 #  ---------------------------------------------------------  #
 #  Study I vs. Study II (“Virtual 2025”)                      #
-#  Generates:  output/tables/study_2.tex                      #
+#  Generates:  output/tables/study 2.tex                      #
 ###############################################################
-
-if (!requireNamespace("pacman", quietly = TRUE)) install.packages("pacman")
-pacman::p_load(dplyr, fixest, car, broom, glue, stringr)
 
 # ---- 1. Read and prep data ----------------------------------------------
 df <- readRDS("data/AI games.rds") |>
@@ -61,17 +58,17 @@ summ <- function(m,dv){
     p_al  = pick(td,"branchAI.*Led$",p.value),
     
     # Interactions with Study II
-    b_iaa  = pick(td,"branchAI.*Assisted:study_fStudy 2$",estimate),
-    se_iaa = pick(td,"branchAI.*Assisted:study_fStudy 2$",std.error),
-    lo_iaa = pick(td,"branchAI.*Assisted:study_fStudy 2$",conf.low),
-    hi_iaa = pick(td,"branchAI.*Assisted:study_fStudy 2$",conf.high),
-    p_iaa  = pick(td,"branchAI.*Assisted:study_fStudy 2$",p.value),
+    b_iaa  = pick(td,"branchAI.*Assisted:study_fStudy II$",estimate),
+    se_iaa = pick(td,"branchAI.*Assisted:study_fStudy II$",std.error),
+    lo_iaa = pick(td,"branchAI.*Assisted:study_fStudy II$",conf.low),
+    hi_iaa = pick(td,"branchAI.*Assisted:study_fStudy II$",conf.high),
+    p_iaa  = pick(td,"branchAI.*Assisted:study_fStudy II$",p.value),
     
-    b_ial  = pick(td,"branchAI.*Led:study_fStudy 2",estimate),
-    se_ial = pick(td,"branchAI.*Led:study_fStudy 2",std.error),
-    lo_ial = pick(td,"branchAI.*Led:study_fStudy 2",conf.low),
-    hi_ial = pick(td,"branchAI.*Led:study_fStudy 2",conf.high),
-    p_ial  = pick(td,"branchAI.*Led:study_fStudy 2",p.value),
+    b_ial  = pick(td,"branchAI.*Led:study_fStudy II$",estimate),
+    se_ial = pick(td,"branchAI.*Led:study_fStudy II$",std.error),
+    lo_ial = pick(td,"branchAI.*Led:study_fStudy II$",conf.low),
+    hi_ial = pick(td,"branchAI.*Led:study_fStudy II$",conf.high),
+    p_ial  = pick(td,"branchAI.*Led:study_fStudy II$",p.value),
     
     ymean = mean(df[[dv]], na.rm = TRUE),
     N     = nobs(m),

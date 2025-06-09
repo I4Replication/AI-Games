@@ -45,7 +45,7 @@ Obs.                &137   &132   &118   &137   &137   &137   \\
 \hline
 \hline\hline
 \multicolumn{7}{p{0.8\textwidth}}{\it{Note:} Standard errors in parentheses, confidence intervals in brackets; human-only group omitted. The model for One good robustness is not included due to insufficient observations, preventing it from converging. Marginal effects reported for Logit models.}\\
-\multicolumn{7}{l}{Controls include number of teammates; game--software, skill, and attendance fixed effects.}\\
+\multicolumn{7}{l}{Controls include number of teammates; game-by-software fixed effects; maximum and minimum position skill fixed effects; attendance fixed effects.}\\
 \multicolumn{7}{l}{\sym{*} \(p<0.1\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\)}\\
 \end{tabular}
 
