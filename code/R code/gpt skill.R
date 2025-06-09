@@ -115,7 +115,8 @@ fmt_diff_p <- function(diff, p, minutes = FALSE){
   diff_out <- ifelse(minutes, sprintf("%.1f", diff), sprintf("%.3f", diff))
   p_out    <- ifelse(is.na(p), "NA",
                      ifelse(p < 0.001, "<0.001", sprintf("%.3f", p)))
-  paste0(diff_out, "<br>(", p_out, ")")
+  # Add \relax so [ is not parsed as an optional argument
+  paste0(diff_out, "<br>\\relax[", p_out, "]")
 }
 
 diff_df <- diff_list %>% 
@@ -197,7 +198,6 @@ cat(
 \\caption{AI-Assisted and AI-Led Metrics by Experience Level}
 \\label{tab:comparison_experience}
 \\tiny", table_body,"
-\\multicolumn{7}{p{0.9\\textwidth}}{\\it{Note:} Group columns display mean (SD). The two right-most columns show High – Low/Medium differences within each group, with two-sided Welch \\emph{p}-values in parentheses.}
+\multicolumn{7}{p{0.9\textwidth}}{\it{Note:} Columns 2--5 present means and standard errors in parentheses for individual groups (Human-only, AI-Assisted, and AI-Led); the difference columns show mean differences and $p$-values in brackets for the indicated group comparisons.}
 \\end{table}",
-  file = "output/tables/gpt skill.tex"
 )
