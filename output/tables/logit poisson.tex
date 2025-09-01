@@ -1,0 +1,24 @@
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\begin{tabular}{l*{6}{c}}
+\hline\hline
+& (1) & (2) & (3) & (4) & (5) & (6)\\
+                    &Reproduction   &\shortstack[c]{Minor\\errors}   &\shortstack[c]{Major\\errors}   &\shortstack[c]{Two good\\robustness}   &\shortstack[c]{Ran one\\robustness}   &\shortstack[c]{Ran two\\robustness}    \\
+\hline
+AI-Assisted         &   -0.724 &   -0.454 &   -0.667 &   -0.388 &   -0.959 &   -0.025 \\
+                    & (   1.124) & (   0.216) & (   0.302) & (   1.202) & (   1.758) & (   0.949) \\
+                    & [  -2.928;    1.479] & [  -0.877;   -0.031] & [  -1.259;   -0.075] & [  -2.743;    1.968] & [  -4.405;    2.487] & [  -1.886;    1.835] \\
+AI-Led              &   -6.478 &   -1.177 &   -1.802 &   -2.480 &   -3.701 &   -1.777 \\
+                    & (   1.648) & (   0.228) & (   0.422) & (   1.227) & (   1.280) & (   0.926) \\
+                    & [  -9.709;   -3.247] & [  -1.625;   -0.729] & [  -2.630;   -0.974] & [  -4.885;   -0.075] & [  -6.209;   -1.192] & [  -3.591;    0.037] \\
+\hline
+Model               & Logit   &Poisson   &Poisson   &Logit   &Logit   &Logit    \\
+Controls            & \checkmark & \checkmark & \checkmark & \checkmark & \checkmark & \checkmark \\
+Mean of dep. var    &    0.738 &    0.969 &    0.750 &    0.786 &    0.816 &    0.680 \\
+p-val (AI-Assisted vs. AI-Led)&    0.002 &    0.009 &    0.014 &    0.049 &    0.129 &    0.024 \\
+Obs.                & 103   &98   &84   &103   &103   &103    \\
+\hline
+\hline
+\multicolumn{7}{p{0.8\textwidth}}{\it{Note:} Standard errors in parentheses, confidence intervals in brackets; human-only group omitted. Marginal effects reported for Logit models.}\\
+\multicolumn{7}{l}{Controls include number of teammates; game-by-software fixed effects; maximum and minimum position skill fixed effects; attendance fixed effects.}\\
+\multicolumn{7}{l}{\sym{*} \(p<0.1\), \sym{**} \(p<0.05\), \sym{***} \(p<0.01\)}\\
+\end{tabular}

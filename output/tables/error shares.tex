@@ -1,0 +1,23 @@
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\begin{tabular}{l*{2}{c}}
+\hline\hline
+& (1) & (2) \\
+                    & Minor errors & Major errors \\
+\hline
+AI-Assisted         &  -0.521 & -0.668  \\
+                    &  ( 0.268) & ( 0.256)  \\
+                    &  [-1.055;  0.014] & [-1.177; -0.158]  \\
+AI-Led              &  -0.968 & -1.082  \\
+                    &  ( 0.251) & ( 0.232)  \\
+                    &  [-1.468; -0.467] & [-1.544; -0.620]  \\
+\hline
+Controls   & \checkmark & \checkmark \\
+Mean dep. var       &   0.951 &  0.728  \\
+p-val (AI-Assisted vs. AI-Led)    &   0.029 &  0.044  \\
+Obs.                &  103 & 103  \\
+\hline
+\hline
+ \multicolumn{3}{l}{\it{Note:} Standard errors in  parentheses, confidence intervals in brackets; human-only group omitted.}\\
+ \multicolumn{3}{l}{Controls include number of teammates; game-by-software fixed effects; maximum and minimum position skill fixed effects; attendance fixed effects.}\\
+ \multicolumn{3}{l}{\sym{*} $p<0.1$, \sym{**} $p<0.05$, \sym{***} $p<0.01$}\\
+ \end{tabular}

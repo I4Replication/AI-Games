@@ -1,0 +1,33 @@
+=== MASTER S1 LOG START ===
+
+--- Cleaning raw data ---
+
+--- Main Table (OLS, S1) ---
+
+--- Main Table (Logit/Poisson, S1) ---
+
+--- Full Controls (S1 only) ---
+
+--- Softwares (S1 only) ---
+
+--- Error Shares (S1 only) ---
+
+--- Power (S1 only) ---
+
+--- Group Differences (S1 filtered) ---
+
+--- Balance (S1 filtered) ---
+
+--- GPT Skill (S1 filtered) ---
+
+--- Prompts (S1 filtered) ---
+
+--- RMST (S1 filtered) ---
+
+--- Figures: Time to First (S1 only) ---
+
+--- Figures: Reproduction Rates (S1 only) ---
+
+--- Figure: Prompt Distribution (S1 filtered) ---
+
+=== MASTER S1 LOG END ===
